@@ -1,0 +1,3 @@
+[submodule "taikotools"]
+	path = taikotools
+	url = https://github.com/mariodon/taikotools
