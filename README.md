@@ -22,7 +22,7 @@ An attempt to create an English patch for Tales of Innocence R.
 ![L7CA_header](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/L7CA_decrypted.png)
 
 
-## Hacker Note 2
+## Hacker Note 2 (Outdated)
 
 1. Compile `psvita-l7ctool.exe` from the taikotools submodule and run this command: `psvita-l7ctool.exe x toidata_release.l7c`
 2. You'll get a message `This archive type is unsupported and most likely won't unpack properly.`
@@ -31,9 +31,9 @@ An attempt to create an English patch for Tales of Innocence R.
 ## Hacker Note 3
 
 1. Skip Hacker Note 2
-2. Get Kuriimu2 from https://github.com/FanTranslatorsInternational/Kuriimu2/releases/tag/1.2.0
+2. Get `Kuriimu2` from https://github.com/FanTranslatorsInternational/Kuriimu2/releases/tag/1.2.0
 3. Install .NET Core 3.1 Runtime
-4. Open `Kuriimu2.exe` and go to File > Open with Plugin
+4. Open `Kuriimu2.exe` and go to File > Open with Plugin > plugin_bandai_namco.dll > L7C > OK
 5. Select `toidata_release.l7c` (decrypted from Hacker Note 1)
 6. Right-click `_Data` and extract all.
 7. View files in `UTF-8` to get readable Japanese
