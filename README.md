@@ -2,6 +2,8 @@
 
 An attempt to create an English patch for Tales of Innocence R.
 
+![ToIR](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/toir.png)
+
 ## Hacker Note 1
 
 1. Get `pkg2zip` https://github.com/mmozeiko/pkg2zip and `psvpfstools` https://github.com/motoharu-gosuto/psvpfstools
