@@ -27,4 +27,13 @@ An attempt to create an English patch for Tales of Innocence R.
 1. Compile `psvita-l7ctool.exe` from the taikotools submodule and run this command: `psvita-l7ctool.exe x toidata_release.l7c`
 2. You'll get a message `This archive type is unsupported and most likely won't unpack properly.`
 3. Files get extracted anyway, not sure if extracted correctly though: `_Data/Battle/Effect/00.pck`
-4. View files in `UTF-8` to get readable Japanese
+
+## Hacker Note 3
+
+1. Skip Hacker Note 2
+2. Get Kuriimu2 from https://github.com/FanTranslatorsInternational/Kuriimu2/releases/tag/1.2.0
+3. Install .NET Core 3.1 Runtime
+4. Open `Kuriimu2.exe` and go to File > Open with Plugin
+5. Select `toidata_release.l7c` (decrypted from Hacker Note 1)
+6. Right-click `_Data` and extract all.
+7. View files in `UTF-8` to get readable Japanese
