@@ -1,3 +1,6 @@
 [submodule "taikotools"]
 	path = taikotools
 	url = https://github.com/mariodon/taikotools
+[submodule "Kuriimu2"]
+	path = Kuriimu2
+	url = https://github.com/FanTranslatorsInternational/Kuriimu2.git
