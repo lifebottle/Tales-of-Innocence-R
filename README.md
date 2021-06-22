@@ -54,8 +54,8 @@ An attempt to create an English patch for Tales of Innocence R.
 13. new line `0A`
 
 ## Credits
-Thanks to Ethanol for basically everything
-Thanks to LT for for basically everything
-https://github.com/FanTranslatorsInternational/Kuriimu2
-https://github.com/onepiecefreak3/taikotools
-https://github.com/mariodon/taikotools
+Thanks to Ethanol for basically everything  
+Thanks to LT for for basically everything  
+https://github.com/FanTranslatorsInternational/Kuriimu2  
+https://github.com/onepiecefreak3/taikotools  
+https://github.com/mariodon/taikotools  
