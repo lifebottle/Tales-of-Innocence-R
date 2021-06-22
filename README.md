@@ -4,6 +4,11 @@ An attempt to create an English patch for Tales of Innocence R.
 
 ![ToIR](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/toir.png)
 
+Discord: https://discord.gg/tmDgBDNPpE  
+
+Spreadsheet: https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/edit?usp=sharing  
+
+
 ## Hacker Note 1
 
 1. Get `pkg2zip` https://github.com/mmozeiko/pkg2zip 
