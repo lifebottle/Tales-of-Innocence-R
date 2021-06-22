@@ -37,3 +37,25 @@ An attempt to create an English patch for Tales of Innocence R.
 5. Select `toidata_release.l7c` (decrypted from Hacker Note 1)
 6. Right-click `_Data` and extract all.
 7. View files in `UTF-8` to get readable Japanese
+
+## Hacker Note 4
+1. ItemDataPack.dat = item name and description
+2. ArtsDataPack.dat - Magic
+3. EnemyParam = artes names, enemy names
+4. BattleBookDataPack.dat seems to be tutorial ( and also end of battle pop ups ?)
+5. these DAT files are easy enough that you could just write a simple Python script that extracts/inserts the text, Python can decode/encode UTF-8 natively
+6. first a 32-bit word that represents the number of "sub sections" or whatever you want to call them. then, starting from offset 0x10, there is a list of offset/size pairs that describes the sub sections. each sub section then contains a sequence of records. the records contain the text (besides others).
+7. the size of a record is always the same within a sub section, but can be different between different sub sections
+8. get from virtual address to offset in the file you'd need to subtract `0x80FFF000`
+9. you only substract the offset to the text section from the base virtual address
+10. `abcde`: if it uses 32-bit math you could try `7F001000` (positive)
+11. `0x175AEC` at this offset there's a pointer to some text
+12. the pointers where the lower 16 and upper 16 bits are a few instructions apart, because they're embedded into the code, and you need to extract the values from the instruction encoding (which abcde probably can't do)
+13. new line `0A`
+
+## Credits
+Thanks to Ethanol for basically everything
+Thanks to LT for for basically everything
+https://github.com/FanTranslatorsInternational/Kuriimu2
+https://github.com/onepiecefreak3/taikotools
+https://github.com/mariodon/taikotools

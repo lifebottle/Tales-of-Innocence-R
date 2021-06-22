@@ -1,0 +1,76 @@
+//GAME NAME:        TOI
+
+// Define required TABLE variables and load the corresponding tables
+#VAR(Table_0, TABLE)
+#ADDTBL("C:\build\romhacking\innocence-r\ascii.tbl", Table_0)
+
+//BLOCK #000 NAME:        test
+#ACTIVETBL(Table_0) // Activate this block's starting TABLE
+
+#JMP($162340, $1623AD) // Jump to insertion point
+#HDR($-80FFF000) // Difference between ROM and RAM addresses for pointer value calculations
+
+//POINTER #0 @ $175B18 - STRING #0 @ $162340
+#W32($175B18)
+UseItem[END]
+// current address: $162348
+
+//POINTER #1 @ $175B1C - STRING #1 @ $162348
+#W32($175B1C)
+Weapon[END]
+// current address: $16234F
+
+//POINTER #2 @ $175B20 - STRING #2 @ $162350
+#W32($175B20)
+Armor[END]
+// current address: $162356
+
+//POINTER #3 @ $175B24 - STRING #3 @ $162358
+#W32($175B24)
+Helm[END]
+// current address: $16235D
+
+//POINTER #4 @ $175B28 - STRING #4 @ $162360
+#W32($175B28)
+Accessory[END]
+// current address: $16236A
+
+//POINTER #5 @ $175B2C - STRING #5 @ $16236C
+#W32($175B2C)
+Material[END]
+// current address: $162375
+
+//POINTER #6 @ $175B30 - STRING #6 @ $162378
+#W32($175B30)
+Event[END]
+// current address: $16237E
+
+//POINTER #7 @ $175B34 - STRING #7 @ $162380
+#W32($175B34)
+DLC[END]
+// current address: $162384
+
+//POINTER #8 @ $175B38 - STRING #8 @ $162384
+#W32($175B38)
+New[END]
+// current address: $162388
+
+//POINTER #9 @ $175B3C - STRING #9 @ $162388
+#W32($175B3C)
+CodeName[END]
+// current address: $162391
+
+//POINTER #10 @ $175B40 - STRING #10 @ $162394
+#W32($175B40)
+Recipe[END]
+// current address: $16239B
+
+//POINTER #11 @ $175B44 - STRING #11 @ $16239C
+#W32($175B44)
+Rave[END]
+// current address: $1623A1
+
+//POINTER #12 @ $175B48 - STRING #12 @ $1623A4
+#W32($175B48)
+Operation[END]
+// current address: $1623AE
