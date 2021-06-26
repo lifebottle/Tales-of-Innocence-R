@@ -7,3 +7,6 @@
 [submodule "PSVita-RE-tools"]
 	path = PSVita-RE-tools
 	url = https://github.com/CelesteBlue-dev/PSVita-RE-tools.git
+[submodule "innocence-r"]
+	path = innocence-r
+	url = https://github.com/LostTemplarRH/innocence-r
