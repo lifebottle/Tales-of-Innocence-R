@@ -58,6 +58,9 @@ Spreadsheet: https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0t
 12. the pointers where the lower 16 and upper 16 bits are a few instructions apart, because they're embedded into the code, and you need to extract the values from the instruction encoding (which abcde probably can't do)
 13. new line `0A`
 
+## Hacker Note #4
+Change the `eboot.bin` (the one with the 0x1000 SCE header) as follows: offset `0x7B5E` (should contain `01 23`) to `00 23` to fix monospace problem
+
 ## Credits
 Thanks to Ethanol for basically everything  
 Thanks to LT for for basically everything  
