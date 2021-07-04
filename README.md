@@ -64,6 +64,10 @@ Change the `eboot.bin` (the one with the 0x1000 SCE header) as follows: offset `
 ## Credits
 Thanks to Ethanol for basically everything  
 Thanks to LT for for basically everything  
+Thansk to OnePieceFreak for basically everything
+
+## Tools
+https://gbatemp.net/threads/release-decrypt-and-launch-psn-store-vita-games-without-plugins.548878/
 https://github.com/FanTranslatorsInternational/Kuriimu2  
 https://github.com/onepiecefreak3/taikotools  
 https://github.com/mariodon/taikotools  
