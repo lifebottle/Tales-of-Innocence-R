@@ -65,6 +65,9 @@ Change the `eboot.bin` (the one with the 0x1000 SCE header) as follows: offset `
 Thanks to Ethanol for basically everything  
 Thanks to LT for for basically everything  
 Thansk to OnePieceFreak for basically everything
+`Mine` for Translation Script: https://docs.google.com/document/d/12hoLXugMHRRiQ7YrqrB5nvLvxlpH9tIc7yisB_ZI_Y4/edit  
+`kkhdigifantasy13` for Translation Guide: https://drive.google.com/file/d/1sbCzce3OMSNVEKuTcYGWufS-NWkJq4Th/view?usp=sharing  
+`AppleKratue` for Gameplay Guide: https://psnprofiles.com/guide/6120-tales-of-innocence-r-faq (https://twitter.com/talesofkratue)  
 
 ## Tools
 https://gbatemp.net/threads/release-decrypt-and-launch-psn-store-vita-games-without-plugins.548878/
