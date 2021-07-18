@@ -6,7 +6,8 @@ An attempt to create an English patch for Tales of Innocence R.
 
 Discord: https://discord.gg/tmDgBDNPpE  
 
-Spreadsheet: https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/edit?usp=sharing  
+Spreadsheet (Current): https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/edit?usp=sharing  
+Spreadsheet (Outdated): https://docs.google.com/spreadsheets/d/1X_-WfAYM5J2JL2uDAK0JPA9P8zGQHe2G3otozGymd1I/edit?usp=sharing  
 
 
 ## Hacker Note 1
