@@ -1,9 +1,8 @@
 1
 00:00:12,300 --> 00:00:17,500
-へっ　敵の本陣で単独行動たぁ
-いい度胸じゃねェか！
+You got guts to attack this camp alone!
 
 2
 00:00:19,700 --> 00:00:21,500
-好き勝手はさせないわよ！
+We won't let you get away with this!
 
