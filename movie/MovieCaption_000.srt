@@ -1,35 +1,28 @@
 1
 00:00:05,300 --> 00:00:07,000
-#見て　アスラ
 Look, Asura
 
 2
-00:00:07,000 --> 00:00:15,000
-#ここからだと　地上がよく見える
-#緑が多い…　ほら小さな街もあるわ…
-From here, you can see a lot of
-greenery on Earth...  Look! A small town...
+00:00:07,000 --> 00:00:12,000
+From here, you can see the green meadows on Terro...
 
 3
-00:00:17,600 --> 00:00:19,000
-#イナンナ
-Inanna.
+00:00:12,000 --> 00:00:15,000
+Look! There's even a small town...
 
 4
-00:00:20,000 --> 00:00:22,200
-#おまえも知っているだろう
-You also know.
+00:00:17,600 --> 00:00:19,000
+Inanna.
 
 5
-00:00:22,200 --> 00:00:28,000
-#地上は元々　天上界の一部
-The ground was once part of
-the heavenly world.
+00:00:20,000 --> 00:00:22,200
+You also know.
 
 6
+00:00:22,200 --> 00:00:28,000
+Terro was once one with Cielo.
+
+7
 00:00:28,000 --> 00:00:37,000
-#だからこそ俺は　ふたつにわかれた天上界と地上を
-#再び　ひとつにせねばならん
-That is why I am going to reunite the two
-worlds of Heaven and Earth.
+That is why I must unite them once again.
 
