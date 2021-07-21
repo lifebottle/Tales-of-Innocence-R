@@ -1,44 +1,36 @@
 1
 00:00:00,000 --> 00:00:04,500
-#アスラ！　貴様ぁぁぁ!!
 Asura!  You bastard!!
 
 2
 00:00:04,500 --> 00:00:09,000
-またひとり　我が同胞を　手にかけたな！
-My brothers in arms!
+You've killed another comrade!
 
 3
 00:00:09,800 --> 00:00:15,199
-#許さんぞ　許さんぞぉおおおおおおッ!!
-I will never forgive yooooou!!
+I won't forgive you... I won't forgive you!!
 
 4
 00:00:16,000 --> 00:00:17,799
-#どいてろ！　ルカ！
-Move! Luca!
+Stay back, Ruca!
 
 5
 00:00:17,799 --> 00:00:21,000
-#心に剣を持ち　誰かの楯となれ！
-Take hold of a sword in heart and become 
-someone's shield!
+Rest thine heart unto thy blade to become a shield for others!
+
 6
-00:00:21,000 --> 00:00:26,500
-#昔　じいがよく聞かせてくれた言葉だ
-#ケガしないように　下がってな
-It's something I was told a long time ago.
+00:00:21,000 --> 00:00:24,250
+It's something my gramps used to say to me.
+
+7
+00:00:24,500 --> 00:00:26,500
 Get back so you don't get hurt.
 
 7
 00:00:26,500 --> 00:00:28,000
-#行くぜっ!!
 Here I go!!
 
 8
 00:00:30,200 --> 00:00:32,200
-#……ッ!!
-#…デュランダル！
-....!!
 ...Durandal!
 
