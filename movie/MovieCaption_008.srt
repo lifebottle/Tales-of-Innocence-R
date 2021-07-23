@@ -1,48 +1,49 @@
 1
 00:00:01,000 --> 00:00:03,000
-んん？　なんや
+Hm? What?
 
 2
 00:00:03,000 --> 00:00:05,000
-船が近づいて来よるなぁ
+A ship's approachin' us.
 
 3
 00:00:14,000 --> 00:00:15,000
-うわ！
+Whoa!
 
 4
 00:00:15,000 --> 00:00:16,000
-なんだ　なんだ!?
+Damn, what's happening!? 
 
 5
 00:00:16,000 --> 00:00:21,700
-登録番号１２００９３
-ガラム国籍船１２００９３
+Registration No. 120093
+Garam Ship No. 120093
 
 6
 00:00:21,700 --> 00:00:23,399
-ただちに　停船しなさい！
+Stop your vessel at once!
 
 7
 00:00:23,399 --> 00:00:26,000
-なぜ　砲撃を受けている!?
-一体　なにがあった!?
+Why are we being shot at!?
+What happened!?
 
 8
 00:00:26,000 --> 00:00:29,000
-ガラム国籍船１２００９３！
+Garam Ship No. 120093!
 
 9
 00:00:29,000 --> 00:00:30,799
-この声！
-あの女よ！
+This voice!
+It's that woman again!
 
 10
 00:00:30,799 --> 00:00:35,299
-１２００９３！
-ただちに停船し　投降しなさい！
+Ship Number 120093.
+Stop your vessel at once and surrender!
 
 11
 00:00:35,299 --> 00:00:38,000
-抵抗する場合は　撃沈する！
+Should you fail to surrender,
+we'll have no choice but to sink your ship!
 
