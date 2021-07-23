@@ -1,105 +1,103 @@
 1
 00:00:00,000 --> 00:00:01,200
-ちょっと待ったぁ！
+Wait a minute!
 
 2
 00:00:02,000 --> 00:00:03,500
-じゃあじゃあ
+Then then...
 
 3
 00:00:03,500 --> 00:00:06,000
-案その３だ
+What about plan C?
 
 4
 00:00:06,000 --> 00:00:09,699
-…その２は　どうしたっけ？
+Uhh what happened to plan B again?
 
 5
 00:00:09,699 --> 00:00:12,000
-いや　そんなのどうでもいいや
+Ah well, whatever.
 
 6
 00:00:12,000 --> 00:00:17,000
-ほ～ら　まずは
-これで　いいだろ？
+Now, now, this should be fine first, right?
 
 7
 00:00:18,299 --> 00:00:23,200
-その上で　アタクシの持つ　極秘情報を聞けば
+Before you attack me,
+I'm gonna let you in on some classified information.
 
 8
 00:00:23,200 --> 00:00:27,500
-みんなの意見も　コロリと変わる
+And you all will change your minds.
 
 9
 00:00:27,500 --> 00:00:31,500
-まるで　山の天気のように！
+Just like a mountain's weather!
 
 10
 00:00:32,000 --> 00:00:36,000
-イリア　リカルド
-弾は　ちゃんと入ってるか？
+Illia, Ricardo. Got your bullets ready?
 
 11
 00:00:36,000 --> 00:00:36,799
-万全だ
+Locked and loaded.
 
 12
 00:00:36,799 --> 00:00:38,000
-もちろんよ！
+Naturally!
 
 13
 00:00:40,000 --> 00:00:44,000
-うわ！　無抵抗の人間を撃つなよ！
+Don't shoot at someone defenseless!
 
 14
 00:00:44,000 --> 00:00:45,299
-待った　待った!!
+Wait hear me out!!
 
 15
 00:00:45,299 --> 00:00:51,000
-極秘情報　教えるからさぁ！　ねねね？
+I'm gonna say it now! Okay?
 
 16
 00:00:51,000 --> 00:00:54,000
-えーっと　坊や？
+Now, boy? 
 
 17
 00:00:54,000 --> 00:00:58,700
-ちょっくら　耳貸して
-あとで　ちゃんと返すから
+Lend me your ear for a bit.
+I'll pay you back later.
 
 18
 00:00:58,700 --> 00:01:00,000
-え？　僕？
+Huh? Me?
 
 19
 00:01:00,000 --> 00:01:01,000
-バカ！
+Ruca!
 
 20
 00:01:01,000 --> 00:01:04,000
-こんなヤツの話
-いちいち　聞かなくていいんだよ！
+Don't listen to this guy!
 
 21
 00:01:04,000 --> 00:01:09,000
-ほら　坊や
-よ～く聞いてくれ！
+Now, now boy.
+Listen closely...
 
 22
 00:01:09,000 --> 00:01:13,300
-…肉に刃が　食い込む音をさ
+This is the sound of a blade tearing through flesh...
 
 23
 00:01:25,500 --> 00:01:26,000
-しまった!!
+Crap!!
 
 24
 00:01:26,000 --> 00:01:27,000
-あの野郎ッ!!
+YOU BASTARD!!
 
 25
 00:01:27,000 --> 00:01:29,000
-ルカくん　しっかり!!
+Ruca, hang in there!!
 
