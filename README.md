@@ -61,6 +61,7 @@ Spreadsheet (Outdated): https://docs.google.com/spreadsheets/d/1X_-WfAYM5J2JL2uD
 
 ## Hacker Note #4
 Change the `eboot.bin` (the one with the 0x1000 SCE header) as follows: offset `0x7B5E` (should contain `01 23`) to `00 23` to fix monospace problem
+Also, change the `eboot.bin` as follows: offset `0x8630` (should contain `80 18`) to `40 18`
 If `recompile.py` doesn't work, install python package "sortedcontainers" and "click": `pip install sortedcontainers`, `pip install click`
 Get kuriiku2.exe (CMD version) to batch replace patched files: `Kuriimu2.exe extensions batch-inject orig-dir patch-dir` (haven't tested yet)
 ```
