@@ -76,6 +76,10 @@ patch-dir
  (followed by any number of files in the correct directory relative to the L7c)
 ```
 
+## Hacker Note #5
+![movie_subs](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/moviecaptions.png)  
+1. Movie subs can be saved to .SRT format
+
 ## Credits
 Thanks to Ethanol for basically everything  
 Thanks to LT for for basically everything  
