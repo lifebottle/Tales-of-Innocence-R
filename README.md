@@ -12,6 +12,8 @@ Spreadsheet (Outdated): https://docs.google.com/spreadsheets/d/1X_-WfAYM5J2JL2uD
 
 ## Hacker Note 1
 
+![ToIR](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/decrypt_toir.gif)  
+
 1. Get `pkg2zip` https://github.com/mmozeiko/pkg2zip 
 2. Also, get `psvpfstools` https://github.com/motoharu-gosuto/psvpfstools
 3. With `pkg2zip`, extract the `pkg` `pkg2zip.exe` `innocenceR.pkg`
