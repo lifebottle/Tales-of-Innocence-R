@@ -84,7 +84,7 @@ patch-dir
 
 ## Hacker Note #6
 ![kuriimu2](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/kuriimu2_settings.png)  
-1. Batch inject settings to create patch
+1. Batch inject settings to create patch  
 
 ## Credits
 Thanks to Ethanol for basically everything  
