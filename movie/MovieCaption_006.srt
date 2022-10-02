@@ -9,7 +9,8 @@ You were a m-m-monster too!
 
 3
 00:00:18,000 --> 00:00:22,700
-It is because I am a monster that I shall protect you, master.
+It is because I am a monster that
+I shall protect you, master.	
 
 4
 00:00:22,700 --> 00:00:27,000
