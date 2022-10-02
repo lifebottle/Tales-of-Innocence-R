@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:04,500
-Bastard!  For my brothers of Ratio you've killed!
+Bastard! For my brothers of Ratio you've killed...!
 
 2
 00:00:04,500 --> 00:00:06,000
@@ -24,7 +24,7 @@ Ratio's menace!
 
 7
 00:00:19,000 --> 00:00:21,000
-My brethren's enemy!
+My brethrens' enemy!	
 
 8
 00:00:21,000 --> 00:00:23,000
