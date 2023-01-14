@@ -1,6 +1,7 @@
 import struct
 import png
 from .formats.dat import DatFile
+from pathlib import Path
 
 def export_texture(binary, path):
     width, height = struct.unpack_from('<HH', binary, 12)
@@ -88,7 +89,7 @@ def recompile_texture(texture):
 
 def recompile_textures(l7cdir, texdir, outputdir):
     for tex_path, tex_file in _TEX_FILES:
-        dir = texdir / tex_file[:-4]
+        dir = texdir / Path(tex_path).name / tex_file[:-4]
         if dir.exists() and dir.is_dir():
             with open(l7cdir / f'{tex_path}/{tex_file}', 'rb') as f:
                 dat = DatFile(f)
@@ -96,7 +97,7 @@ def recompile_textures(l7cdir, texdir, outputdir):
                     index = int(file.stem)
                     texture = open(file, 'rb').read()
                     dat.sections[index] = recompile_texture(texture)
-                    (outputdir / texdir).mkdir(parents=True, exist_ok=True)
-                    #print(outputdir / texdir / tex_file)
-                    with open(outputdir / texdir / tex_file, 'wb') as f2:
+                    (outputdir / Path(tex_path)).mkdir(parents=True, exist_ok=True)
+                    print(outputdir / Path(tex_path) / tex_file)
+                    with open(outputdir / Path(tex_path) / tex_file, 'wb') as f2:
                         dat.save(f2)
