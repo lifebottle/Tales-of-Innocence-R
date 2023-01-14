@@ -1,6 +1,6 @@
 from .script import Script, DecompilationException, TextWithSpeaker
 import csv
-from .. import read_chara_names
+from .. import read_pack_field
 
 def extract_dat(file):
     dat = file.open('rb')
@@ -42,7 +42,7 @@ def write_to_csv(script, outputdir):
                 })
 
 def replace_speakers(l7cdir, script):
-    names = read_chara_names(l7cdir)
+    names = read_pack_field(l7cdir)
     for _, texts in script.items():
         for id, line in texts.items():
             if line.speaker:

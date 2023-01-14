@@ -1,5 +1,5 @@
 from ..script.script import Script, DecompilationException, TextWithSpeaker
-from .. import DatFile, read_chara_names
+from .. import DatFile, read_pack_field
 import io
 import csv
 
@@ -63,7 +63,7 @@ def extract_dats(l7cdir):
     return locations
 
 def replace_speakers(l7cdir, script):
-    names = read_chara_names(l7cdir)
+    names = read_pack_field(l7cdir)
     for _, texts in script.items():
         for i, text in texts.items():
             for id, line in text.items():

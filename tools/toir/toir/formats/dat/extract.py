@@ -2,7 +2,7 @@ from .artes import extract_artes
 from .items import extract_items
 from .battlebook import extract_battle_book
 from .charaability import extract_chara_ability
-from .packfield import extract_chara_names
+from .packfield import extract_pack_field
 from .tutorial import extract_tutorial
 from .mission import extract_mission
 from .enemies import extract_enemies
@@ -18,7 +18,7 @@ _EXTRACTORS = [
     extract_artes,
     extract_battle_book,
     extract_chara_ability,
-    extract_chara_names,
+    extract_pack_field,
     extract_chara_styles,
     extract_tutorial,
     extract_mission,
