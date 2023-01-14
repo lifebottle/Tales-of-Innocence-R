@@ -53,28 +53,22 @@ def get_subs(filename:str):
     
     return subs
 
+def insert_srt(srtdir, outdir):
+    dir = srtdir / "Movie/"
+    print(dir)
+    for file in dir.glob('*.srt'):
+        subs = get_subs(file)
+        print(outdir / f"Movie/{file.stem}.dat")
 
-srt_files = []
-for file in os.listdir(os.getcwd()):
-    if file.endswith(".srt"):
-        srt_files.append(file)
+        dat_file = bytearray(len(subs) * MAX_SUB_SIZE + HEADER_SIZE)
+        struct.pack_into("<i",dat_file,0,len(subs))
 
-print("Found %02d srt files in path: %s" % (len(srt_files), os.getcwd()))
-for p_files, file in zip(range(1,len(srt_files)+1),srt_files):
-    print("Converting file %02d/%02d..." % (p_files, len(srt_files)), end="\r")
-    subs = get_subs(file)
+        for i, sub in zip(range(len(subs)),subs):
+            insert_sub_into(dat_file,sub,i)
+            
+        with open(outdir / f"_Data/Movie/{file.stem}.dat", mode="wb+") as f:
+            f.write(bytes(dat_file))
 
-    dat_file = bytearray(len(subs) * MAX_SUB_SIZE + HEADER_SIZE)
-    struct.pack_into("<i",dat_file,0,len(subs))
-
-    for i, sub in zip(range(len(subs)),subs):
-        insert_sub_into(dat_file,sub,i)
-
-    out_name = get_file_name_noext(file) + ".dat"
-    with open(out_name, mode="wb+") as f:
-        f.write(bytes(dat_file))
-
-print("Converted %02d/%02d files." % (p_files, len(srt_files)))
-print("Done!")
+    print("Done!")
 
 
