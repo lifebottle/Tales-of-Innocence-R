@@ -1,0 +1,540 @@
+0,title,,Movement 1
+0,text,0,Use dpad to move during battle.
+0,text,1,Press dpad_l or dpad_r to advance/retreat
+0,text,2,and press dpad_u to jump.
+0,text,3,
+0,text,4,"In semi-auto, you can jump by pressing {remap_square}"
+0,text,5,while holding down dpad_u.
+0,text,6,
+0,text,7,
+0,text,8,
+1,title,,Movement 2
+1,text,0,left_analog can also be used to move freely around
+1,text,1,"the battlefield, an action known as ""{blue}free running{white}."""
+1,text,2,
+1,text,3,"This is useful for avoiding enemy attacks,"
+1,text,4,and also for putting yourself where you
+1,text,5,need to be.
+1,text,6,
+1,text,7,
+1,text,8,
+2,title,,Movement 3
+2,text,0,You can press dpad_du twice quickly towards your
+2,text,1,target while blocking to swiftly step in
+2,text,2,and close the distance between you.
+2,text,3,"Conversely, you can press dpad_du twice quickly"
+2,text,4,away from your opponent while guarding
+2,text,5,to take a step back and put some distance
+2,text,6,between you. 
+2,text,7,Careful timing of such actions can help you
+2,text,8,slip through your enemies and avoid damage.
+3,title,,Regular Attacks
+3,text,0,Press {remap_circle} to perform a regular attack.
+3,text,1,Press {remap_circle} while pressing dpad_u or dpad_d
+3,text,2,to perform a range of other regular attacks.
+3,text,3,
+3,text,4,When the control mode is set to
+3,text,5,"Semi-Auto, the distance between you and"
+3,text,6,your enemy will be adjusted automatically.
+3,text,7,
+3,text,8,
+4,title,,Free-Run Attacks
+4,text,0,You can also attack while free running
+4,text,1,by pressing {remap_circle}.
+4,text,2,
+4,text,3,"This is known as performing a ""free-run attack."""
+4,text,4,
+4,text,5,If you hit an enemy with a free-run
+4,text,6,"attack, your target will automatically"
+4,text,7,switch to that enemy.
+4,text,8,
+5,title,,Artes
+5,text,0,You can press {remap_cross} to perform Physical artes
+5,text,1,or Magic artes unique to the character you
+5,text,2,are controlling.
+5,text,3,These artes can be assigned to {icon:0x0806}dpad_udpad_dudpad_d
+5,text,4,"in the ""Artes"" section of the"
+5,text,5,"menu, which can be opened by pressing {remap_triangle}."
+5,text,6,By pressing the relevant directional
+5,text,7,"button along with {remap_cross}, you can quickly"
+5,text,8,perform a range of powerful artes.
+6,title,,Block/Guard
+6,text,0,You can block incoming enemy P. Atk by
+6,text,1,pressing {remap_circle}. This will reduce the damage
+6,text,2,they inflict.
+6,text,3,
+6,text,4,"If you hold down dpad_d while blocking, "
+6,text,5,you will perform a Magic Guard. This will reduce
+6,text,6,incoming magic damage.
+6,text,7,
+6,text,8,
+7,title,,Using Items
+7,text,0,You can use items by opening the menu
+7,text,1,"with {remap_triangle}, and selecting ""Items."""
+7,text,2,"Simply choose which item you wish to use,"
+7,text,3,"pick a target, and it will take effect."
+7,text,4,
+7,text,5,"After using the it, the {blue}Item Gauge{white}"
+7,text,6,will appear: You will not be able to use 
+7,text,7,another one until the gauge runs down.
+7,text,8,
+8,title,,Fleeing
+8,text,0,"To escape from battle, open the menu by"
+8,text,1,"pressing {remap_triangle}, and select ""{blue}Flee{white}."""
+8,text,2,
+8,text,3,"When you do so, the {blue}Escape Gauge{white}"
+8,text,4,will appear.
+8,text,5,
+8,text,6,"When the gauge runs down, your escape"
+8,text,7,attempt will be deemed {blue}successful{white}.
+8,text,8,new line
+9,title,,Fleeing 2
+9,text,0,You can cancel your escape attempt by
+9,text,1,opening the menu with {remap_triangle} and selecting
+9,text,2,{blue}Stop Fleeing{white}.
+9,text,3,
+9,text,4,
+9,text,5,new line
+9,text,6,new line
+9,text,7,new line
+9,text,8,new line
+10,title,,Targeting
+10,text,0,Pressing {remap_l2} will switch your {blue}target{white} to the
+10,text,1,closest enemy.
+10,text,2,Pressing it again will select the next-
+10,text,3,"closest enemy, and so on."
+10,text,4,Holding {remap_l2} for a short while will trigger
+10,text,5,"{blue}Target Status Display Mode{white}, where you"
+10,text,6,can use dpad_du to freely select
+10,text,7,a target.
+10,text,8,
+11,title,,Combo 1
+11,text,0,Chain up a series of normal
+11,text,1,attacks by continuing to input
+11,text,2,attacks with {remap_circle}.
+11,text,3,
+11,text,4,This is known as a Combo.
+11,text,5,
+11,text,6,Try a number of possible Combos
+11,text,7,with a combination of dpad
+11,text,8,and {remap_circle}.
+12,title,,Combo 2
+12,text,0,Follow up a normal attack{remap_circle}with a {blue}Base Arte{white}{remap_cross}
+12,text,1,to cancel the lag time of your {blue}normal attack{white}
+12,text,2,and chain your Artes.
+12,text,3,
+12,text,4,You can deal damage more effectively by linking
+12,text,5,your {blue}normal attacks{white} and {blue}base artes{white} together.
+12,text,6,
+12,text,7,Consider the nature of each combo
+12,text,8,to find one that works best for you!
+13,title,,Combo 3
+13,text,0,You can follow a {blue}Base Arte{white} with a
+13,text,1,"{blue}Master Arte{white} and an {blue}Arcane Arte{white},"
+13,text,2,which are more powerful attacks.
+13,text,3,
+13,text,4,Normal attack → Base Arte → 
+13,text,5,Master Arte → Arcane Arte
+13,text,6,This type of combo allows for
+13,text,7,stronger attacks and increases
+13,text,8,the variety of possible combos.
+14,title,,Encounters 1
+14,text,0,While moving around in the field or a
+14,text,1,"dungeon, battles will occasionally occur."
+14,text,2,
+14,text,3,
+14,text,4,In forests and certain areas of specific
+14,text,5,"dungeons, the likelihood of a battle"
+14,text,6,occurring is increased.
+14,text,7,new line
+14,text,8,new line
+15,title,,Encounters 2
+15,text,0,"Occasionally, you will be surrounded,"
+15,text,1,"resulting in an attack from all sides,"
+15,text,2,regardless of your formation settings.
+15,text,3,
+15,text,4,This is known as a {blue}Surprise Encounter{white}.
+15,text,5,
+15,text,6,new line
+15,text,7,new line
+15,text,8,new line
+16,title,,Missions
+16,text,0,"Every so often, a {blue}mission{white} will be"
+16,text,1,triggered instead of a regular encounter.
+16,text,2,
+16,text,3,"If you meet the conditions listed, you"
+16,text,4,"can earn an item or gald, or earn more"
+16,text,5,AP at the end of the battle than normal.
+16,text,6,
+16,text,7,
+16,text,8,new line
+17,title,,Ailments 1
+17,text,0,Some attacks and artes can inflict
+17,text,1,{blue}physical ailments{white} or cause {blue}status effects{white}.
+17,text,2,All such ailments or negative effects will
+17,text,3,dissipate at the end of the battle.
+17,text,4,
+17,text,5,"{blue}Physical ailments{white} include poisoning,"
+17,text,6,"paralysis, etc."
+17,text,7,{blue}Status effects{white} are changes to parameters
+17,text,8,"or stats, such as a decrease P. ATK."
+18,title,,Ailments 2
+18,text,0,Fighting without healing {blue}physical ailments{white}
+18,text,1,or negative status effects can be risky.
+18,text,2,It’s best to use {blue}items{white} or {blue}artes{white} to cure them.
+18,text,3,
+18,text,4,The {blue}item{white} or {blue}arte{white} required will depend on
+18,text,5,the affliction in question.
+18,text,6,Check out the descriptions in order to
+18,text,7,figure out what you need to use.
+18,text,8,
+19,title,,Poison
+19,text,0,icon_poison{blue}Poison{white} causes a character's HP to
+19,text,1,gradually deplete. The amount by which
+19,text,2,it decreases is proportional to the Maximum
+19,text,3,HP of the character in question.
+19,text,4,Although poison will not cause a character
+19,text,5,"to be KO’d, it can reduce their HP to as"
+19,text,6,low as a single point.
+19,text,7,Poison heals automatically after a
+19,text,8,certain amount of time has passed.
+20,title,,Weak
+20,text,0,icon_weak{blue}Weak{white} causes TP to slowly drain away.
+20,text,1,"The higher the character’s Max. TP,"
+20,text,2,the larger the increments by which
+20,text,3,it will be depleted.
+20,text,4,Heals automatically after a certain
+20,text,5,amount of time has passed.
+20,text,6,new line
+20,text,7,new line
+20,text,8,new line
+21,title,,Paralysis
+21,text,0,{icon:0x0983}{blue}Paralysis{white} causes there to be a high
+21,text,1,probability that each attack attempted
+21,text,2,by the character will be canceled.
+21,text,3,
+21,text,4,"Additionally, the risk of being stunned"
+21,text,5,by incoming enemy attacks is increased.
+21,text,6,Paralysis heals automatically after a
+21,text,7,certain amount of time has passed.
+21,text,8,new line
+22,title,,Terror
+22,text,0,icon_paralysis{blue}Terror{white} prevents you from using
+22,text,1,"artes and regular attacks, so your actions "
+22,text,2,are severely restricted as a result.
+22,text,3,Heals automatically after a certain
+22,text,4,amount of time has passed.
+22,text,5,
+22,text,6,new line
+22,text,7,new line
+22,text,8,new line
+23,title,,Petrify
+23,text,0,"icon_fear{blue}Petrifaction{white} freezes the character on the spot,"
+23,text,1,"preventing them from moving, attacking,"
+23,text,2,or acting in any other way.
+23,text,3,
+23,text,4,"Petrifaction does not heal automatically,"
+23,text,5,and if all characters participating in the
+23,text,6,"battle become petrified, it’s game over."
+23,text,7,
+23,text,8,new line
+24,title,,Status Effects 1
+24,text,0,icon_patk{blue}Changes to Physical Attack{white}
+24,text,1,Physical attack is increased or decreased.
+24,text,2,
+24,text,3,icon_pdef{blue}Changes to Physical Defense{white}
+24,text,4,Physical defense is increased or decreased.
+24,text,5,new line
+24,text,6,new line
+24,text,7,new line
+24,text,8,new line
+25,title,,Status Effects 2
+25,text,0,icon_aatk{blue}Changes to Arte Attack{white}
+25,text,1,Arte attack is increased or decreased.
+25,text,2,
+25,text,3,icon_adef{blue}Changes to Arte Defense{white}
+25,text,4,Arte defense is increased or decreased.
+25,text,5,new line
+25,text,6,new line
+25,text,7,new line
+25,text,8,new line
+26,title,,Elements
+26,text,0,Some {blue}artes{white} and {blue}weapons{white} are imbued
+26,text,1,with the power of specific {blue}elements{white}.
+26,text,2,Each {blue}element{white} is strong against certain
+26,text,3,"other {blue}elements{white}, and weak against others."
+26,text,4,This can have a huge effect on battle.
+26,text,5,By examining an enemy’s {blue}elemental{white}
+26,text,6,"strengths and weaknesses, and"
+26,text,7,"equipping yourself accordingly,"
+26,text,8,you can give yourself a real edge.
+27,title,,Element Types
+27,text,0,There are seven {blue}elements{white} in total:
+27,text,1,
+27,text,2,icon_fire{blue}Fire{white}
+27,text,3,icon_earth{blue}Earth{white}
+27,text,4,icon_wind{blue}Wind{white}
+27,text,5,icon_water{blue}Water{white}
+27,text,6,icon_lightning{blue}Lightning{white}
+27,text,7,icon_light{blue}Light{white}
+27,text,8,icon_dark{blue}Darkness{white}
+28,title,,Kongwei’s Artes
+28,text,0,"During battle, if an enemy spell manages"
+28,text,1,"to hit Kongwei, he will learn that spell "
+28,text,2,and be able to use it.
+28,text,3,
+28,text,4,"The moment he learns a spell, a message "
+28,text,5,will pop up on the top of the screen to let
+28,text,6,you know.
+28,text,7,
+28,text,8,
+29,title,,Experience
+29,text,0,Party members who participate in a battle
+29,text,1,will earn a full share of experience
+29,text,2,"points, but those who don’t participate in"
+29,text,3,combat will receive only 70% of the
+29,text,4,full amount.
+29,text,5,
+29,text,6,"KO’d characters, whether in battle or"
+29,text,7,"sitting it out, won’t earn any experience"
+29,text,8,at all.
+30,title,,Strategy
+30,text,0,A {blue}strategy{white} is a set of actions to be 
+30,text,1,taken by allies during battle.
+30,text,2,
+30,text,3,There are two types:
+30,text,4,{blue}Basic Actions{white} and {blue}Priority Actions{white}.
+30,text,5,{blue}Priority Actions{white} always take 
+30,text,6,precedence over {blue}Basic Actions{white}.
+30,text,7,new line
+30,text,8,new line
+31,title,,Action Priority 1
+31,text,0,You can set a total of 10 {blue}Priority Actions{white}.
+31,text,1,Actions set at the very top takes higher
+31,text,2,priority than Actions set below it.
+31,text,3,
+31,text,4,"By pressing start to an Action,"
+31,text,5,that action will always be executed as
+31,text,6,long as the condition is met. The
+31,text,7,heirarchy goes as follows: position > override.
+31,text,8,new line
+32,title,,Action Priority 2
+32,text,0,The leftmost number of an {blue}Action{white} will
+32,text,1,glow white once you’ve managed to set
+32,text,2,"its three items: ""Action Priority,"" ""Target"
+32,text,3,"Condition,"" and ""Self Condition."""
+32,text,4,
+32,text,5,A {blue}Priority Action{white} is active when its number
+32,text,6,"glows white. If it’s gray, then it’s not set."
+32,text,7,
+32,text,8,
+33,title,,Formation
+33,text,0,A character’s place in your {blue}formation{white}
+33,text,1,"dictates their distance from the enemy,"
+33,text,2,and their place on the battlefield.
+33,text,3,
+33,text,4,Placement at the front of the formation
+33,text,5,"enables effective close-range combat,"
+33,text,6,while placement at the rear enables
+33,text,7,the use of mid-to-long-range attacks
+33,text,8,and artes.
+34,title,,Direct Commands
+34,text,0,"While in the {blue}Artes screen{white}, choose your"
+34,text,1,desired Arte and press start to
+34,text,2,set the {blue}command{white}.
+34,text,3,
+34,text,4,The Arte will be surrounded by a frame
+34,text,5,"labelled ""touch."" You can then use the"
+34,text,6,Arte by touching the character’s portrait
+34,text,7,during battle.
+34,text,8,new line
+35,title,,Style 1
+35,text,0,Acquire {blue}Abilities{white} with {blue}Styles{white} and set 
+35,text,1,them to your character to enhance 
+35,text,2,their capabilities in battle.
+35,text,3,
+35,text,4,{blue}Styles{white} you can unlock are based on your
+35,text,5,progress in the story and the titles you’ve
+35,text,6,acquired. The more you progress through
+35,text,7,"the story, the more {blue}Styles{white} you can get."
+35,text,8,new line
+36,title,,Style 2
+36,text,0,Acquiring {blue}Abilities{white} requires {blue}AP{white}.
+36,text,1,You can gain {blue}AP{white} by defeating enemies.
+36,text,2,
+36,text,3,An acquired {blue}Ability{white} will not activate unless you
+36,text,4,set it. The number of {blue}Abilities{white} you can set
+36,text,5,depends on the maximum {blue}capacity{white}
+36,text,6,{blue}アビリティ{white}をいくつセットできるかは
+36,text,7,of each character.
+36,text,8,
+37,title,,Style 3
+37,text,0,"Each Ability has a fixed cost, which is how"
+37,text,1,much {blue}capacity{white} it consumes. You can set
+37,text,2,Abilities until you run out of capacity.
+37,text,3,
+37,text,4,A character’s {blue}capacity{white} can be increased by
+37,text,5,getting the {blue}Capacity{white} Up Style in the 
+37,text,6,Style Screen.
+37,text,7,{blue}スタイル画面{white}で{blue}キャパシティアップ{white}を
+37,text,8,
+38,title,,Enraged Attacks
+38,text,0,"Sometimes when an enemy is attacked,"
+38,text,1,"they will glow red, and launch an angry"
+38,text,2,"onslaught known as an ""enraged attack."""
+38,text,3,
+38,text,4,"Enraged enemies cannot be staggered,"
+38,text,5,and an enraged attack can only be blocked
+38,text,6,by a successful {blue}Guard Counter{white}.
+38,text,7,
+38,text,8,new line
+39,title,,Guard Counter
+39,text,0,A perfectly timed press of {remap_square} during
+39,text,1,an enraged attack will trigger a
+39,text,2,counterattack known as a {blue}Guard Counter{white}.
+39,text,3,
+39,text,4,A successful {blue}Guard Counter{white} will not only
+39,text,5,"deflect an enemy's attack, but also reset"
+39,text,6,"your arte chain, allowing you to continue"
+39,text,7,the combo.
+39,text,8,new line
+40,title,,Rave System 1
+40,text,0,"While in battle, there is a gauge on the top"
+40,text,1,leftmost of the screen. That is the {blue}Rave 
+40,text,2,{blue}Gauge{white}.
+40,text,3,
+40,text,4,The {blue}Rave Gauge{white} represents the momentum
+40,text,5,of the party during battle.
+40,text,6,
+40,text,7,"By building up the Rave Gauge, you can"
+40,text,8,activate special effects during battle.
+41,title,,Rave System 2
+41,text,0,You can build up the Rave Gauge by attacking
+41,text,1,"the enemy. In contrast, being attacked by an"
+41,text,2,enemy will decrease it.
+41,text,3,
+41,text,4,You can trigger a Rave Bonus if you successfully
+41,text,5,manage to pull off a Guard Counter. While in
+41,text,6,"this mode, the area around the Rave Gauge"
+41,text,7,will glow and it will easily increase for a certain
+41,text,8,amount of time.
+42,title,,Rave System 3
+42,text,0,The {blue}Rave Gauge{white} will naturally decrease as time
+42,text,1,"passes. However, it will decrease even faster"
+42,text,2,"if there are characters that have ailments,"
+42,text,3,"debuffs, or are unconscious."
+42,text,4,
+42,text,5,Fight through battles smartly to keep your
+42,text,6,{blue}Rave Gauge{white} filled up and gain bonuses.
+42,text,7,
+42,text,8,
+43,title,,Rave Abilities
+43,text,0,It’s possible to set {blue}Rave Abilities{white} in the Rave
+43,text,1,Menu which can be accessed from the 
+43,text,2,Menu Screen.
+43,text,3,
+43,text,4,New {blue}Rave Abilities{white} can be gained from
+43,text,5,Grade Shops and exchanged with Grade
+43,text,6,Points.
+43,text,7,
+43,text,8,
+44,title,,Rave Abilities Lv. 1
+44,text,0,Each {blue}Rave Ability{white} has its own level. The higher
+44,text,1,"an ability’s level is, the more effective it is."
+44,text,2,
+44,text,3,Be aware that you can’t have the same
+44,text,4,ability equipped more than once at 
+44,text,5,"different levels, so remember to choose"
+44,text,6,your abilities wisely.
+44,text,7,
+44,text,8,
+45,title,,Rave Abilites Lv. 2
+45,text,0,A lvl 2 or higher {blue}Rave Ability{white} is only effective
+45,text,1,once you’ve built up more of the {blue}Rave
+45,text,2,{blue}Gauge{white}.
+45,text,3,
+45,text,4,The color of the {blue}Gauge{white} will change depending
+45,text,5,on how much it has accumulated and the
+45,text,6,icon of the ability will glow when it’s 
+45,text,7,active.
+45,text,8,
+46,title,,Over Limit
+46,text,0,You can activate a character’s Over Limit by
+46,text,1,pressing {remap_l1} while their 
+46,text,2,{blue}Over Limit gauge{white} is full.
+46,text,3,
+46,text,4,Going into {blue}Over Limit{white} removes all status
+46,text,5,ailments and debuffs as well as increases
+46,text,6,your character’s parameters while also
+46,text,7,shortening their cast time and other
+46,text,8,positive effects.
+47,title,,Mystic Artes
+47,text,0,You can perform a Mystic Arte by pressing
+47,text,1,{remap_l1} while in Over Limit and 
+47,text,2,hitting the enemy to activate it.
+47,text,3,
+47,text,4,A Mystic Arte’s power will depend on how
+47,text,5,much you’ve built up the Rave Gauge.
+47,text,6,"The more you’ve built it up, the stronger it"
+47,text,7,"is. However, performing a Mystic Arte will"
+47,text,8,deplete the Rave Gauge.
+48,title,,Lv. 2 Mystic Artes
+48,text,0,You can use a character’s second Mystic
+48,text,1,Arte by equipping their Style Ability 
+48,text,2,"called ""Special."""
+48,text,3,
+48,text,4,A character’s second Mystic Arte differs
+48,text,5,"from their first by their attribute, area of"
+48,text,6,"effect, and power."
+48,text,7,new line
+48,text,8,new line
+49,title,,Basic Cookery 1
+49,text,0,If you find a recipe and you’re carrying
+49,text,1,"the right ingredients, you can try to make"
+49,text,2,"the dish described. Bear in mind, however,"
+49,text,3,that the ingredients will be used up.
+49,text,4,
+49,text,5,"Dishes have all kinds of amazing effects,"
+49,text,6,"including healing HP and TP, boosting"
+49,text,7,"stats, and enabling skill effects."
+49,text,8,
+50,title,,Basic Cookery 2
+50,text,0,"However, eating a dish will fill your belly,"
+50,text,1,and it’ll take a few battles or a night’s
+50,text,2,sleep before you can stomach another.
+50,text,3,
+50,text,4,Different characters have different likes
+50,text,5,and dislikes when it comes to food.
+50,text,6,Each character's proficiency at making
+50,text,7,different dishes will vary as well.
+50,text,8,new line
+51,title,,Basic Cookery 3
+51,text,0,In the {blue}Cooking{white} Menu you can choose
+51,text,1,who cooks what dish.
+51,text,2,
+51,text,3,The chance of success is improved for
+51,text,4,dishes at which a character is skilled
+51,text,5,and reduced for dishes they’re not so
+51,text,6,good at making.
+51,text,7,new line
+51,text,8,new line
+52,title,,Cooking Level
+52,text,0,Regular {blue}cookery{white} will gradually increase
+52,text,1,your {blue}Cooking Level{white}.
+52,text,2,
+52,text,3,"The higher your {blue}Cooking Leve{white}l, the"
+52,text,4,higher the chances of the dishes you
+52,text,5,attempt succeeding.
+52,text,6,"Each dish has a recommended level,"
+52,text,7,which can be helpful when deciding
+52,text,8,what to attempt to make.
+53,title,,Cooking Shortcuts
+53,text,0,By assigning a dish and a person to cook
+53,text,1,"it to dpad_u, dpad_d, dpad_l, or dpad_r, you can press {icon:0x0806} + {icon:0x0206} to"
+53,text,2,instantly cook it at the end of battle.
+53,text,3,
+53,text,4,This can be useful after a particularly
+53,text,5,"grueling encounter, or just for topping up"
+53,text,6,a cookery effect when the previous one
+53,text,7,runs out.
+53,text,8,

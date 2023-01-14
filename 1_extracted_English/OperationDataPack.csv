@@ -1,0 +1,78 @@
+0,0,name,Normal
+0,0,description,Balance both attack and defense.
+0,1,name,Fire Power
+0,1,description,"Fight with mainly strong attacks.
+Only attack in basic movement."
+0,2,name,Hit Focused
+0,2,description,"Fight with attacks that generates hits.
+Only attack in basic movement."
+0,3,name,Defensive
+0,3,description,"Pay attention to your HP.
+Has the lowest chance of beign KO'd."
+0,4,name,Support
+0,4,description,Prioritize support such as stopping the enemy from casting spells.
+0,5,name,Heal
+0,5,description,"Prioritize healing allies.
+Does not attack much."
+1,0,name,Attack
+1,0,description,Attack the enemy.
+1,1,name,Beginner Artes
+1,1,description,Attack with beginner magic artes.
+1,2,name,Intermediate Artes
+1,2,description,Attack with intermediate magic artes.
+1,3,name,Advanced Artes
+1,3,description,Attack with advanced magic artes.
+1,4,name,Defend Yourself
+1,4,description,Focus on guarding enemy attacks.
+1,5,name,Focus on Defense
+1,5,description,Increase defense and distance yourself from the enemy.
+1,6,name,Heal: Arte
+1,6,description,Use artes to heal HP.
+1,7,name,Heal Status Effect: Arte
+1,7,description,Use artes to heal status effects.
+1,8,name,Heal: Items
+1,8,description,Use items to heal status effects.
+1,9,name,Revive: Arte
+1,9,description,Use artes to revive from KO.
+1,10,name,Strengthen: Arte
+1,10,description,Use artes to strengthen your allies.
+1,11,name,Weaken: Arte
+1,11,description,Use artes to weaken your enemy.
+1,12,name,Attack: Specific
+1,12,description,Attack by using the specified attack arte.
+1,13,name,Heal: Specific
+1,13,description,Heal by using the specified heal arte.
+1,14,name,Support: Specific
+1,14,description,Use the specified support arte.
+1,15,name,Use Item: Specific
+1,15,description,Use the specified item.
+1,16,name,Do Nothing
+1,16,description,Do nothing and maintain formation.
+1,17,name,なにもしない
+1,17,description,敵ＡＩ調整用
+1,18,name,命令待機
+1,18,description,命令実行待機用
+1,19,name,術技解禁
+1,19,description,術技解禁設定
+1,20,name,ＡＩ変更
+1,20,description,ＡＩ変更
+1,21,name,オーバーリミッツ解禁
+1,21,description,オーバーリミッツ解禁
+1,22,name,オーバーリミッツ
+1,22,description,オーバーリミッツ
+3,0,name,HP ~% or more
+3,0,description,When HP is above or equal to the specified %.
+3,1,name,HP less than ~%
+3,1,description,When HP is below the specified %.
+3,2,name,TP ~% or more
+3,2,description,When TP is above or equal to the specified %.
+3,3,name,TP less than ~%
+3,3,description,When TP is below the specified %.
+3,4,name,Over ~
+3,4,description,When the number of item is over the specified amount.
+3,5,name,None
+3,5,description,No condition is set.
+3,6,name,ひとりの場合
+3,6,description,ひとりになった場合
+3,7,name,～が戦闘不能
+3,7,description,特定のキャラが戦闘不能の場合

@@ -1,0 +1,500 @@
+0,name,Capacity Up 1
+0,description,Increases your max CP by 1.
+1,name,Capacity Up 2
+1,description,Increases your max CP by 2.
+2,name,Capacity Up 3
+2,description,Increases your max CP by 3.
+3,name,Capacity Up 4
+3,description,Increases your max CP by 4.
+4,name,Special
+4,description,"Unleashes your hidden power, which
+gives access to your 2nd Mystic Arte."
+5,name,Inflame 1
+5,description,Increases fire-elemental damage by 10%.
+6,name,Inflame 2
+6,description,Increases fire-elemental damage by 15%.
+7,name,Inflame 3
+7,description,Increases fire-elemental damage by 20%.
+8,name,Hydrate 1
+8,description,Increases water-element damage by 10%.
+9,name,Hydrate 2
+9,description,Increases water-element damage by 15%.
+10,name,Hydrate 3
+10,description,Increases water-element damage by 20%.
+11,name,Mineralize 1
+11,description,Increases earth-element damage by 10%.
+12,name,Mineralize 2
+12,description,Increases earth-element damage by 15%.
+13,name,Mineralize 3
+13,description,Increases earth-element damage by 20%.
+14,name,Aerate 1
+14,description,Increases wind-element damage by 10%.
+15,name,Aerate 2
+15,description,Increases wind-element damage by 10%.
+16,name,Aerate 3
+16,description,Increases wind-element damage by 10%.
+17,name,Electrify 1
+17,description,Increases lightning-element damage by 10%.
+18,name,Electrify 2
+18,description,Increases lightning-element damage by 15%.
+19,name,Electrify 3
+19,description,Increases lightning-element damage by 20%.
+20,name,Illuminate 1
+20,description,Increases light-element damage by 10%.
+21,name,Illuminate 2
+21,description,Increases light-element damage by 15%.
+22,name,Illuminate 3
+22,description,Increases light-element damage by 20%.
+23,name,Eclipse 1
+23,description,Increases dark-elemental damage by 10%.
+24,name,Eclipse 2
+24,description,Increases dark-elemental damage by 15%.
+25,name,Eclipse 3
+25,description,Increases dark-elemental damage by 20%.
+26,name,Combo Plus
+26,description,"Adds an extra regular attack for every
+iteration of this skill equipped."
+27,name,Base Plus
+27,description,"Lets you chain an extra base arte for
+every iteration of this skill equipped."
+28,name,Master Plus
+28,description,"Lets you chain an extra master arte for
+every iteration of this skill equipped."
+29,name,Arcane Plus
+29,description,"Lets you chain an extra arcane arte for
+every iteration of this skill equipped."
+30,name,Route Breaker
+30,description,"You can chain together base, master,
+and arcane artes in any order."
+31,name,Repeat
+31,description,"Lets you repeat the same arte. Must be used
+in conjunction with Base/Master/Arcane Plus."
+32,name,Toxic Attack
+32,description,"10% probability of poisoning an enemy
+when a regular hit connects."
+33,name,Anesthetic Attack
+33,description,"10% probability of paralyzing an enemy
+when a regular hit connects."
+34,name,Heavy Hit
+34,description,"Increases the probability of enemies
+being stunned by physical attacks."
+35,name,Stun Magic
+35,description,"Increases the probability of enemies
+being stunned by spells."
+36,name,Stun Extender
+36,description,Increases enemy stun time by 50%.
+37,name,Staggering Strike
+37,description,"Increases the length of time for which
+enemies are staggered by critical hits."
+38,name,Critical
+38,description,"Increases the chance of inflicting a
+critical hit by 10%."
+39,name,Knocked Down
+39,description,"Increases the length of time for which
+enemies are knocked down by 1.5 times."
+40,name,Knocked Down 2
+40,description,"Doubles the length of time for which
+enemies are knocked down."
+41,name,Destroyer
+41,description,"Every attack will break the enemy's
+iron stance twice as fast."
+42,name,Counterstrike
+42,description,"Increases damage inflicted by guard
+counters by 50%."
+43,name,Counterstun
+43,description,"Increases the chance of enemies being
+stunned by guard counters."
+44,name,Conserve TP
+44,description,Decreases the TP cost of all artes by 10%.
+45,name,Conserve TP 2
+45,description,Decreases the TP cost of all artes by 30%.
+46,name,Conserve TP 3
+46,description,Decreases the TP cost of all artes by 50%.
+47,name,Heavy Attack
+47,description,"Doubles TP cost in order to increase
+arte damage by 50%."
+48,name,Heavy Magic
+48,description,"Lengthens the casting time of attack artes
+in order to increase their damage by 50%."
+49,name,Lite Magic
+49,description,"Shortens the casting time of attack artes,
+but decreases their damage by 50%."
+50,name,Speed Cast 1
+50,description,Reduces casting times by 5%.
+51,name,Speed Cast 2
+51,description,Reduces casting times by 10%.
+52,name,Speed Cast 3
+52,description,Reduces casting times by 15%.
+53,name,Recast
+53,description,"Canceled artes are resumed from the point
+at which their casting was interrupted."
+54,name,Absolute Reduction
+54,description,"20% chance of the casting cost of a spell
+arte being reduced to 0 TP."
+55,name,Minimum Damage
+55,description,Damage dealt is reduced to 1.
+56,name,Quarter Damage
+56,description,Damage dealt is reduced by 75%.
+57,name,Half Damage
+57,description,Damage dealt is reduced by 50%.
+58,name,Flame Retardant 1
+58,description,"Reduces any fire-element damage
+sustained by 10%."
+59,name,Flame Retardant 2
+59,description,"Reduces any fire-element damage
+sustained by 30%."
+60,name,Flame Retardant 3
+60,description,"Reduces any fire-element damage
+sustained by 50%."
+61,name,Water Resistant 1
+61,description,"Reduces any water-element damage
+sustained by 10%."
+62,name,Water Resistant 2
+62,description,"Reduces any water-element damage
+sustained by 30%."
+63,name,Water Resistant 3
+63,description,"Reduces any water-element damage
+sustained by 50%."
+64,name,Quakeproof 1
+64,description,"Reduces any earth-element damage
+sustained by 10%."
+65,name,Quakeproof 2
+65,description,"Reduces any earth-element damage
+sustained by 30%."
+66,name,Quakeproof 3
+66,description,"Reduces any earth-element damage
+sustained by 50%."
+67,name,Wind Shield 1
+67,description,"Reduces any wind-element damage
+sustained by 10%."
+68,name,Wind Shield 2
+68,description,"Reduces any wind-element damage
+sustained by 30%."
+69,name,Wind Shield 3
+69,description,"Reduces any wind-element damage
+sustained by 50%."
+70,name,Insulator 1
+70,description,"Reduces any lightning-element damage
+sustained by 10%."
+71,name,Insulator 2
+71,description,"Reduces any lightning-element damage
+sustained by 30%."
+72,name,Insulator 3
+72,description,"Reduces any lightning-element damage
+sustained by 50%."
+73,name,Sunblock 1
+73,description,"Reduces any light-element damage
+sustained by 10%."
+74,name,Sunblock 2
+74,description,"Reduces any light-element damage
+sustained by 30%."
+75,name,Sunblock 3
+75,description,"Reduces any light-element damage
+sustained by 50%."
+76,name,Night Light 1
+76,description,"Reduces any dark-element damage
+sustained by 10%."
+77,name,Night Light 2
+77,description,"Reduces any dark-element damage
+sustained by 30%."
+78,name,Night Light 3
+78,description,"Reduces any dark-element damage
+sustained by 50%."
+79,name,Nullify Element
+79,description,"10% chance of damage from any elemental
+attack being reduced to 0."
+80,name,Poison Guard
+80,description,50% chance of preventing poisoning.
+81,name,Weak Guard
+81,description,50% chance of preventing weakening.
+82,name,Paralysis Guard
+82,description,50% chance of preventing paralysis.
+83,name,Terror Guard
+83,description,50% chance of preventing terror.
+84,name,Stone Guard
+84,description,50% chance of preventing petrification.
+85,name,All Guard
+85,description,"30% chance of preventing any
+physical ailment."
+86,name,Status Proof
+86,description,Prevents all status effects from working.
+87,name,Stun Proof
+87,description,Prevents the user from being stunned.
+88,name,Lucky Step
+88,description,"5% chance of nullifying damage when hit by 
+a physical attack."
+89,name,Spell Dodge
+89,description,"5% chance of nullifying damage when hit by 
+a spell attack."
+90,name,Anti Magic
+90,description,"Positive and negative magic effects are all
+nullified. This does not include Rave effects."
+91,name,Void Attack
+91,description,"10% chance of avoiding staggering caused
+by physical attacks."
+92,name,Void Magic
+92,description,"10% chance of avoiding staggering caused
+by spells."
+93,name,Glory
+93,description,Cannot be staggered by any type of attack.
+94,name,Concentrate
+94,description,"Cannot be staggered by attacks sustained
+while casting spells."
+95,name,Endure
+95,description,"Decreases the amount of time needed to 
+recover from being staggered."
+96,name,Physical Guard 1
+96,description,"Reduces physical damage sustained while
+guarding by 10%."
+97,name,Physical Guard 2
+97,description,"Reduces physical damage sustained while
+guarding by 30%."
+98,name,Physical Guard 3
+98,description,"Reduces physical damage sustained while
+guarding by 50%."
+99,name,Magic Guard 1
+99,description,"Reduces magic damage sustained while
+guarding by 10%."
+100,name,Magic Guard 2
+100,description,"Reduces magic damage sustained while
+guarding by 30%."
+101,name,Magic Guard 3
+101,description,"Reduces magic damage sustained while
+guarding by 50%."
+102,name,Technical Guard
+102,description,"Reduces physical damage to 1 while guarding,
+However, received damage is doubled if not."
+103,name,Technical Resist
+103,description,"Reduces magical damage to 1 while guarding,
+However, received damage is doubled if not."
+104,name,Survive
+104,description,"Cannot be KO’ed by any attacks while guarding.
+HP will always be at 1 while guarding."
+105,name,Countermend HP
+105,description,"Restores HP by 10% when a guard counter
+is successfully performed."
+106,name,Countermend TP
+106,description,"Restores TP by 10% when a guard counter
+is successfully performed."
+107,name,Counter Rave
+107,description,"Extends the length of Rave Bonus after
+a successful guard counter."
+108,name,High Metabolism
+108,description,"Increases the effects of any healing artes
+or items used on the user by 10%."
+109,name,Heal Plus
+109,description,"Increases the effects of any healing artes
+used by the user by 5%."
+110,name,Heal Supply
+110,description,"Restores the caster's HP by 5% every time
+they use any artes that restore HP."
+111,name,TP Converter
+111,description,"When TP is reduced to 0, artes will instead
+consume HP at 10 times the TP cost. "
+112,name,Rave Boost
+112,description,"Increases the rate at which the Rave
+Gauge fills up during battle."
+113,name,Over Limit Boost
+113,description,"Increases the rate at which the Over Limit
+Gauge fills up during battle."
+114,name,Aggravate
+114,description,"Increases the chance of enemies performing
+enraged attacks."
+115,name,Tranquilize
+115,description,"Decreases the chance of enemies performing
+enraged attacks."
+116,name,Last-Minute Reprieve
+116,description,10% chance of clinging on with just 1 HP
+117,name,Revival
+117,description,"25% chance of being revived with 10% HP
+when KO'd."
+118,name,Phoenix
+118,description,"100% chance of being revived with 20% HP,
+but only once per battle."
+119,name,HP Aftercare 1
+119,description,"HP is restored by 10% at the end of
+each battle."
+120,name,HP Aftercare 2
+120,description,"HP is restored by 20% at the end of
+each battle."
+121,name,HP Aftercare 3
+121,description,"HP is restored by 30% at the end of
+each battle."
+122,name,TP Aftercare 1
+122,description,"TP is restored by 5% more than usual
+at the end of each battle."
+123,name,TP Aftercare 2
+123,description,"TP is restored by 10% more than usual
+at the end of each battle."
+124,name,TP Aftercare 3
+124,description,"TP is restored by 15% more than usual
+at the end of each battle."
+125,name,HP Gain
+125,description,"Restores HP by 5% when you defeat an
+enemy."
+126,name,TP Gain
+126,description,"Restores TP by 5% when you defeat an
+enemy."
+127,name,Over Limit Gain
+127,description,"If no damage is received during battle,
+your Over Limit Gauge will increase by 20%."
+128,name,EXP Share
+128,description,"Characters not present in battle will gain 
+just as much EXP as active members."
+129,name,EXP Cancel
+129,description,Reduces EXP gained to 0.
+130,name,Dash Cancel
+130,description,"Allows the user to reset the arte chain
+with a forward-step."
+131,name,Jump Cancel
+131,description,"Allows the user to reset the arte chain
+with a jump."
+132,name,Aerial Jump
+132,description,Able to add another jump while in midair.
+133,name,Athlete 
+133,description,Speeds up movement on the battlefield.
+134,name,Athlete 2
+134,description,"Speeds up movement on the battlefield
+even more."
+135,name,Steal Plus
+135,description,"Slightly increases the chance of
+success when using Thievery."
+136,name,Steal Plus 2
+136,description,"Greatly increases the chance of
+success when using Thievery."
+137,name,Steal Plus 3
+137,description,"Massively increases the chance of
+success when using Thievery."
+138,name,Speedy Item 
+138,description,"Slightly reduces the length of time
+between item uses in battle."
+139,name,Speedy Item 2
+139,description,"Greatly reduces the length of time
+between item uses in battle."
+140,name,Speedy Item 3
+140,description,"Massively reduces the length of time
+between item uses in battle."
+141,name,Gel Master
+141,description,"Doubles the effect of gels used
+in battle."
+142,name,KO HP Repair
+142,description,"Restores HP by 30% whenever an
+ally is KO'd."
+143,name,KO TP Repair
+143,description,"Restores TP by 30% whenever an
+ally is KO'd."
+144,name,KO Attack Surge
+144,description,"Increases P.ATK whenever an ally
+is KO'd."
+145,name,KO Defense Surge
+145,description,"Increases P.DEF whenever an ally
+is KO'd."
+146,name,KO Magic Surge
+146,description,"Increases A.ATK whenever an ally
+is KO'd."
+147,name,KO Resist Surge
+147,description,"Increases A.DEF whenever an ally
+is KO'd."
+148,name,Burst Blow
+148,description,"Blows away surrounding enemies and deals 
+damage to them when Over Limit is activated."
+149,name,Burst Stun
+149,description,"Blows away surrounding enemies and 
+stuns them when Over Limit is activated."
+150,name,Burst Absorb
+150,description,"Blows away surrounding enemies and 
+restores HP when Over Limit is activated."
+151,name,Extend
+151,description,Extends Over Limit duration.
+152,name,Infinity
+152,description,Artes don't consume TP while in Over Limit.
+153,name,Instant Spell
+153,description,Cast time is halved while in Over Limit.
+154,name,Invincible
+154,description,"All damage received is nullified 
+while in Over Limit."
+155,name,Attack Burst
+155,description,P. ATK increases by 20% while in Over Limit.
+156,name,Defense Burst
+156,description,P. DEF increases by 20% while in Over Limit.
+157,name,Magic Burst
+157,description,A. ATK increases by 20% while in Over Limit.
+158,name,Resist Burst
+158,description,A. DEF increases by 20% while in Over Limit.
+159,name,Critical Burst
+159,description,Critical rate increases by 20% while in Over Limit.
+160,name,Overdrive
+160,description,"All your stats are increased by 1.5 times during
+Over Limit, the time you're in it is decreased."
+161,name,Heavy Shot
+161,description,"Enemies are staggered much longer when
+attacked while in Over Limit."
+162,name,Limit Breaker
+162,description,"Artes can be chained in any order while in
+Over Limit."
+163,name,Damage Limiter
+163,description,"The rate at which the Over Limit Gauge
+decreases is reduced when attacked."
+164,name,Damage Protector
+164,description,"The Over Limit Gauge will not deplete when 
+attacked during Over Limit."
+165,name,Adrenaline
+165,description,"Increases P. ATK by 20% when
+HP drops to 25% or lower."
+166,name,Last Stand
+166,description,"Increases P. DEF by 20% when
+HP drops to 25% or lower."
+167,name,Hypervigilance
+167,description,"Increases A. ATK by 20% when
+HP drops to 25% or lower."
+168,name,Denial
+168,description,"Increases A. DEF by 20% when
+HP drops to 25% or lower."
+169,name,Attack Value
+169,description,"P. ATK +10%, P. DEF -5%"
+170,name,Attack Bargain
+170,description,"P. ATK +20%, P. DEF & A. DEF -5%"
+171,name,Defense Value
+171,description,"P. DEF +10%, P. ATK -5%"
+172,name,Defense Bargain
+172,description,"P. DEF +20%, A. ATK & P. ATK -5%"
+173,name,Magic Value
+173,description,"A. ATK +10%, A. DEF -5%"
+174,name,Magic Bargain
+174,description,"A. ATK +20%, P. DEF & A. DEF -5%"
+175,name,Resist Value
+175,description,"A. DEF +10%, A. ATK -5%"
+176,name,Resist Bargain
+176,description,"A. DEF +20%, A. ATK & P. ATK -5%"
+177,name,Luck Bargain
+177,description,"Luck +5
+P. ATK, A. ATK, P. DEF, A. DEF -5%"
+178,name,Half Stunned
+178,description,Reduces stun time by half
+179,name,Reduced probability of state change
+179,description,Reduced probability of state change
+180,name,TP All 1
+180,description,All artes costs are reduced to 1 TP
+181,name,Item Ban
+181,description,Item use prohibited
+182,name,Random loss of combat
+182,description,Randomly disabled when attacked
+183,name,Escape
+183,description,Reduces escape time.
+184,name,Grade Up 1
+184,description,Increases Grade received
+185,name,Grade Up 2
+185,description,Greatly increases Grade received
+186,name,Protect Plus
+186,description,Invincible with iron stance
+187,name,Regeneration
+187,description,Restores HP at regular intervals
+188,name,Undead
+188,description,"Revives after a certain amount
+of time has passed"
+189,name,Speed Up
+189,description,Increases movement speed with specified HP.
+190,name,Over Limit Speed
+190,description,"While in Over Limit, increases movement speed."
+191,name,All-Block
+191,description,Completely nullifies attacks.

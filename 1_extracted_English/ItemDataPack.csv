@@ -1,0 +1,3123 @@
+Use,0,name,Apple Gel
+Use,0,description,"Made from the freshly picked apples of Galpos,
+these juicy gels restore HP by 30%."
+Use,1,name,Lemon Gel
+Use,1,description,"These sour yet surprisingly popular
+gels restore HP by 60%."
+Use,2,name,Orange Gel
+Use,2,description,"These tangy yet pleasantly sweet
+gels restore TP by 30%."
+Use,3,name,Pineapple Gel
+Use,3,description,"Made from sun-soaked pineapples of Galpos,
+these juicy gels restore TP by 60%."
+Use,4,name,Melange Gel
+Use,4,description,"These gels, made from a mixture of
+tropical fruits, restore HP and TP by 30%."
+Use,5,name,Miracle Gel
+Use,5,description,"These gels, which restore HP and TP by
+60%, have to be tasted to be believed."
+Use,6,name,Specific
+Use,6,description,"Restores 30% of Max HP for all party members.
+Spread around the area to use it."
+Use,7,name,Treat
+Use,7,description,"Restores 30% of Max TP for all party members.
+Spread around the area to use it."
+Use,8,name,Poison Bottle
+Use,8,description,"This powerful antidote may taste bitter,
+but it works like a charm against poison."
+Use,9,name,Weak Bottle
+Use,9,description,"This weakness-conquering pick-me-up
+should be glugged down with gusto."
+Use,10,name,Paralysis Bottle
+Use,10,description,"This potent anti-paralysis medicine
+should be handled carefully."
+Use,11,name,Terror Bottle
+Use,11,description,"A cure for terror. With enough courage,
+nothing can get in your way!"
+Use,12,name,Stone Bottle
+Use,12,description,"Beware the eye-watering odor of this
+fast-acting cure for petrifaction."
+Use,13,name,Cure Bottle
+Use,13,description,"A liquid whose invigorating fragnance lightens
+the heart and cures all Physical Ailments."
+Use,14,name,Dinei Bottle
+Use,14,description,"A liquid whose rich flowery fragnance soothes the
+worn-out heart and cures all Magical Ailments."
+Use,15,name,Panacea Bottle
+Use,15,description,"This miracle cure treats all known
+physical ailments and status effects."
+Use,16,name,Life Bottle
+Use,16,description,"Puts a fallen ally back on their feet with
+30% of HP and 15% of TP restored."
+Use,17,name,Elixir
+Use,17,description,"Fully restores TP and HP, remedies KO, and
+cures all physical and status ailments."
+Use,18,name,Dark Bottle
+Use,18,description,"This liquid attracts monsters for a fixed amount of 
+time. One should not carelessly use it if unprepared."
+Use,19,name,Umbra Bottle
+Use,19,description,"This unholy substance courts disaster by
+summoning an unstoppable wave of monsters."
+Use,20,name,Holy Bottle
+Use,20,description,"A bottle sealed with holy liquid, it keeps 
+enemies away for a certain amount of time."
+Use,21,name,Sacrosanct Bottle
+Use,21,description,"This sanctified water stops enemies from
+attacking altogether for a short while."
+Use,22,name,Sage
+Use,22,description,"Permanently increases maximum HP by 10.
+An herb with nourishing properties."
+Use,23,name,Red Sage
+Use,23,description,"Permanently increases maximum HP by 30.
+The finest harvest amongst all sages."
+Use,24,name,Savory
+Use,24,description,"Permanently increases maximum TP by 5.
+An herb that calms the mind when consumed."
+Use,25,name,Red Savory
+Use,25,description,"Permanently increases maximum TP by 10.
+The finest harvest amongst all savories."
+Use,26,name,Lavender
+Use,26,description,"Permanently increases maximum P. ATK by 1.
+Said to increase strength when drunk as a concoction."
+Use,27,name,Red Lavender
+Use,27,description,"Permanently increases maximum P. ATK by 3.
+The finest harvest amongst all lavenders."
+Use,28,name,Verbena
+Use,28,description,"Permanently increases maximum P. DEF by 1.
+Said to make your body robust when consumed."
+Use,29,name,Red Verbena
+Use,29,description,"Permanently increases maximum P. DEF by 3.
+A luxury item, aged to maximize its benefits."
+Use,30,name,Chamomile
+Use,30,description,"Permanently increases maximum A. ATK by 1.
+Said to improve one’s concentration when consumed."
+Use,31,name,Red Chamomile
+Use,31,description,"Permanently increases maximum A. ATK by 3.
+An extremely rare and effective herb."
+Use,32,name,Saffron
+Use,32,description,"Permanently increases maximum A. DEF by 1.
+Said to build a strong, unyielding heart when consumed."
+Use,33,name,Red Saffron
+Use,33,description,"Permanently increases maximum A. DEF by 3.
+The finest harvest amongst all saffrons."
+Use,34,name,All-Divide
+Use,34,description,"Reduces all damage inflicted on allies
+and enemies during battle by 50%."
+Use,35,name,Magic Lens
+Use,35,description,"Enables the user to examine an enemy’s
+statistics. Can’t be used on allies."
+Weapon,0,name,Eddie’s Sword
+Weapon,0,description,"At first glance, it looks sturdy, but it’s just a toy.
+However, it hurts even adults when they are hit."
+Weapon,1,name,Broadsword
+Weapon,1,description,"A wide, two-handed sword. Rather than 
+piercing, the emphasis is on slashing."
+Weapon,2,name,Iron Sword
+Weapon,2,description,"A sword made of iron. It is beloved by
+adventurers for being slender yet sturdy."
+Weapon,3,name,Great Sword
+Weapon,3,description,"A very large two-handed sword. Its attacks take 
+advantage of its weight to deal lethal blows."
+Weapon,4,name,Battle Sword
+Weapon,4,description,"A versatile and useful military sword.
+The broad blade adds weight and durability."
+Weapon,5,name,Radius Sword
+Weapon,5,description,"A sword clad with the power of light. Its blade
+has the power to purify those who are cut by it."
+Weapon,6,name,Willow Leaf Sword
+Weapon,6,description,"A single-edged sword common in Ashihara.
+Users utilize its broadness in their fighting styles."
+Weapon,7,name,Bastard Sword
+Weapon,7,description,"A sword capable of both piercing and slashing.
+Contrary to its looks, it’s well-balanced."
+Weapon,8,name,Storm Sword
+Weapon,8,description,"Sword imbued with the power of the wind.
+A blowing wind can be both sword and shield."
+Weapon,9,name,Grim Sword
+Weapon,9,description,"A sword made to resemble a magical sword.
+Part of it contains the soul of Garam’s craftsmen."
+Weapon,10,name,Steel Sword
+Weapon,10,description,"A sword made of steel.
+Simplicity at its finest."
+Weapon,11,name,Sharpness Sword
+Weapon,11,description,"Sword with a sharp edge. Handle with
+care so you don’t accidentally cut yourself."
+Weapon,12,name,Happiness Sword
+Weapon,12,description,"A sword endowed with the name happiness.
+Carries its craftsman’s wishes."
+Weapon,13,name,Magical Sword
+Weapon,13,description,"A magically magical sword.
+What’s magical about it, no one knows."
+Weapon,14,name,Heat Sword
+Weapon,14,description,"It features a red blade reminiscent of flames.
+It seems to symbolize the blazing sun of Galpos."
+Weapon,15,name,Zephyros
+Weapon,15,description,"Sword imbued with the power of the wind.
+The overflowing power has dyed the blade green."
+Weapon,16,name,Zweihander
+Weapon,16,description,"A huge sword. Due to its size, it is best
+used by styles that use a blade’s weight."
+Weapon,17,name,Ice Coffin
+Weapon,17,description,"A sword with the epithet ""Ice Coffin."" It is said this
+coffin grants magical power to he who wields it."
+Weapon,18,name,Voltaic Sword
+Weapon,18,description,"A sword infused with lightning. A ruthless jolt
+pierces those at the receiving end of this blade."
+Weapon,19,name,Rune Sword
+Weapon,19,description,"A sword enhanced by means of an arcane rite.
+Its power makes it surprisingly light and easy to handle."
+Weapon,20,name,Clay Sword
+Weapon,20,description,"A sword containing the power of the earth.
+All those who opposite it shall return to Mother Earth."
+Weapon,21,name,Glorious Sword
+Weapon,21,description,"A sword with the epithet ""Honor.""
+It is said to lead the user to a prestigious position."
+Weapon,22,name,Flamberge
+Weapon,22,description,"A magic sword resembling a sunset. One touch
+of the scorching blade is enough to dry the sea."
+Weapon,23,name,Evil Sword
+Weapon,23,description,"A sword whose blade is clad in the power of Darkness.
+It shall bring ruin to all those who face its evil."
+Weapon,24,name,Mythril Sword
+Weapon,24,description,"An ancient sword forged out of ""Lost Metal.""
+The firm blade is like a well-polished mirror."
+Weapon,25,name,Excalibur
+Weapon,25,description,"A sacred sword with the power of light.
+It shows the way to Cielo when swung."
+Weapon,26,name,Balmung
+Weapon,26,description,"A wide sword with a jewel embedded in it.
+It is claimed to have slain an evil dragon."
+Weapon,27,name,Obsidian
+Weapon,27,description,"The blade shines black, cloaked with the power 
+of a terrible darkness. It is said to lure all to Hell."
+Weapon,28,name,Inferno Sword
+Weapon,28,description,"Imbued with the power of fire, this red blade
+can turn anything to ashes."
+Weapon,29,name,Demon Sword Nebilim
+Weapon,29,description,"A blood-stained demon blade whose power grows
+with each kill. Its wielder has to live with this burden."
+Weapon,30,name,Nail Bat
+Weapon,30,description,"A bat that feels like the turn of the century.
+Try not to swing it around others."
+Weapon,31,name,Varuna
+Weapon,31,description,"A sword with a clear blue blade.
+It is said to promote ethics and maintain order."
+Weapon,32,name,Divine Sword Varuna
+Weapon,32,description,"A sword with otherwordly power capable of
+governing over order and ethics."
+Weapon,33,name,Single-Action Revolver
+Weapon,33,description,"This gun was made several generations ago. Even 
+though it’s old, it’ll work so long as it’s maintained."
+Weapon,34,name,Military Handgun
+Weapon,34,description,A military gun issued to Regnum soldiers.
+Weapon,35,name,Dual-Action Revolver
+Weapon,35,description,"A commonly used gun.
+It’s designed for actual combat."
+Weapon,36,name,Automatic Custom
+Weapon,36,description,"An automatic pistol that boasts an increased
+rate of fire."
+Weapon,37,name,Rapid Trigger
+Weapon,37,description,"A customized gun for quick firing.
+Shoots enemies at blinding speeds."
+Weapon,38,name,Strike Trigger
+Weapon,38,description,"A gun with tweaks to facilitate aiming.
+Nothing can escape its sights."
+Weapon,39,name,Temple Custom
+Weapon,39,description,"Standard issue for clergymen.
+It’s easy to handle and can exorcise evil."
+Weapon,40,name,Sekirei
+Weapon,40,description,"A gun bearing the name of a bird local to Ashihara.
+An exquisitely elaborate and delicate work."
+Weapon,41,name,Aero Magnum
+Weapon,41,description,"A gun with the power of wind.
+Its bullets strike like a piercing gale."
+Weapon,42,name,Quick Worker
+Weapon,42,description,"A gun optimized for operational performance.
+A must-have for rapid-firing gunmen!"
+Weapon,43,name,Desert Burial
+Weapon,43,description,A gun reliable even in bad weather conditions.
+Weapon,44,name,Automatic Magnum
+Weapon,44,description,"An automatic pistol that fires Magnum rounds.
+While difficult to handle, its power makes up for it."
+Weapon,45,name,Happy Trigger
+Weapon,45,description,"A gun with the name of happiness.
+Often mistaken for trigger happy."
+Weapon,46,name,Hyper Magnum
+Weapon,46,description,"Enhanced version of the Automatic Magnum.
+Overall performance is improved."
+Weapon,47,name,Silver Magnum
+Weapon,47,description,"An ornamented gun made of silver.
+Its holy might can banish demons."
+Weapon,48,name,Billy’s Legacy
+Weapon,48,description,"This magical gun is also a legendary gunman’s
+namesake."
+Weapon,49,name,Peacekeeper
+Weapon,49,description,"The gun of one who opposes all conflict.
+May it bring peace and happiness to all."
+Weapon,50,name,Smash Trigger
+Weapon,50,description,"A gun designed for maximum damage per shot.
+Its rounds crush any opposition."
+Weapon,51,name,Vortex Magnum
+Weapon,51,description,"A gun always charged with electrical energy.
+It fires shots akin to balls of lightning."
+Weapon,52,name,Faust Magnum
+Weapon,52,description,"A formerly benevolent gun tainted by darkness.
+It harbors both happiness and agony."
+Weapon,53,name,Mythril Magnum
+Weapon,53,description,"A gun made of the lost metal. Lighter and easier
+to handle than its appearance suggests."
+Weapon,54,name,Gale Tracer
+Weapon,54,description,"A gun named after its connection with strong gales.
+The bullets fired from it trace their path in wind."
+Weapon,55,name,Balsam
+Weapon,55,description,"A gun fashioned with a bright red flower motif.
+Its rounds burst like Balsam seeds when shot."
+Weapon,56,name,Texas Blaze
+Weapon,56,description,"An elaborately made gun said to be the
+soul of a pioneer. Its fire creates new roads."
+Weapon,57,name,Prominence Magnum
+Weapon,57,description,"A gun with fire properties, dyed in
+the crimson of  blazing flames."
+Weapon,58,name,Blizzard Magnum
+Weapon,58,description,"A gun envelopped in air as cold as a blizzard.
+Bestowed with the power of water."
+Weapon,59,name,Waganizer
+Weapon,59,description,"A gun built in the image of a cutesy dinosaur.
+Almost feels like you can hear its cry when you fire."
+Weapon,60,name,Lucifer
+Weapon,60,description,"A gun bearing the name of the Light Bringer.
+It holds such authority that any demon would yield."
+Weapon,61,name,Spirit Gun Lucifer
+Weapon,61,description,"The true form of the Light Bringer’s gun.
+Its immense power shows no mercy."
+Weapon,62,name,Osafune
+Weapon,62,description,"A famous blade from Ashihara.
+Its sharp edge gleams beautifully."
+Weapon,63,name,Dueling Blade
+Weapon,63,description,"A sword typically used in duels.
+Strength of will is reflected through every swing."
+Weapon,64,name,Knight Rapier
+Weapon,64,description,"A sword wielded by knights. Its slender blade
+and sharp point make it ideal for thrusting."
+Weapon,65,name,Blitz Blade
+Weapon,65,description,"A sword specialized in powerful strikes.
+It can subdue an opponent with lightning speed."
+Weapon,66,name,Oriental Blade
+Weapon,66,description,"An exotic sword.
+Its simplicity does not detract from its elegance."
+Weapon,67,name,Kagutsuchi
+Weapon,67,description,"A sword bearing the name of the god of fire.
+It grants its master fiery strength."
+Weapon,68,name,Wind Rapier
+Weapon,68,description,"A sword imbued with the power of wind.
+So light every swing feels like a powerful gust."
+Weapon,69,name,Crescent Blade
+Weapon,69,description,"A sword shaped like a crescent moon.
+Great cutting potential thanks to its curved design."
+Weapon,70,name,Gattenshi
+Weapon,70,description,"A sword with holy power.
+The divinity within allows it to light up its surroundings."
+Weapon,71,name,Skrama Blade
+Weapon,71,description,"Single-edged straight sword.
+The simple shape of its blade makes it easy to handle."
+Weapon,72,name,Lightning Blade
+Weapon,72,description,"A sword with the power of lightning.
+Its voltaic shape instills fear on its opponents."
+Weapon,73,name,Silver Rapier
+Weapon,73,description,"Rapier made of silver.
+A perfect sword to enact judgement upon the sinful."
+Weapon,74,name,Shigure
+Weapon,74,description,"A strange spirit blade whose blade always appears wet.
+It is said its bearer will overflow with magical power."
+Weapon,75,name,Vorpal Blade
+Weapon,75,description,"A sword designed to fight against demonic beasts.
+Its shining blade boasts razor sharpness."
+Weapon,76,name,Formal Rapier
+Weapon,76,description,"A sword officially adopted by the military.
+It is however only bestowed to high ranking officials."
+Weapon,77,name,Fire Blade
+Weapon,77,description,"A sword blessed with the power of fire.
+Its fiery blade embodies the heart of its wielder."
+Weapon,78,name,Muramasa
+Weapon,78,description,"A demonic sword afflicted by a curse.
+Its sharpness is such that it hardly inflicts pain on its prey."
+Weapon,79,name,Masamune
+Weapon,79,description,"Anyone could see this is the real deal at a glance.
+Also knows as the Gauntlet Cutter."
+Weapon,80,name,Mythril Blade
+Weapon,80,description,"A sword forged with metal thought to be lost to time.
+Its lightness alleviates the burden on its wielder."
+Weapon,81,name,Vajra Blade
+Weapon,81,description,"A blade forged with exceedingly hard metal.
+Despite its weight, it possesses the power of earth."
+Weapon,82,name,Schwarzloewe
+Weapon,82,description,"A sword bearing the name ""Black Lion.""
+Its blade carries as much majesty as it does splendor."
+Weapon,83,name,Fujin
+Weapon,83,description,"A sword named after the God of the Wind.
+Its mighty power gives its blade a green sheen."
+Weapon,84,name,Shiden
+Weapon,84,description,"A sharp sword blessed with the power of thunder.
+Its speed and sharpness are akin to lightning itself."
+Weapon,85,name,Daikon
+Weapon,85,description,"A daikon you could slice, but could just as easily 
+slice you. Careful when handling this radish!"
+Weapon,86,name,Susanoo
+Weapon,86,description,"A sword bearing the name of an old mythical god.
+The past repeats itself in a cycle of errors."
+Weapon,87,name,Divine Sword Susanoo
+Weapon,87,description,"A sword bearing the name of an old mythical god.
+Has the power to finally sever the cycle of errors."
+Weapon,88,name,Mercenary Rifle
+Weapon,88,description,"A standard rifle. Its stable performance makes
+it a preferred weapon of mercenaries"
+Weapon,89,name,Thunder Barrel
+Weapon,89,description,"A gun with the power of lightning.
+Bullets shot by this gun hit like lightning strikes."
+Weapon,90,name,Yatagarasu
+Weapon,90,description,"A gun said to invite the soul of a lost warrior to the 
+kingdom of God. Three legs is engraved on it."
+Weapon,91,name,Trench Gun
+Weapon,91,description,"Standard issue army gun.
+Improved for close quarters trench warfare."
+Weapon,92,name,Fomalhaut
+Weapon,92,description,"A gun with the name ""Whale’s Mouth.""
+Its bullets pierce enemies with the power of water."
+Weapon,93,name,Artisan Barrel
+Weapon,93,description,"A gun carefully crafted by craftsmen.
+Its quality is artisanal."
+Weapon,94,name,Chronos
+Weapon,94,description,"A gun bearing the name of a god of the earth.
+Its bullets hit has hard as a giant’s step."
+Weapon,95,name,Sa‘d Al-Su‘ud
+Weapon,95,description,"A gun with the name ""luck of lucks.""
+You might have hapiness, but it’s up to you to claim it."
+Weapon,96,name,Snake Gunner
+Weapon,96,description,"A gun with a bayonet akin to a snake’s fangs.
+It can hook in its foes just as well as it can cut them down."
+Weapon,97,name,Al Nasrain
+Weapon,97,description,"A gun with the name ""two eagles.""
+This bayonet is created in an eagle’s image."
+Weapon,98,name,Dilgan
+Weapon,98,description,"A gun bearing the name of a once worshipped star.
+It is said to give hope to its bearers."
+Weapon,99,name,Apus
+Weapon,99,description,"A gun with the name ""bird of paradise."" It’s said that a bird 
+wrapped in wind enhances the magic power of its owner."
+Weapon,100,name,Phosporos
+Weapon,100,description,"A gun with the name ""light bringer.""
+It brings light to those who have fallen in darkness."
+Weapon,101,name,Cor Scorpio
+Weapon,101,description,"A gun with the name ""scorpion’s heart.""
+Its bullets can precisely capture the target’s heart."
+Weapon,102,name,Alnair
+Weapon,102,description,"A gun with the name ""the bright one.""
+Its barrel shines brightly and blesses its bearer."
+Weapon,103,name,Stribog
+Weapon,103,description,"A gun bearing the name of a god of wind. Its blow 
+becomes a raging gale before hitting its mark."
+Weapon,104,name,Mythril Barrel
+Weapon,104,description,"A gun wrought from ""lost metal.""
+Its bullets tear the sky and its bayonet breaks rocks."
+Weapon,105,name,Sirius
+Weapon,105,description,"A gun with the name ""scorching.""
+All things hit by its bullets will be consumed by fire."
+Weapon,106,name,Ainalhai
+Weapon,106,description,"A gun with the name ""serpent’s eye."" Those who 
+face the serpent’s gaze are reduced to frogs."
+Weapon,107,name,Mirzam
+Weapon,107,description,"A gun with the name of ""herald.""
+Opponents will be condemned to perdition."
+Weapon,108,name,Cor Leonis
+Weapon,108,description,"A gun with the name ""lion’s heart.""
+Its bullets can strike down a lion with a single blow."
+Weapon,109,name,Ra’s Al Ghul
+Weapon,109,description,"A dark gun with the name ""devil’s head.""
+Its red, gleaming barrel always seems to thirst for blood."
+Weapon,110,name,Bamboo Broom
+Weapon,110,description,"A broom of bundled bamboo twigs around a 
+bamboo trunk handle. Sweep away the enemy. ♪"
+Weapon,111,name,Hades
+Weapon,111,description,"A gun with the name of the god of the underworld.
+Its bullets call the enemy into the darkness."
+Weapon,112,name,Godly Rifle Hades
+Weapon,112,description,"A gun with the name of the god of the underworld.
+Anyone who confronts it will be called to hell."
+Weapon,113,name,Church-Issued Dagger
+Weapon,113,description,"A dagger primarily used by the Church.
+Reputed for being both simple and easy to handle."
+Weapon,114,name,Protector Knife
+Weapon,114,description,"A knife conceived for self defense purposes.
+Its offensive and defensive abilities are well-balanced."
+Weapon,115,name,Wind Dagger
+Weapon,115,description,"A dagger blessed with the power of Wind.
+The physical power is low, but the magical power is high."
+Weapon,116,name,Survival Knife
+Weapon,116,description,"A large knife made with survival in mind.
+Possesses both great sharpness and strength."
+Weapon,117,name,Exorcism Blade
+Weapon,117,description,"A knife with the ability to repel demons.
+Begone evil ones! Feel this power and meet your doom!"
+Weapon,118,name,Modern Knife
+Weapon,118,description,"Sharpness, blade weight, ease of use, and much more!
+This knife has been optimised in every possible way!"
+Weapon,119,name,Coral Dagger
+Weapon,119,description,"This coral knife has been blessed with water protection.
+The soul of a Garam smith has been poured into this item."
+Weapon,120,name,Guard Shotel
+Weapon,120,description,"A dagger designed to attack past shields.
+Now improved to deflect incoming attacks."
+Weapon,121,name,Jewel Dagger
+Weapon,121,description,"Double-edged dagger.
+The embedded gems are rare and come from Garpos."
+Weapon,122,name,Burning Edge
+Weapon,122,description,"A knife with the power of fire.
+The blade is just like a burning flame."
+Weapon,123,name,Ground Buster
+Weapon,123,description,"A knife with the power of the earth.
+It is said to be strong enough to shake the earth."
+Weapon,124,name,Zwei Edge
+Weapon,124,description,"A knife with separate but equally sharp edges.
+A bit tricky to utilize, but makes up for it in power."
+Weapon,125,name,Divine Knife
+Weapon,125,description,"A knife with a sacred atmosphere surrounding it.
+Its appearance is the embodiment of Faith itself."
+Weapon,126,name,Orochi
+Weapon,126,description,"A curved serpentine dagger.
+It hides an ominous power of darkness."
+Weapon,127,name,Azoth
+Weapon,127,description,"A knife surrounded by many mysteries.
+Is solving its secrets the ""End"" or rather the ""Beginning?"""
+Weapon,128,name,Mythril Dagger
+Weapon,128,description,"A dagger made of metal thought to be lost to time.
+Legend says if you swing it, it will rend the earth itself."
+Weapon,129,name,Caladbolg
+Weapon,129,description,"Known as ""Solid Lightning"", legends claim that it 
+severed the peaks of three mountains in one slash."
+Weapon,130,name,Ruby Eye
+Weapon,130,description,"A red dagger which houses the power of fire.
+Its shape is reminiscent of an eye."
+Weapon,131,name,Thrones Dagger
+Weapon,131,description,"A knife bearing the name of the ""Thrones.""
+Its aura of purity mesmerizes the living."
+Weapon,132,name,Marduk
+Weapon,132,description,"A knife named after a god of magic and wisdom.
+It has a power similar to an ocean’s temperament."
+Weapon,133,name,Claiomh Solais
+Weapon,133,description,"A knife blessed with the power of light.
+Also known as the ""Unrivaled Sword."""
+Weapon,134,name,Oden
+Weapon,134,description,"A piping hot Oden soaked in many flavors. Make 
+sure not to swing too hard or some might fall off!"
+Weapon,135,name,Israfil
+Weapon,135,description,"A knife said to signal the coming of the Last
+Judgement. Let the sinful be judged fairly."
+Weapon,136,name,Israfil the Bright Sword
+Weapon,136,description,"A knife which guides lost souls to the Light.
+It houses the Light of Salvation that shines on all."
+Weapon,137,name,Leather Gloves
+Weapon,137,description,"Gloves made of leather. It softens the impact on the fist.
+Allows one to fight better than with just their bare hands."
+Weapon,138,name,Battle Gloves
+Weapon,138,description,"Gloves specifically designed for combat.
+The shock absorption for the fists is excellent."
+Weapon,139,name,Flame Gauntlets
+Weapon,139,description,"Gauntlets with the power of Fire.
+Their claws are red just like a blazing flame."
+Weapon,140,name,Blade Knuckles
+Weapon,140,description,"Knuckles built to imitate a blade.
+A versatile weapon that allows one to cut while striking."
+Weapon,141,name,Power Knuckles
+Weapon,141,description,"Gloves that specialize in offensive abilities.
+It is said to fill its user with power when worn."
+Weapon,142,name,Jellied Sapphires
+Weapon,142,description,"Knuckles with an ice-cold blue coloration.
+They are blessed with the power of Water."
+Weapon,143,name,Mole Claws
+Weapon,143,description,"Claws shaped exactly like a moles.
+And no, they aren’t drills, so don’t make that mistake."
+Weapon,144,name,Jamdhar
+Weapon,144,description,"Specially shaped daggers optimized for stabbing.
+Easy to put strength behind each blow and pierce armor."
+Weapon,145,name,Raijin Gauntlets
+Weapon,145,description,"Gauntlets bearing the name of Raijin.
+Thanks to their electric powers they always emit lightning."
+Weapon,146,name,Silver Knuckles
+Weapon,146,description,"Knuckles forged in silver.
+Their blows would crush even demons."
+Weapon,147,name,Angel Arms
+Weapon,147,description,"Gauntlets said to be blessed by angels. 
+It greatly enhances its bearer’s magic power."
+Weapon,148,name,Kaiser Fists
+Weapon,148,description,"A weapon that makes you feel dignified and powerful.
+It is favored by those who stand far above the people."
+Weapon,149,name,Drill Arms
+Weapon,149,description,"Their appearance showcases great perserverance.
+A weapon that embodies romance and heroism."
+Weapon,150,name,Blazing Roar
+Weapon,150,description,"Gauntlets with the power of fire. Their fiery 
+coloration is due to the might of their power."
+Weapon,151,name,Thor Hammers
+Weapon,151,description,"A weapon named after one of Raijin’s very own.
+Its bearer shall earn the blessing of thunder itself."
+Weapon,152,name,Giant Fists
+Weapon,152,description,"Gauntlets as big as a giant’s fists.
+Honestly they look more like spiky iron balls, but..."
+Weapon,153,name,Mythril Arms
+Weapon,153,description,"Gauntlets made of metal thought to be lost to time.
+Legend claims their strength could rend even boulders."
+Weapon,154,name,Demon’s Arms
+Weapon,154,description,"Devil’s fists that grab the very soul of their foes.
+The power of darkness itself lurks deep within."
+Weapon,155,name,Dragon Fangs
+Weapon,155,description,"Gauntlets made by processing dragon fangs.
+They have the power to pierce through anything."
+Weapon,156,name,Windmill
+Weapon,156,description,"Knuckle blades bearing the name ""windmill"".
+Within their serene appearance lies a mighty gale."
+Weapon,157,name,Titan Fists
+Weapon,157,description,"Gauntlets in the image of the fists of the giants’ tribe.
+The earth powers within allow them to shake the ground."
+Weapon,158,name,Paw Pad Knuckles
+Weapon,158,description,"Knuckles with enthralling paw pads.
+Just looking at them makes you want to squish..."
+Weapon,159,name,Rudra
+Weapon,159,description,"Gauntlets that bear the name of a storm god.
+A strike from these fists bring forth a mighty storm."
+Weapon,160,name,Roaring Fists Rudra
+Weapon,160,description,"Gauntlets that bear the name of a storm god.
+Its strikes pierce the heavens with a mighty roar."
+Weapon,161,name,Odigo Desmos
+Weapon,161,description,"A book written in strange and mysterious characters.
+Otherwordly traditions and musings are found within."
+Weapon,162,name,The King in Yellow
+Weapon,162,description,"A book about a certain king who wore a yellow robe.
+It is said bring all who read it to madness."
+Weapon,163,name,Celaeno Fragments
+Weapon,163,description,"A spellbook adorned with ancient designs.
+Filled with arcane knowledge on evil summonings."
+Weapon,164,name,Burning Blood
+Weapon,164,description,"A collection of research on spontaneous human
+combustion. Only a few know the hidden truth."
+Weapon,165,name,The Golden Bough
+Weapon,165,description,"A book filled with all kinds of magic and incantations.
+Historical records and oral traditions are compiled within."
+Weapon,166,name,Tetrabiblios
+Weapon,166,description,"A book centered around astrology.
+It’s said that this work was the basis for all of astrology."
+Weapon,167,name,R’lyeh Text
+Weapon,167,description,"A book about an evil being from the depths of the sea.
+The sounds of water can be heard from... somewhere."
+Weapon,168,name,Song of Gaia
+Weapon,168,description,"A record of songs passed down through time.
+Songs that take one’s life in return of good harvest."
+Weapon,169,name,Zohar
+Weapon,169,description,"A book of sacraments that brings one closer to the 
+gods. Its radiant light shields its owner from disaster. "
+Weapon,170,name,Lemegeton
+Weapon,170,description,"A spellbook detailing the traits and summoning methods
+for various monsters. 5 volumes are compiled within."
+Weapon,171,name,Storm Bringer
+Weapon,171,description,"A grimoire said to call storms and calamities.
+Known to take many forms throughout history."
+Weapon,172,name,People of the Monolith
+Weapon,172,description,"A collection of poems with a faded red cover.
+Enthralls its readers within the world of nightmares."
+Weapon,173,name,Der Hexenhammer
+Weapon,173,description,"A book which records demons and witches.
+It is said to give a shock akin to a lightning strike."
+Weapon,174,name,Cat-alogue
+Weapon,174,description,"A picture book with an adorable cat on its cover.
+It thoroughly records all of a cat’s virtuous traits."
+Weapon,175,name,Book of the Dead
+Weapon,175,description,"A book thought to have been buried alongside the dead.
+It describes the flow of dead souls to the Netherworld."
+Weapon,176,name,Messa da Requiem
+Weapon,176,description,"A book hiding a spell within the confines of a play.
+This esoteric musical is impossible to even perform."
+Weapon,177,name,Liber Legis
+Weapon,177,description,"A book about the people of a faraway world.
+This ancient work has long been left incomplete."
+Weapon,178,name,Seven Cryptical Books of Hsan
+Weapon,178,description,"A collection of arcane books pertaining to the Old Ones.
+Word of its contents have reached beyond this world."
+Weapon,179,name,Aquadingen
+Weapon,179,description,"A study that claims to lead to the Temple of Water.
+It is written in an incomprehensible manner."
+Weapon,180,name,Book of Muse
+Weapon,180,description,"A book about the way of life of the Muse Clan.
+A must-read if you want to get along with them!"
+Weapon,181,name,True Magick
+Weapon,181,description,"A book that explains the truth behind magic.
+The ultimate spellbook that every magician craves."
+Weapon,182,name,G’harne Fragments
+Weapon,182,description,"A spellbook about the city from the depths.
+It also makes multiple allusions to the lost world."
+Weapon,183,name,Necronomicon
+Weapon,183,description,Shut up! It summons Cthulhu.
+Weapon,184,name,N.G.
+Weapon,184,description,"It might be written in an otherworldy alphabet,
+but it seems to be a book that spreads joy."
+Weapon,185,name,Asclepius
+Weapon,185,description,"A grimoire disguised as a medical book. Said to 
+be indecipherable, no one alive can read it."
+Weapon,186,name,True Book Asclepius
+Weapon,186,description,"A grimoire disguised as a medical book. It is said 
+to hold power that could even revive the dead."
+Weapon,187,name,Pilum Muralis
+Weapon,187,description,"Twin spears designed for both throwing and
+stabbing. Relatively light and easy to wield."
+Weapon,188,name,Thundertooth
+Weapon,188,description,"A spear made from the fangs of a thunder beast.
+The blade is always charged with electricity."
+Weapon,189,name,Gusty Spear
+Weapon,189,description,"A spear that holds the power of the wind.
+Every single strike feels like raging winds,"
+Weapon,190,name,Ritual Spear
+Weapon,190,description,"A ceremonial spear designed by a certain tribe.
+A suspicious pattern has been drawn on the blade."
+Weapon,191,name,Gae Dearg
+Weapon,191,description,"It bears the name ""Crimson Spear"".
+It is said to confer various gifts to its wielders."
+Weapon,192,name,Rune Spear
+Weapon,192,description,"A spear enhanced by means of an arcane rite.
+Its material makes it surprisingly light and easy to wield."
+Weapon,193,name,Earth Glaive
+Weapon,193,description,"A glaive which holds the power of earth.
+Its blade is tough and can block enemy attacks."
+Weapon,194,name,Crimson Spear
+Weapon,194,description,"A spear that is as bright and red as a burning flame.
+Every blow to the opponent seems to be engulfed in fire."
+Weapon,195,name,Hasta’s Spear
+Weapon,195,description,"A spear gifted by Hasta as a token of gratitude.
+""Yesterday’s enemy is today’s enemy. Farewell."""
+Weapon,196,name,Diabolos
+Weapon,196,description,"A magical spear bearing the name of the Devil.
+Its overwhelming power will bring harm even to its owner."
+Weapon,197,name,Brionac
+Weapon,197,description,"A divine glaive said to bring absolute victory.
+Nothing in this world is impenetrable by this spear."
+Weapon,198,name,Mythril Lance
+Weapon,198,description,"A spear made of metal thought to be lost to time.
+Every one of its strikes could cut clean through anything."
+Weapon,199,name,Jupiter
+Weapon,199,description,"A spear bearing the name of a thunder god.
+Its blade is always imbued with lightning."
+Weapon,200,name,Anahita
+Weapon,200,description,"A divine spear name after a goddess of purity.
+Characterized by its brilliant azure blade."
+Weapon,201,name,Bahamut’s Tear
+Weapon,201,description,"Said to have come from a giant dragon’s carcass.
+No ordinary person could wield its massive weight."
+Weapon,202,name,Gungnir
+Weapon,202,description,"An unrivaled spear that pierces through everything.
+Once thrown, it shall never miss its mark."
+Weapon,203,name,Rhongomyniad
+Weapon,203,description,"A legendary spear also known as the Holy Lance.
+It makes an appearance in multiple epics."
+Weapon,204,name,Boreas
+Weapon,204,description,"A spear bearing the name of ""The Devourer.""
+Its foes will be slain by the power of the north wind."
+Weapon,205,name,Spring Onion
+Weapon,205,description,"A fine ingredient that is both tasty and healthy!
+Swinging it gives you the great urge to sing."
+Weapon,206,name,Athena
+Weapon,206,description,"A spear bearing the name of the goddess of war.
+It has been adorned with many elegant ornaments."
+Weapon,207,name,Legendary Spear Athena
+Weapon,207,description,"A spear bearing the name of the goddess of war.
+The goddess of victory will always favor its wielder."
+Armor,0,name,Haute Couture
+Armor,0,description,"Made-to-order clothes. It’s well tailored, and
+even priced lower than pre-made products."
+Armor,1,name,Leather Mail
+Armor,1,description,"Armor made from leather.
+Basic equipment for novice adventurers."
+Armor,2,name,Hard Mail
+Armor,2,description,"A metal armor that requires some skill to
+appreciate its full range of usage."
+Armor,3,name,Ring Mail
+Armor,3,description,"A metal armor requiring some
+skills to appreciate."
+Armor,4,name,Iron Mail
+Armor,4,description,"Armor made of iron. Its mastery is said
+by some to be a mark of manhood."
+Armor,5,name,Chain Mail
+Armor,5,description,"Armor improved with the addition of
+thick, interlocked iron rings."
+Armor,6,name,Lamellar Leather
+Armor,6,description,"Armor made by layering ultra-tough leather
+until it is harder than most metal."
+Armor,7,name,Splint Mail
+Armor,7,description,"A chain mail with small iron plates. It has the
+perfect balance of firmness and flexibility."
+Armor,8,name,Breastplate
+Armor,8,description,"Armor that encases the upper body in
+iron, restricting movement slightly."
+Armor,9,name,Battle Suit
+Armor,9,description,"Armor with flexible parts that enable easy
+movement without compromising protection."
+Armor,10,name,Knight Armor
+Armor,10,description,"Armor which only the most high-ranking men
+of chivalry are permitted to don."
+Armor,11,name,Absolute
+Armor,11,description,"A set of armor complete with a layer of light
+armor and chain mail. It’s also resistant to fire."
+Armor,12,name,Silver Mail
+Armor,12,description,"Elegant, finely crafted armor made from
+silver. Popular for ceremonial purposes."
+Armor,13,name,Gothic Plate
+Armor,13,description,"Armor made using traditional methods.
+Difficult to move in, but hard as nails."
+Armor,14,name,Rune Mail
+Armor,14,description,"Armor enhanced by means of an arcane rite.
+Comes with a jazzy blue cloak."
+Armor,15,name,Full Plate
+Armor,15,description,"A very sturdy armor where the joints are
+protected by steel plates. It is very heavy."
+Armor,16,name,Reflex
+Armor,16,description,"Advanced armor with high magical
+resistance but only to enemy spells."
+Armor,17,name,Mythril Mail
+Armor,17,description,"Armor made from the ""lost metal."" Insanely
+robust, it’s every warrior’s dream."
+Armor,18,name,Gold Armor
+Armor,18,description,"An old, yet sturdy, set of armor made of pure gold.
+Legends says it was once donned by a hero."
+Armor,19,name,Star Mail
+Armor,19,description,"An armor that shines like the stars.
+Has darkness resistance."
+Armor,20,name,Last Crusader
+Armor,20,description,"Armor made of a white metal that emits a
+blinding light. Improves light resistance."
+Armor,21,name,Mumbane
+Armor,21,description,"Legendary armor blessed with the
+protection of the earth goddess."
+Armor,22,name,Floga Panoplia
+Armor,22,description,"Strongest armor that transcends all things.
+Posseses the power to drown out all flames."
+Armor,23,name,Vento Armatura
+Armor,23,description,"Strongest armor with the God of Wind’s protection.
+It possesses a hidden power to nullify all winds."
+Armor,24,name,Casual Jacket
+Armor,24,description,"Just by slipping this jacket on, one instantly
+has a more casual look."
+Armor,25,name,Leather Guard
+Armor,25,description,"Light armor made from leather.
+Basic equipment for novice adventurers."
+Armor,26,name,Fine Guard
+Armor,26,description,"High quality light armor. Quite a steal considering
+its surprisingly high defensive capabilities."
+Armor,27,name,Black Guard
+Armor,27,description,"Light armor worn by all mercenaries.
+It is overwhelmingly common on the battlefield."
+Armor,28,name,Iron Guard
+Armor,28,description,"Light armor made from iron. Recommended
+for those journeying to war-torn regions."
+Armor,29,name,Chain Guard
+Armor,29,description,"A light-weight cuirass strengthened with
+a wide metal plate in the chest area."
+Armor,30,name,Lamella Guard
+Armor,30,description,"A chain mail consisting of small plates
+laced together in a parallel row."
+Armor,31,name,Half Guard
+Armor,31,description,"Light armor made from steel and leather.
+Sturdy enough to withstand heavy impact."
+Armor,32,name,Breast Guard
+Armor,32,description,"Light armor which protects the chest well,
+but leaves the arms a little exposed."
+Armor,33,name,Phoenix Guard
+Armor,33,description,"Light armor said to be imbued with the
+flame-resistant force of the Phoenix."
+Armor,34,name,Battle Guard
+Armor,34,description,"Lightweight armor with heavy defense.
+Designed for serious combat professionals."
+Armor,35,name,Mighty Guard
+Armor,35,description,"Expertly made armor which represents
+the pinnacle of non-Arte-based crafting."
+Armor,36,name,Silver Guard
+Armor,36,description,"Light armor made from pure silver which
+is said to ward off both evil and injury."
+Armor,37,name,Gothic Guard
+Armor,37,description,"A brutally basic piece of armor whose
+simplicity is its greatest strength."
+Armor,38,name,Rune Jacket
+Armor,38,description,"A jacket enhanced by means of an arcane rite.
+Impervious to normal physical attacks."
+Armor,39,name,Diamond Guard
+Armor,39,description,"Made from the hardest material known to mankind.
+Unfortunately, it is extremely expensive."
+Armor,40,name,Moon Guard
+Armor,40,description,"A magical armor blessed with the powers of
+the moon. Has light and dark resistance"
+Armor,41,name,Mythril Guard
+Armor,41,description,"Light armor made from the ""lost metal.""
+So light, the wearer won’t know it’s there."
+Armor,42,name,Rare Protector
+Armor,42,description,"A breastplate made by a legendary craftsman.
+No one can replicate its intricate design."
+Armor,43,name,Prism Protector
+Armor,43,description,"Ethereal armor that radiates a holy glow
+in all the colors of the rainbow."
+Armor,44,name,Imperial Guard
+Armor,44,description,"Armor so good, it was endorsed by the
+emperor. Resistant to dark and light."
+Armor,45,name,Aqua Vestite
+Armor,45,description,"A mysterious garment made of flowing waters.
+It is said that it shall wash away all calamities."
+Armor,46,name,Ewig Schwarz
+Armor,46,description,"Pitch black armor made to honor the dark depths.
+All its foes shall feel the beckoning of the abyss."
+Armor,47,name,Magissa Neuron
+Armor,47,description,"Clothes woven with fabric containing 
+magical powers."
+Armor,48,name,Benediction
+Armor,48,description,"Clothes which have received the 
+Church’s blessings."
+Armor,49,name,Amber Robe
+Armor,49,description,"A researcher’s garment.
+It is obviously not meant for combat."
+Armor,50,name,Silk Cloak
+Armor,50,description,"A silk garment.
+It brings out a sense of elegance in the owner."
+Armor,51,name,Feather Robe
+Armor,51,description,"A wind-resistant garment that feels as
+light as a feather."
+Armor,52,name,White Blouse
+Armor,52,description,"A robe of purest white that gives the
+wearer an air of absolute purity."
+Armor,53,name,Black Robe
+Armor,53,description,"A pitch-black garment said to give the
+wearer a glimpse of the darkest of nights."
+Armor,54,name,Magic Robe
+Armor,54,description,"A robe woven in threads emanating faint magic.
+It increases the power of those who wear it."
+Armor,55,name,Mystic Cloak
+Armor,55,description,"A robe that wafts a weird sense of wonder
+through the air around it."
+Armor,56,name,Grim Robe
+Armor,56,description,"An ominous garment blessed with much more
+physical defense than it would appear."
+Armor,57,name,Silver Cloak
+Armor,57,description,"A robe with silver woven into every
+stitch in order to ward off evil."
+Armor,58,name,Middy Blouse
+Armor,58,description,"A blouse made from a magic cloth.
+Can cause a spell to dissipate."
+Armor,59,name,Rune Robe
+Armor,59,description,"A garment enhanced by means of an arcane rite.
+Inspired by the beauty of darkness."
+Armor,60,name,Mirage Cloak
+Armor,60,description,"A mysterious robe that sends attackers
+astray with maddening illusions."
+Armor,61,name,Hermit Cloak
+Armor,61,description,"A cloak said to have been worn by a powerful
+sorcerer who has decided to cast away society."
+Armor,62,name,Moon Robe
+Armor,62,description,"A garment made with a fabric soaked in
+moonlight. Has light and dark resistance."
+Armor,63,name,Mythril Cloak
+Armor,63,description,"A supple yet solid garment woven with
+thread made from the ""lost metal."""
+Armor,64,name,Elder’s Robe
+Armor,64,description,"A holy garment modeled after those worn
+by the highest of high priestesses."
+Armor,65,name,Warlock Robe
+Armor,65,description,"Robe made for skilled mages. It  raise one’s 
+defense."
+Armor,66,name,Believer Robe
+Armor,66,description,"A robe given by Believer White as a proof of 
+friendship. You are a believer from today!"
+Armor,67,name,Heavenly Garb
+Armor,67,description,"A garb sewn in the image of an angel.
+Resistant to both light and dark."
+Armor,68,name,Elemental Cloak
+Armor,68,description,"A cloak blessed by the elements.
+Resistant to earth, water, fire, wind, and lightning."
+Armor,69,name,Lumenstra
+Armor,69,description,"The strongest cloak that has been blessed by the
+God of Light. It is said to absorb all types of light."
+Armor,70,name,Sierra Robe
+Armor,70,description,"The strongest robe that celebrates the mystique 
+of the rainbow. Resistant to all attribute attacks."
+Armor,71,name,Knit Tunic
+Armor,71,description,"Clothes made by carefully knitting yarn.
+You’ll be fine if it’s a bit cold. Only a bit."
+Armor,72,name,Titanium Tunic
+Armor,72,description,"Clothes woven with titanium.
+Reputed for its durability and longevity."
+Armor,73,name,Steel Tunic
+Armor,73,description,"Clothes woven with steel.
+It is considerably heavy as a form of clothing."
+Armor,74,name,White Tunic
+Armor,74,description,"Pure white clothes that radiate cleanliness.
+The struggle to walk in these is actually its charm."
+Armor,75,name,Black Tunic
+Armor,75,description,"Pure black tunic with carbon
+fibers mixed into the fabric."
+Armor,76,name,Battle Tunic
+Armor,76,description,"Tunic that is as easy to move in as it is sturdy.
+Shows its true value during combat."
+Armor,77,name,Knight Tunic
+Armor,77,description,"A ceremonial tunic worn by high-ranking knights.
+Made of high quality material."
+Armor,78,name,Grim Tunic
+Armor,78,description,"Clothes of eccentric design. 
+The tiger embroidery on its front is very charming."
+Armor,79,name,Cheongsam
+Armor,79,description,"This figure-hugging, free-flowing gown is
+a must-have for any female martial artist."
+Armor,80,name,Gothic Cardigan
+Armor,80,description,"Made the traditional way, this garment
+will keep you warm through the winter."
+Armor,81,name,Rune Tunic
+Armor,81,description,"A garment enhanced by means of an arcane rite.
+It boasts a high defense power."
+Armor,82,name,Fur Coat
+Armor,82,description,"A coat made from high-quality fur.
+Resistant to water."
+Armor,83,name,Platinum Tunic
+Armor,83,description,"A high-quality tunic with defensive properties.
+It is made from a fabric mixed with platinum."
+Armor,84,name,Clownerie
+Armor,84,description,"Clothes with a somewhat old fashioned design.
+A melancholic item not unlike traditional wear."
+Armor,85,name,Mythril Tunic
+Armor,85,description,"Mythril is mixed into the fabric, adding
+defense to the garment."
+Armor,86,name,Rare Tunic
+Armor,86,description,"This delicate and sophisticated garment was
+reinforced with the finest craftsmanship."
+Armor,87,name,Holy Tunic
+Armor,87,description,"Garment blessed by holy powers. Protects the life of its 
+wearers. Has light resistance."
+Armor,88,name,Wildcat
+Armor,88,description,"This stunning two-piece is the height of
+fashion, and oozes feral feline fancy."
+Armor,89,name,Vermillion Tunic
+Armor,89,description,"Vermillion clothing that carries an unworldly aura.
+Resists darkness."
+Armor,90,name,Final Chaqueta
+Armor,90,description,"A bodice crafted from an unknown material.
+It is said that the one who wears it will control the world."
+Armor,91,name,Silny Shelk
+Armor,91,description,"Clothes that allow one to showcase their full strength.
+Made of highly resistant silk to stop any and all attacks."
+Helm,0,name,Leather Helm
+Helm,0,description,"A helmet made from leather. Designed
+to protect the upper part of the head."
+Helm,1,name,Armet Helm
+Helm,1,description,"An iron helmet covering the entire head.
+Often used as a display piece."
+Helm,2,name,Iron Sallet
+Helm,2,description,"A helmet made of iron that protects the head, 
+but not the whole face."
+Helm,3,name,Cross Helm
+Helm,3,description,"A type of armet helm that is both functional 
+and sophisticated."
+Helm,4,name,Duel Helm
+Helm,4,description,"A helmet made popular by a folk hero.
+Beloved by arena fighters and duelists."
+Helm,5,name,Brave Helm
+Helm,5,description,"This helmet has the power to
+turn courage into strength."
+Helm,6,name,Glorious Helm
+Helm,6,description,"A helm that shines with a white luster.
+It is said to bring glory to those who wear it."
+Helm,7,name,Night Helm
+Helm,7,description,"A full-face helmet awarded to only
+the most noble of knights."
+Helm,8,name,General Helm
+Helm,8,description,"A helmet decorated with a beautiful plume
+befitting a distinguished general."
+Helm,9,name,Silver Helm
+Helm,9,description,"A beautifully crafted helmet of solid
+silver. Popular for ceremonial purposes."
+Helm,10,name,Gothic Helm
+Helm,10,description,"A historic helmet on which the knight’s
+helm is said to be based."
+Helm,11,name,Rune Helm
+Helm,11,description,"A helm enhanced by means of an arcane rite.
+Only the toughest of attacks are able to dent it."
+Helm,12,name,Sacred Helm
+Helm,12,description,"The domed crown of this sublimely tooled helm 
+perfectly protects the upper head.
+"
+Helm,13,name,Nightmare Helm
+Helm,13,description,"This ill-omened helmet was once worn by
+a warrior who fought like one possessed."
+Helm,14,name,Mythril Helm
+Helm,14,description,"This near-perfect helmet forged from the
+""lost metal"" is both light and sturdy."
+Helm,15,name,Skull Mask
+Helm,15,description,"A mask worn by an unlucky young man who
+was condemned by the title of ""traitor."""
+Helm,16,name,Golden Helm
+Helm,16,description,"A golden helmet like the ones worn by heroes 
+in fairy tales. Extremely heavy."
+Helm,17,name,Hyper Helm
+Helm,17,description,"Though once hailed as the greatest helmet
+ever, it didn’t quite turn out that way."
+Helm,18,name,Gennaios Kranos
+Helm,18,description,"The strongest helmet, only worn by the chosen heroes.
+As long as one wears it, no harm shall befall them."
+Helm,19,name,Krylo Shlem
+Helm,19,description,"Helmet blessed by the Valkyries, adorned with two wings.
+Those who wear it shall never fall in battle."
+Helm,20,name,Hair Band
+Helm,20,description,"An ordinary hair band.
+Usually used as a fashion accessory."
+Helm,21,name,Circlet
+Helm,21,description,"A wooden circlet. It’s simple, but
+it has a wee bit of magical power."
+Helm,22,name,Iron Circlet
+Helm,22,description,"A simple circlet of iron, of the kind that can be 
+bought from any streetside stand."
+Helm,23,name,Oriental Crest
+Helm,23,description,"Decorative headwear with an unusual air.
+Confers the protection of an exotic deity."
+Helm,24,name,Bronze Circlet
+Helm,24,description,"A circlet of pure bronze. Inexpensive, but
+invaluable for increasing concentration."
+Helm,25,name,Brave Circlet
+Helm,25,description,"A circlet that confers courage onto the
+wearer, but may be too heavy for some."
+Helm,26,name,Light Circlet
+Helm,26,description,"A circlet imbued with light energy that’s much, 
+much more impressive than it looks."
+Helm,27,name,Jewel Circlet
+Helm,27,description,"A circlet centered around a giant gem
+that’s said to increase concentration."
+Helm,28,name,Silver Circlet
+Helm,28,description,"A sorcerous circlet of silver that’s
+well suited to magic artes users."
+Helm,29,name,Gothic Circlet
+Helm,29,description,"A circlet made using a method passed
+down through countless generations."
+Helm,30,name,Rune Circlet
+Helm,30,description,"A circlet enhanced by means of an arcane rite.
+Both magically and defensively beneficial."
+Helm,31,name,Platinum Circlet
+Helm,31,description,"A circlet made of platinum.
+It has more defensive properties than mythril."
+Helm,32,name,Mirage Crest
+Helm,32,description,"Said to create an illusory double
+of whoever should wear it."
+Helm,33,name,Mythril Circlet
+Helm,33,description,"An ancient circlet made from the ""lost
+metal."" Guaranteed 100% powerful."
+Helm,34,name,Cat Hair Band
+Helm,34,description,"A cute headband with a motif of a cat.
+Meow!"
+Helm,35,name,Headdress
+Helm,35,description,"The little silk bows are so cute,
+it’s hard not to want to wear it."
+Helm,36,name,Star Circlet
+Helm,36,description,"A circlet that twinkles with starlight,
+protecting the wearer from darkness."
+Helm,37,name,Eclipse Circlet
+Helm,37,description,"A circlet decorated with a dark jewel
+that brings to mind a total eclipse."
+Helm,38,name,Elemental Circlet
+Helm,38,description,"The Spirits boost the wearer’s resistance
+to earth, water, fire, wind, and lightning."
+Helm,39,name,Purum Sanatio
+Helm,39,description,"Its healing abilities could save multiple people at once.
+Pure prayer shall bring salvation."
+Helm,40,name,Saga Capel
+Helm,40,description,"A circlet for which a multitude of techiques were used.
+Legend claims it renders one all-knowing and all-powerful."
+Helm,41,name,Knit Cap
+Helm,41,description,"An ordinary knit cap. Don’t expect too
+many defensive properties from it."
+Helm,42,name,Beret
+Helm,42,description,"A fashionable hat that also protects
+from the elements."
+Helm,43,name,Pointed Hat
+Helm,43,description,"A finely crafted hat. They don’t
+make ’em like this anymore!"
+Helm,44,name,Straw Hat
+Helm,44,description,"A round hat. Be careful not to lose it on
+windy days."
+Helm,45,name,Nightcap
+Helm,45,description,"A hat with a fancy spotted design that
+helps the wearer get a good night’s sleep."
+Helm,46,name,Feathered Turban
+Helm,46,description,"A hat made of woven feathers.
+Wind resistant."
+Helm,47,name,Hunting Cap
+Helm,47,description,"A hat beloved by hunters, as
+it enables nimble movement."
+Helm,48,name,Top Hat
+Helm,48,description,"A black hat of stylish silk that keeps
+the spirit of gentlemanliness alive."
+Helm,49,name,Silver Hat
+Helm,49,description,"A hat embroidered with silver.
+It is more durable than it looks."
+Helm,50,name,Captain’s Hat
+Helm,50,description,"Don this ship-shape chapeau, and you’ll be
+barking orders like nobody’s business!"
+Helm,51,name,Green Beret
+Helm,51,description,"A green hat with a jaunty feather that
+enables unobstructed movement in battle."
+Helm,52,name,Rune Beret
+Helm,52,description,"A beret enhanced by means of an arcane rite.
+Reinforced with defensive magic."
+Helm,53,name,Chapka
+Helm,53,description,"A soft, fluffy hat that you’ll be happy
+to have when you visit wintry regions."
+Helm,54,name,Wizard Hat
+Helm,54,description,"A hat favored by magic artes users that is
+much more protective than it looks."
+Helm,55,name,Cowboy Hat
+Helm,55,description,"A hat that a legendary cowboy used to love.
+Geminoo Sundown’s favorite hat."
+Helm,56,name,Star Beret
+Helm,56,description,"A hat with a cute, starry design, and
+surprisingly strong defensive qualities."
+Helm,57,name,Aifread’s Hat
+Helm,57,description,"A hat loved by a legendary pirate that
+boosts wind and water resistance."
+Helm,58,name,Demon’s Cap
+Helm,58,description,"A hazardous helm made to mimic a devil’s 
+horns. Has strong darkness resistance."
+Helm,59,name,Brezza Cappello
+Helm,59,description,"A hat that is as light as the wind. However, the height
+of its capabilities far surpasses human comprehension."
+Helm,60,name,Finsternis Hut
+Helm,60,description,"A hat surrounded in unfathomable darkness. The depth
+of its power is such that it can never be truly measured."
+Helm,61,name,Ribbon
+Helm,61,description,"A cute ribbon with a crisp color. It
+really makes a fashion statement."
+Helm,62,name,Plaid Ribbon
+Helm,62,description,"A cute ribbon that’s great for those who
+want to look good on the battlefield."
+Helm,63,name,Blue Ribbon
+Helm,63,description,"A cool blue bow that boosts resistance
+to water-element attacks."
+Helm,64,name,Hairpin
+Helm,64,description,"A hair ornament suitable for all sorts of hairstyles.
+This accessory is a must for any Yamato Nadeshiko."
+Helm,65,name,Green Ribbon
+Helm,65,description,"A refreshing, verdant ribbon that boosts
+resistance to wind-element attacks."
+Helm,66,name,Red Ribbon
+Helm,66,description,"A flaming-red ribbon that boosts
+resistance to fire-element attacks."
+Helm,67,name,Purple Ribbon
+Helm,67,description,"An elegant purple ribbon that boosts
+resistance to lightning-element attacks."
+Helm,68,name,Orange Ribbon
+Helm,68,description,"A vibrant orange bow that boosts
+resistance to earth-element attacks."
+Helm,69,name,Black Ribbon
+Helm,69,description,"A chic, understated black ribbon that
+boosts resistance to dark-element attacks."
+Helm,70,name,White Ribbon
+Helm,70,description,"A ribbon decorated with angel’s wings
+that boosts light-element resistance."
+Helm,71,name,Ancient Ribbon
+Helm,71,description,"A ribbon made from ancient magical fabric
+that boosts light and dark resistance."
+Helm,72,name,Pretty Ribbon
+Helm,72,description,"The cutest little ribbon in the world.
+Recalls the innocence of girlhood."
+Helm,73,name,Weird Ribbon
+Helm,73,description,"An adorable ribbon popular with children.
+Puts a smile on even the sourest faces."
+Helm,74,name,Magical Ribbon
+Helm,74,description,"A magical ribbon with a fairly powerful 
+defensive magic"
+Helm,75,name,Elemental Ribbon
+Helm,75,description,"The Spirits boost the wearer’s resistance
+to earth, water, fire, wind, & lightning."
+Helm,76,name,Antico Nastro
+Helm,76,description,"A ribbon which has helped protect its bearer since long
+ago. Mysteriously, this accessory never deteriorates."
+Helm,77,name,Ganar Cinta
+Helm,77,description,"A ribbon adorned by the Goddess of victory as she 
+marched into battle. Grants courage to face any challenge."
+Acc,0,name,Poison Ward
+Acc,0,description,"A powerful holy talisman capable of
+preventing poisoning 50% of the time."
+Acc,1,name,Poison Charm
+Acc,1,description,"A sacred talisman blessed by Cielo
+that prevents poisoning altogether."
+Acc,2,name,Weak Ward
+Acc,2,description,"A powerful holy talisman capable of
+preventing weak 50% of the time."
+Acc,3,name,Weak Charm
+Acc,3,description,"A sacred talisman blessed by Cielo
+that prevents weakness altogether."
+Acc,4,name,Paralysis Ward
+Acc,4,description,"A powerful holy talisman capable of
+preventing paralysis 50% of the time."
+Acc,5,name,Paralysis Charm
+Acc,5,description,"A sacred talisman blessed by Cielo
+that prevents paralysis altogether."
+Acc,6,name,Terror Ward
+Acc,6,description,"A powerful holy talisman capable of
+preventing terror 50% of the time."
+Acc,7,name,Terror Charm
+Acc,7,description,"A sacred talisman blessed by Cielo
+that prevents terror altogether."
+Acc,8,name,Stone Ward
+Acc,8,description,"A powerful holy talisman capable of
+preventing petrification 50% of the time."
+Acc,9,name,Stone Charm
+Acc,9,description,"A sacred talisman blessed by Cielo
+that prevents petrification altogether."
+Acc,10,name,Stun Bracelet
+Acc,10,description,"A bracelet blessed by a baby bird
+that cuts stun time in half."
+Acc,11,name,Stun Talisman
+Acc,11,description,"A talisman imbued with the spirit of a baby
+bird that prevents being stunned altogether."
+Acc,12,name,Amulet
+Acc,12,description,"A powerful holy talisman that prevents
+physical ailments 50% of the time."
+Acc,13,name,Blue Amulet
+Acc,13,description,"A sacred talisman blessed by Cielo that
+prevents physical ailments altogether."
+Acc,14,name,Laurel Crown
+Acc,14,description,"A powerful holy talisman that prevents
+status effects 50% of the time."
+Acc,15,name,Blue Laurel
+Acc,15,description,"A sacred talisman blessed by angels that
+prevents status effects altogether."
+Acc,16,name,World Charm
+Acc,16,description,"A talisman that prevents 50% of ailments
+and effects, and halves stun time too."
+Acc,17,name,Krona’s Symbol
+Acc,17,description,"A sacred talisman that completely cancels
+out all ailments, effects, and stunning."
+Acc,18,name,Flare Cape
+Acc,18,description,"A cape imbued with the power of fire.
+Boosts fire resistance by one level."
+Acc,19,name,Garnet
+Acc,19,description,"A jewel imbued with the power of an infernal fire.
+Boosts fire resistance by two levels."
+Acc,20,name,Aqua Cape
+Acc,20,description,"A cape imbued with the power of water.
+Boosts water resistance by one level."
+Acc,21,name,Aquamarine
+Acc,21,description,"A jewel imbued with the power of a raging tide.
+Boosts water resistance by two levels."
+Acc,22,name,Earth Cape
+Acc,22,description,"A cape imbued with the power of earth.
+Boosts earth resistance by one level."
+Acc,23,name,Ruby
+Acc,23,description,"A jewel imbued with rock-solid Will that
+boosts earth resistance by two levels."
+Acc,24,name,Wind Cape
+Acc,24,description,"A cape imbued with the power of wind.
+Boosts wind resistance by one level."
+Acc,25,name,Opal
+Acc,25,description,"A jewel imbued with the power of a stormy gale.
+Boosts wind resistance by two levels."
+Acc,26,name,Lightning Cape
+Acc,26,description,"A cape imbued with the power of lightning.
+Boosts lightning resistance by one level."
+Acc,27,name,Sardonyx
+Acc,27,description,"A jewel imbued with the power of a tempestuous storm.
+Boosts lightning resistance by two levels."
+Acc,28,name,Light Cape
+Acc,28,description,"A cape imbued with the power of light.
+Boosts light resistance by one level."
+Acc,29,name,Topaz
+Acc,29,description,"A jewel imbued with the power of the radiant dawn.
+Boosts light resistance by two levels."
+Acc,30,name,Dark Cape
+Acc,30,description,"A cape imbued with the power of darkness.
+Boosts darkness resistance by one level."
+Acc,31,name,Amethyst
+Acc,31,description,"A jewel imbued with the power of the umbral night. 
+Boosts darkness resistance by two levels."
+Acc,32,name,Black Onyx
+Acc,32,description,"A precious stone that puts mind and body
+in perfect balance, boosting HP by 30%."
+Acc,33,name,Moonstone
+Acc,33,description,"A precious stone that heightens the
+senses, boosting TP by 30%."
+Acc,34,name,Alexandrite
+Acc,34,description,"A precious stone that banishes doubt from
+the mind, boosting HP and TP by 25%."
+Acc,35,name,Rabbit’s Foot
+Acc,35,description,"A good luck charm for travelers that
+makes the wearer 1 level more lucky."
+Acc,36,name,Turquoise
+Acc,36,description,"A precious stone prized as a good luck
+charm that increases luck by 3 levels."
+Acc,37,name,Attack Ring
+Acc,37,description,"A ring with hidden power. 
+Raises attack by 5% during battle."
+Acc,38,name,Warrior Symbol
+Acc,38,description,"The mark of a legendary warrior.
+Increases physical attack by 10%."
+Acc,39,name,Talisman
+Acc,39,description,"A lucky charm that increases
+physical defense by 5%."
+Acc,40,name,Blue Talisman
+Acc,40,description,"A charm set with a stunning blue stone
+that increases physical defense by 10%."
+Acc,41,name,Yellow Talisman
+Acc,41,description,"A charm set with a stunning yellow stone
+that increases magical defense by 10%."
+Acc,42,name,Magic Mist
+Acc,42,description,"A crystal with smoke sealed inside.
+Increases escape speed."
+Acc,43,name,Risk Ring
+Acc,43,description,"Sacrifices physical and magic defense in
+order to reduce all artes’ TP costs to 1."
+Acc,44,name,Barbatos Ring
+Acc,44,description,"Sacrifices the ability to use items in
+exchange for a big physical attack boost."
+Acc,45,name,Demon’s Ring
+Acc,45,description,"Increases all attributes, but puts the
+wearer at risk of being instantly KO’d."
+Acc,46,name,Dice
+Acc,46,description,"A die carved from the fossil of an animal
+that boosts Grade earned by 10%."
+Acc,47,name,Blue Dice
+Acc,47,description,"A die carved from aqua sapphire that
+boosts Grade earned by 20%."
+Material,0,name,Beef
+Material,0,description,"A beautifully marbled cut of prime beef
+whose rich flavor proves its pedigree."
+Material,1,name,Pork
+Material,1,description,"Tender, top quality meat that can be
+used in all kinds of delicious dishes."
+Material,2,name,Chicken
+Material,2,description,"Grade A free-range chicken,
+prized for its fresh, clean flavor."
+Material,3,name,Eggs
+Material,3,description,"One of the most versatile (and most
+fragile) ingredients in the kitchen."
+Material,4,name,Tuna
+Material,4,description,"Fish so fresh you could eat it raw. Its
+various cuts offer a range of flavors."
+Material,5,name,Salmon
+Material,5,description,"Both the roe and flesh of this
+fish go perfectly with rice."
+Material,6,name,Mackerel
+Material,6,description,"A fish that’s delicious both boiled and
+baked, but only when eaten ocean-fresh."
+Material,7,name,Shrimp
+Material,7,description,"Beneath its tough outer shell lies some
+of the softest, sweetest flesh in the sea."
+Material,8,name,Squid
+Material,8,description,"Almost every part of this superb
+sea creature can be eaten."
+Material,9,name,Kelp
+Material,9,description,"Seaweed rich in flavor and nutrition.
+Used in all manner of classic dishes."
+Material,10,name,Dried Seaweed
+Material,10,description,"Seaweed dried in flat sheets
+that go just perfectly with rice."
+Material,11,name,Crucian Carp
+Material,11,description,"A fish with a peculiar smell. Caught near Ashihara, its
+value has risen because of its dwindling population."
+Material,12,name,Onion
+Material,12,description,"Cut them, and you’ll soon be crying, so be
+careful when and where you use them."
+Material,13,name,Potato
+Material,13,description,"This endlessly versatile vegetable is
+beloved by diners all over the world."
+Material,14,name,Carrots
+Material,14,description,"This crisp yet sweet staple vegetable
+can be enjoyed both raw and cooked."
+Material,15,name,Tomato
+Material,15,description,"This bright red vegetable is unbelievably
+sweet and rich when ripened to perfection."
+Material,16,name,Tofu
+Material,16,description,"A soft food made from soybeans that is
+sometimes called ""the meat of the fields."""
+Material,17,name,Mushrooms
+Material,17,description,"Stewed, fried, or roasted, they’re always
+tasty - but watch out for the poisonous ones."
+Material,18,name,Lettuce
+Material,18,description,"It’s not a salad without a little lettuce.
+The King of salad vegetables!"
+Material,19,name,Cabbage
+Material,19,description,"Raw, boiled, fried, roasted, pickled.
+Is there nothing this wonderveg can’t do?!"
+Material,20,name,Napa Cabbage
+Material,20,description,"An essential vegetable indispensable for hot pots.
+Delicious whether fried or pickled."
+Material,21,name,Green Onion
+Material,21,description,"Often used as a topping for other dishes.
+Don’t wave it around like that--it’s food!"
+Material,22,name,Garlic
+Material,22,description,"Pungent but delicious, this vegetable can
+also be used as a remedy for fatigue."
+Material,23,name,Daikon
+Material,23,description,"Sometimes takes center stage, but is also
+happy to let others enjoy the limelight."
+Material,24,name,Strawberries
+Material,24,description,"Whether used as an ingredient or eaten
+as is, they’re never short of delicious."
+Material,25,name,Bananas
+Material,25,description,"Although eaten raw in most places, some
+people use them in cooking, too."
+Material,26,name,Apple
+Material,26,description,"A fruit with a good balance of sweetness
+and acidity that has a crispy texture."
+Material,27,name,Peach
+Material,27,description,"A soft, sweet, juicy fruit whose soft
+scent sets the mouth watering."
+Material,28,name,Chocolate
+Material,28,description,"With flavors ranging from sweet to bitter,
+chocolate is used in all kinds of dishes."
+Material,29,name,Rice
+Material,29,description,"This stuff really does go with anything,
+especially when boiled to perfection."
+Material,30,name,Bread
+Material,30,description,"One of the staple foods made from rice flour.
+The freshly baked scent is irresistible."
+Material,31,name,Rice Flour
+Material,31,description,"Flour made from ground rice that can be
+used in pasta, bread, and other foods."
+Material,32,name,Milk
+Material,32,description,"Delicious, nutritious cow’s milk that can
+be used in countless foods and drinks."
+Material,33,name,Cheese
+Material,33,description,"A durable foodstuff that comes in
+many types, and can be used in cooking."
+Material,34,name,Salt
+Material,34,description,"The most common seasoning of all,
+but be careful not to use too much!"
+Material,35,name,Miso
+Material,35,description,"A fine food made by skilled craftsmen.
+It’s not rotten, okay? It’s fermented!"
+Event,0,name,Sorcerer’s Ring
+Event,0,description,"A mysterious ring that shoots a small flame.
+An adventuring essential."
+Event,1,name,Modified Sorcerer’s Ring
+Event,1,description,"A ring reinforced by a mysterious force. 
+Its stronger shots give it more practical use."
+Event,2,name,Battle Book
+Event,2,description,"A collection of notes on all sorts of battle related
+information. It’s important to go back to the basics!"
+Event,3,name,Monster Book
+Event,3,description,"A record of every enemy you’ve encountered.
+Look forward to meeting undiscovered enemies!"
+Event,4,name,Monster Fang
+Event,4,description,"The fang of a certain wild beast.
+For some reason stores will buy them."
+Event,5,name,Monster Scale
+Event,5,description,"The scale of a certain wild beast.
+For some reason stores will buy them."
+Event,6,name,Monster Claw
+Event,6,description,"The claw of a certain wild beast.
+For some reason stores will buy them."
+Event,7,name,Monster Fur
+Event,7,description,"The fur of a certain wild beast.
+For some reason stores will buy them."
+Event,8,name,Monster Feather
+Event,8,description,"The plumage of a certain wild beast.
+For some reason stores will buy them."
+Event,9,name,Gold Merchant Bust
+Event,9,description,"A gold statue engraved with the name ""Douzo.""
+Maybe you can exchange one for a lovely prize!?"
+Event,10,name,Silver Merchant Bust
+Event,10,description,"A silver statue engraved with the name ""Kinzo."" Even
+if you bring it to a pawn shop, it is unlikely to sell."
+Event,11,name,Copper Merchant Bust
+Event,11,description,"A copper statue engraved with the name ""Ginzo.""
+Maybe it has something to do with a trick...?"
+Event,12,name,Pickaxe
+Event,12,description,"A well-used pickaxe.
+Can be used to clear piles of rocks."
+Event,13,name,Bomb
+Event,13,description,"Gives off the dangerous scent of black powder. 
+Can be used to remove boulders."
+Event,14,name,Stern Key
+Event,14,description,The key needed to open the stern door.
+Event,15,name,Brooch
+Event,15,description,"A blue gemstone brooch that had fallen
+on the Regnum Pass. The owner is...?"
+Event,16,name,Letter
+Event,16,description,"A letter written by an old man with the ""Dark Wings""
+to his ""grandmother"" in the city."
+Event,17,name,Flower
+Event,17,description,"A flower bought from a little Marmut girl.
+It has a faint and gentle scent."
+Event,18,name,Requested Package
+Event,18,description,"Luggage requested by a cook from Marmut.
+The contents are fresh fruits from Galpos."
+Event,19,name,Letter from Sheeda
+Event,19,description,"A letter from Sheeda from Sania’s village, addressed to 
+Kuda of the Muse Clan."
+Event,20,name,Letter to Sheeda
+Event,20,description,"A letter from Kuda of the Muse Clan, addressed to 
+Sheeda from Sania’s village."
+Event,21,name,Jewel of Wishes [Heaven]
+Event,21,description,"A jewel obtained at Kelm’s Volcano.
+Packed full of fun feelings."
+Event,22,name,Jewel of Wishes [Earth]
+Event,22,description,"A jewel obtained at the Regnum Cave.
+Packed full of sad prayers."
+Event,23,name,Jewel of Wishes [Mankind]
+Event,23,description,"A jewel obtained at Ashihara Royal Tomb. 
+Packed full of feelings for others."
+Event,24,name,Vulcan’s Garnet Sword
+Event,24,description,"A scarlet sword obtained in the Fluffy Forest.
+It seems to have something to do with Vulcan’s swords..."
+Event,25,name,Vulcan’s Azure Sword
+Event,25,description,"An azure sword obtained at the Celestial Garden.
+It seems to have something to do with Vulcan’s swords..."
+Event,26,name,Vulcan’s Emerald Sword
+Event,26,description,"An emerald sword given by Hartmann. 
+It seems to have something to do with Vulcan’s swords..."
+Event,27,name,Vulcan’s Quartz Sword
+Event,27,description,"A quartz dagger given by Ange’s older brother.
+It seems to have something to do with Vulcan’s swords..."
+Event,28,name,Vulcan’s Onyx Sword
+Event,28,description,"A black sword obtained in Grigori’s Hometown.
+It seems to have something to do with Vulcan’s swords..."
+Event,29,name,Vulcan’s Sapphire Sword
+Event,29,description,"A sapphire sword found in your tent.
+It seems to have something to do with Vulcan’s swords..."
+Event,30,name,Vulcan’s Prismatic Sword
+Event,30,description,"A rainbow sword obtained at Naohs Base.
+It seems to have something to do with Vulcan’s swords..."
+Event,31,name,Vulcan’s Morganite sword
+Event,31,description,"A morganite sword obtained at the Calypso Mine.
+It seems to have something to do with Vulcan’s swords..."
+Event,32,name,Crimson Crystal
+Event,32,description,"A crimson crystal with unknown power.
+Can only be used by a limited number of people."
+Event,33,name,Ultramarine Crystal
+Event,33,description,"An ultramarine crystal stone with unknown power.
+Can only be used by a limited number of people."
+Event,34,name,Jade Crystal
+Event,34,description,"A jade crystal with unknown power.
+Can only be used by a limited number of people."
+Event,35,name,Wavellite Crystal
+Event,35,description,"A wavellite crystal with unknown power.
+Can only be used by a limited number of people."
+Event,36,name,Dark Crystal
+Event,36,description,"A dark crystal with unknown power.
+Can only be used by a limited number of people."
+Event,37,name,Amber Crystal
+Event,37,description,"An amber crystal with unknown power.
+Can only be used by a limited number of people."
+Event,38,name,Prismatic Crystal
+Event,38,description,"A rainbow crystal with an unknown power.
+Can only be used by a limited number of people."
+Event,39,name,Coral Crystal
+Event,39,description,"A pink crystal with an unknown power.
+Can only be used by a limited number of people."
+DLC,0,name,Ruca: School
+DLC,0,description,An alternative outfit for Ruca with a schoolyard theme.
+DLC,1,name,Illia: School
+DLC,1,description,An alternative outfit for Illia with a schoolyard theme.
+DLC,2,name,Spada: School
+DLC,2,description,An alternative outfit for Spada with a schoolyard theme.
+DLC,3,name,Ange: School
+DLC,3,description,An alternative outfit for Ange with a schoolyard theme.
+DLC,4,name,Ricardo: School
+DLC,4,description,An alternative outfit for Ricardo with a schoolyard theme.
+DLC,5,name,Hermana: School
+DLC,5,description,An alternative outfit for Hermana with a schoolyard theme.
+DLC,6,name,Kongwei: School
+DLC,6,description,An alternative outfit for Kongwei with a schoolyard theme.
+DLC,7,name,QQ: School
+DLC,7,description,An alternative outfit for QQ with a schoolyard theme
+DLC,8,name,Ruca: Legacy
+DLC,8,description,"An alternative outfit for Ruca in the style
+of TOX’s Jude Mathis."
+DLC,9,name,Illia: Legacy
+DLC,9,description,"An alternative outfit for Illia in the style
+of TOD’s Rutee Katrea."
+DLC,10,name,Spada: Legacy
+DLC,10,description,"An alternative outfit for Spada in the style
+of TOD2’s Loni Dunamis."
+DLC,11,name,Ange: Legacy
+DLC,11,description,"An alternative outfit for Ange in the style
+of TOTA’s Natalia L. K. Lanvaldear."
+DLC,12,name,Ricardo: Legacy
+DLC,12,description,"An alternative outfit for Ricardo in the style
+of TOR’s Eugene Gallardo."
+DLC,13,name,Hermana: Legacy
+DLC,13,description,"An alternative outfit for Hermana in the style
+of TOE’s Chat."
+DLC,14,name,Kongwei: Legacy
+DLC,14,description,"An alternative outfit for Kongwei in the style
+of TOTA’s Jade Curtiss."
+DLC,15,name,QQ: Legacy
+DLC,15,description,"An alternative outfit for QQ in the style
+of TOG’s Sophie."
+DLC,16,name,Ruca: Idol
+DLC,16,description,"An alternative outfit for Ruca that turns him
+into a iDOLM{icon:0x4554}R 2 idol."
+DLC,17,name,Illia: Idol
+DLC,17,description,"An alternative outfit for Illia that turns her
+into a iDOLM{icon:0x4554}R 2 idol."
+DLC,18,name,Spada: Idol
+DLC,18,description,"An alternative outfit for Spada that turns him
+into a iDOLM{icon:0x4554}R 2 idol."
+DLC,19,name,Ange: Idol
+DLC,19,description,"An alternative outfit for Ange that turns her
+into a iDOLM{icon:0x4554}R 2 idol."
+DLC,20,name,Ricardo: Idol
+DLC,20,description,"An alternative outfit for Ricardo that turns him
+into a iDOLM{icon:0x4554}R 2 idol."
+DLC,21,name,Hermana: Idol
+DLC,21,description,"An alternative outfit for Hermana that turns her
+into a iDOLM{icon:0x4554}R 2 idol."
+DLC,22,name,Kongwei: Idol
+DLC,22,description,"An alternative outfit for Kongwei that turns him
+into a iDOLM{icon:0x4554}R 2 idol."
+DLC,23,name,QQ: Idol
+DLC,23,description,"An alternative outfit for QQ that turns her
+into a iDOLM{icon:0x4554}R 2 idol."
+DLC,24,name,Ruca: Previous Life
+DLC,24,description,"An alternative outfit for Ruca in the style
+of The Cielan Asura."
+DLC,25,name,Illia: Previous Life
+DLC,25,description,"An alternative outfit for Illia in the style
+of The Cielan Inanna."
+DLC,26,name,Spada: Previous Life
+DLC,26,description,"An alternative outfit for Spada in the style
+of The Cielan Durandal."
+DLC,27,name,Ange: Previous Life
+DLC,27,description,"An alternative outfit for Ange in the style
+of The Cielan Orifiel."
+DLC,28,name,Ricardo: Previous Life
+DLC,28,description,"An alternative outfit for Ricardo in the style
+of The Cielan Hypnos."
+DLC,29,name,Hermana: Previous Life
+DLC,29,description,"An alternative outfit for Hermana in the style
+of The Cielan Vritra."
+DLC,30,name,Kongwei: Previous Life
+DLC,30,description,"An alternative outfit for Kongwei in the style
+of The Cielan Himmel."
+DLC,31,name,QQ: Previous Life
+DLC,31,description,"An alternative outfit for QQ in the style
+of The Cielan Sakuya."
+DLC,32,name,Ruca: Professional
+DLC,32,description,"An alternative outfit for Ruca in the style
+of a medical intern. "
+DLC,33,name,Illia: Professional
+DLC,33,description,"An alternative outfit for Illia in the style
+of a teacher. "
+DLC,34,name,Spada: Professional
+DLC,34,description,"An alternative outfit for Spada in the style
+of a knight. "
+DLC,35,name,Ange: Professional
+DLC,35,description,"An alternative outfit for Ange in the style
+of a nurse. "
+DLC,36,name,Ricardo: Professional
+DLC,36,description,"An alternative outfit for Ange in the style
+of a hunter. "
+DLC,37,name,Hermana: Professional
+DLC,37,description,"An alternative outfit for Hermana in the style
+of a nun."
+DLC,38,name,Kongwei: Professional
+DLC,38,description,"An alternative outfit for Kongwei in the style
+of a assassin."
+DLC,39,name,QQ: Professional
+DLC,39,description,"An alternative outfit for QQ in the style
+of a army officier."
+DLC,40,name,Title Pack: Animal Ears
+DLC,40,description,"Cute, cool, and everything in between!
+A title pack featuring a wide variety of animals ears."
+DLC,41,name,Title Pack: Bedhead Hair
+DLC,41,description,"Mysterious hair locks popping from the top of your head!
+A title pack featuring some charming hairstyles."
+DLC,42,name,Title Pack: Glasses
+DLC,42,description,"Is it just me or do I feel smarter just putting these on?
+A title pack featuring a nice selection of glasses."
+DLC,43,name,Level +5 (1)
+DLC,43,description,Raises each party member’s level by 5.
+DLC,44,name,Level +5 (2)
+DLC,44,description,Raises each party member’s level by 5.
+DLC,45,name,Level +5 (3)
+DLC,45,description,Raises each party member’s level by 5.
+DLC,46,name,Level +5 (4)
+DLC,46,description,Raises each party member’s level by 5.
+DLC,47,name,Level +5 (5)
+DLC,47,description,Raises each party member’s level by 5.
+DLC,48,name,Level +5 (6)
+DLC,48,description,Raises each party member’s level by 5.
+DLC,49,name,Level +10 (1)
+DLC,49,description,Raises each party member’s level by 10.
+DLC,50,name,Level +10 (2)
+DLC,50,description,Raises each party member’s level by 10.
+DLC,51,name,Level +10 (3)
+DLC,51,description,Raises each party member’s level by 10.
+DLC,52,name,"300,000 Gald (1)"
+DLC,52,description,"Receive 300,000 Gald instantly."
+DLC,53,name,"300,000 Gald (2)"
+DLC,53,description,"Receive 300,000 Gald instantly."
+DLC,54,name,"300,000 Gald (3)"
+DLC,54,description,"Receive 300,000 Gald instantly."
+DLC,55,name,Grade +200 (1)
+DLC,55,description,Receive 200 Grades instantly.
+DLC,56,name,Grade +200 (2)
+DLC,56,description,Receive 200 Grade instantly.
+DLC,57,name,Grade +200 (3)
+DLC,57,description,Receive 200 Grades instantly.
+DLC,58,name,Grade +500 (1)
+DLC,58,description,Receive 500 Grades instantly.
+DLC,59,name,Grade +500 (2)
+DLC,59,description,Receive 500 Grades instantly.
+DLC,60,name,Grade +500 (3)
+DLC,60,description,Receive 500 Grades instantly.
+DLC,61,name,AP +200 (1)
+DLC,61,description,Raises each party member’s AP by 200.
+DLC,62,name,AP +200 (2)
+DLC,62,description,Raises each party member’s AP by 200.
+DLC,63,name,AP +200 (3)
+DLC,63,description,Raises each party member’s AP by 200.
+DLC,64,name,AP +500 (1)
+DLC,64,description,Raises each party member’s AP by 500.
+DLC,65,name,AP +500 (2)
+DLC,65,description,Raises each party member’s AP by 500.
+DLC,66,name,AP +500 (3)
+DLC,66,description,Raises each party member’s AP by 500.
+DLC,67,name,AP +800 (1)
+DLC,67,description,Raises each party member’s AP by 800.
+DLC,68,name,AP +800 (2)
+DLC,68,description,Raises each party member’s AP by 800.
+DLC,69,name,AP +800 (3)
+DLC,69,description,Raises each party member’s AP by 800.
+DLC,70,name,Red Herbs of Goodness (1)
+DLC,70,description,A set of red herbs that greatly improve parameters.
+DLC,71,name,Red Herbs of Goodness (2)
+DLC,71,description,A set of red herbs that greatly improve parameters.
+DLC,72,name,Red Herbs of Goodness (3)
+DLC,72,description,A set of red herbs that greatly improve parameters.
+DLC,73,name,Cooking Ingredient Pack
+DLC,73,description,Contains usefull cooking ingredient for the early game.
+DLC,74,name,Adventure Item Pack
+DLC,74,description,Contains useful HP and TP battle recovery items.
+DLC,75,name,Luxury Item Pack
+DLC,75,description,Luxury items pack. 
+CodeName,0,name,Combo Beginner
+CodeName,0,description,"A title for one who’s performed a 10 hit combo.
+The road to being a combo master starts here."
+CodeName,1,name,Combo Hobbyist
+CodeName,1,description,"A title for one who’s performed a 30 hit combo.
+Let’s keep knocking these combos out of the park!"
+CodeName,2,name,Combo Expert
+CodeName,2,description,"A title for one who’s performed a 60 hit combo.
+If you’ve come this far, you can’t back out now!"
+CodeName,3,name,Combo Master
+CodeName,3,description,"A title for one who’s performed a 100 hit combo.
+What an overwhelming onslaught! Bravo!"
+CodeName,4,name,Berserker
+CodeName,4,description,"Awarded to one who triumphs in the face of 
+overwhelming adversity. Battle is your life’s calling."
+CodeName,5,name,Swordsman’s Apprentice
+CodeName,5,description,"One who’s just acquired a taste for swinging swords.
+You’re not there yet, young grasshopper! Keep at it!"
+CodeName,6,name,Swordsman
+CodeName,6,description,"You can finally call yourself a fully-fledged swordsman.
+Make sure you don’t neglect your daily training."
+CodeName,7,name,Expert Swordsman
+CodeName,7,description,"One who is adept at handling a sword. Now that you’re 
+an expert, maybe you should take on an apprentice."
+CodeName,8,name,Master Swordsman
+CodeName,8,description,"The title given to one who has mastered the sword.
+Your swordsmanship is a refined work of art."
+CodeName,9,name,Arena Champion
+CodeName,9,description,"A title given to one who has won in the arena.
+A feat like that inscribes your name in history!"
+CodeName,10,name,Culinary Prodigy
+CodeName,10,description,"One who has mastered the culinary arts.
+The taste of his cooking is subtly exquisite."
+CodeName,11,name,Seaside Prince
+CodeName,11,description,"No prince worth his salt should stoop to ’swimming.’
+""What? Of course I can swim! Wait, stop pushing me!"""
+CodeName,12,name,King of the Heavens
+CodeName,12,description,"One who has resolved his feelings about his previous life.
+""I am me, and Asura is Asura."""
+CodeName,13,name,Merchant’s Son
+CodeName,13,description,"The only son of the Milda Company.
+A reserved boy who prefers books over sports."
+CodeName,14,name,Pajama Boy
+CodeName,14,description,"A boy who overslept. You might be in a rush, 
+but do make sure to properly change your clothes."
+CodeName,15,name,The Fierce General’s Incarnation
+CodeName,15,description,"His previous life was the Sensus' General Asura.
+Will he ever be worthy of that name...?"
+CodeName,16,name,Forgetful Boy
+CodeName,16,description,"It’s inevitable you’ll forget something eventually.
+So make sure you pay attention to your items!"
+CodeName,17,name,Dummy Ruca
+CodeName,17,description,"A title given to the boy who was
+determined to ’tag along.’"
+CodeName,18,name,Beloved Boy
+CodeName,18,description,"Parents love their children, and vice versa. They 
+wait for their son’s return, praying for his safety."
+CodeName,19,name,A Timid Boy in Love
+CodeName,19,description,"Moved by every action his beloved takes.
+His heart harbors naive and unseen worries."
+CodeName,20,name,The Serious Investigator
+CodeName,20,description,"Someone who properly does what he is told.
+If he’s with you, investigations go perfectly."
+CodeName,21,name,A Dying Pastime?
+CodeName,21,description,"His mind appreciates the view of wabi-sabi, 
+albeit its obscurity. ""I want to go into the tomb!"""
+CodeName,22,name,Taciturn Boy
+CodeName,22,description,"He can’t help but be curious about the state of 
+the secret garden. ""I am a boy, after all!"""
+CodeName,23,name,Member Number 0001
+CodeName,23,description,"A member of the Illia fan club. For some
+reason, he ended up as the club's executive."
+CodeName,24,name,General Asura
+CodeName,24,description,"A title for one who wears a General Asura 
+costume. You too can be the great General!"
+CodeName,25,name,The Boy Who Forgave
+CodeName,25,description,"A title given to one who possesses a forgiving 
+heart. He saves the hearts of those who repent."
+CodeName,26,name,Boy Without Freedom
+CodeName,26,description,"A boy who couldn’t enjoy his free time.
+Even so, he harbors no regrets."
+CodeName,27,name,Unreliable Knight
+CodeName,27,description,"""I might be unreliable, but I’m a knight in her heart.
+I will defend her with my life, at any time."""
+CodeName,28,name,Well-read Boy
+CodeName,28,description,"A title for one who has solved difficult
+quizzes. His intelligence deserves praise."
+CodeName,29,name,The Boy Who Returned
+CodeName,29,description,"One who reunited with his closest friends.
+""Thanks for welcoming me back."""
+CodeName,30,name,The One Bewitched by Glasses
+CodeName,30,description,"One who was possessed by a mighty force within 
+the glasses. Is that source a demon, or darkness?"
+CodeName,31,name,Magical Girl
+CodeName,31,description,"A girl who saves the world using magical powers.
+’He’s not a girl’, you say? It matters not!"
+CodeName,32,name,Predictable Person
+CodeName,32,description,"He still ended up getting in a mess despite being
+warned. What is this strange phenomena...?"
+CodeName,33,name,Together with Toro
+CodeName,33,description,"A very lovely stuffed white cat.
+Its favorite food is medium-fatty tuna."
+CodeName,34,name,Apprentice Gunner
+CodeName,34,description,"Someone who has a hard time handling guns.
+She still needs to practice daily."
+CodeName,35,name,Gunner
+CodeName,35,description,"Grip, frame, muzzle flash.
+Her understanding of guns has grown a lot."
+CodeName,36,name,Great Gunner
+CodeName,36,description,"A girl who became famous among gunmen.
+Her name will reverberate throughout the world!"
+CodeName,37,name,Legendary Gunner
+CodeName,37,description,"A title bestowed to one who can shoot through
+anything. ""By anything, I mean anything."""
+CodeName,38,name,Supremacy’s Empress
+CodeName,38,description,"A title given to one who has dominated the arena.
+With this, will she be able to control all of the arena?"
+CodeName,39,name,Queen of the Kitchen
+CodeName,39,description,"One who has mastered the culinary arts.
+Her fickleness makes the taste of her food RNG."
+CodeName,40,name,Beach Girl
+CodeName,40,description,"A title given to a girl who loves the sea. 
+""Damn it! Why didn’t I bring sunscreen?"""
+CodeName,41,name,Goddess of Fertility
+CodeName,41,description,"""I hate Inanna, but I understand how she felt... 
+I won’t let her feelings go to waste."""
+CodeName,42,name,Fertility Goddess’ Incarnation
+CodeName,42,description,"Although her previous life was Inanna,
+she doesn’t even have an ounce of grace."
+CodeName,43,name,Chitose Hater
+CodeName,43,description,"Meeting face-to-face is bound to bring trouble.
+Will the day come when these two can get along?"
+CodeName,44,name,"Like Owner, Like Pet"
+CodeName,44,description,"If a pet is unreasonable, so is its owner.
+Now, which one is more like the other?"
+CodeName,45,name,Village Chief’s Daughter
+CodeName,45,description,"""Even if I’m like this, I am still the daughter of 
+Sania village’s chief. Still, not really that famous."""
+CodeName,46,name,Romance Breaker
+CodeName,46,description,"In a pragmatic story, she’s the type to break down
+all notions of romance. She’s just a realist."
+CodeName,47,name,Honest to Her Desire
+CodeName,47,description,"A title bestowed to one who is honest with her 
+desires. A word of admiration for her recklessness."
+CodeName,48,name,Noisy Girl
+CodeName,48,description,"Sometimes trivial things get on her nerves.
+""It’s because I’m a girl!"""
+CodeName,49,name,Wrong Person
+CodeName,49,description,"Even if the real person’s not there, it still
+feels unpleasant to be mistaken for Chitose."
+CodeName,50,name,Slacker
+CodeName,50,description,"Even though she uses guns, she still can’t lift
+anything heavier than a knife and a fork."
+CodeName,51,name,The Destoyer of World?
+CodeName,51,description,"""I don’t believe what Chitose says! 
+But I can’t shake this horrible feeling..."""
+CodeName,52,name,The Girl with a Bleak Future
+CodeName,52,description,"A girl with a bleak future. 
+""I’m sure they’ll get bigger... eventually!"""
+CodeName,53,name,Bad Girl
+CodeName,53,description,"An impish girl who’s negative traits include her
+crude tendencies and headstrong nature."
+CodeName,54,name,Fan Club President
+CodeName,54,description,"Formed in opposition to the Chitose fan club. 
+""Aim for 1000 members! Got a problem with that?"""
+CodeName,55,name,Happy-Go-Lucky
+CodeName,55,description,"No matter the situation, make sure to enjoy life!
+That’s what it means to be alive."
+CodeName,56,name,Free Girl
+CodeName,56,description,"A girl who’s certainly earned the title. 
+There’s no strings on her, that’s for sure!"
+CodeName,57,name,Schoolgirl
+CodeName,57,description,"School conquest suits her better than school 
+uniforms. Coz her dream is to become a principal."
+CodeName,58,name,Miracle Girl
+CodeName,58,description,"One who has enough good luck to win a prize in a
+single pull. Skill requires luck, but is luck also a skill."
+CodeName,59,name,The Girl Who Waited
+CodeName,59,description,"The girl who waited for Ruca. ""I can’t say it, 
+but I’m happy. Welcome back, you dummy."""
+CodeName,60,name,Freeshooter
+CodeName,60,description,"It’s important to not tense up when you aim.
+""I won’t miss my prey anymore!"""
+CodeName,61,name,Messenger
+CodeName,61,description,"She delivers words, not letters. ""I won’t have to
+worrry about my letters getting eaten if its words!"""
+CodeName,62,name,Young Knight
+CodeName,62,description,"One who holds a youthful spirit.
+Mischevious and rash. ""I’m justice!"""
+CodeName,63,name,Knight
+CodeName,63,description,"I used to have my hands full looking after myself,
+but now I'm beginning to look after others."
+CodeName,64,name,Skilled Knight
+CodeName,64,description,"One who has persevered through thick and thin.
+Justice, Chivalry... I’m starting to understand them now."
+CodeName,65,name,Holy Knight
+CodeName,65,description,"One who carries the spirit of Noblesse Oblige.
+No matter the enemy, he will protect you!"
+CodeName,66,name,King
+CodeName,66,description,"A title befitting of the arena’s champion. One who has
+retaliated against his brothers. Did you see it? My ability!"
+CodeName,67,name,Bad Cook
+CodeName,67,description,"One who has mastered the culinary arts.
+He might look like a delinquent, but he’s one of the best!"
+CodeName,68,name,Perverted Prince of Darkness
+CodeName,68,description,"A title given to one whose perversness is
+as great as a Demon King’s. Paradise is there!"
+CodeName,69,name,The Holy Sword That Guides ’til the End
+CodeName,69,description,"A person who received power from Durandal.
+He and the soul of the holy sword are always together."
+CodeName,70,name,Juvenile Delinquent
+CodeName,70,description,"Everyone in Regnum knows him as the leader of the
+neighborhood gang. You can only carry this title as a child."
+CodeName,71,name,The Holy Sword’s Incarnation
+CodeName,71,description,"His previous life was the holy sword Durandal.
+His swordsmanship is incredible."
+CodeName,72,name,Rock-Paper-Scissors Master
+CodeName,72,description,"The title of the person who defeated the
+rock-paper-scissors master. Is this feat even useful?"
+CodeName,73,name,Young Master
+CodeName,73,description,"The son of the Belforma family.
+""It’s not like I tried to hide it!"""
+CodeName,74,name,One Who Worries About Future Love
+CodeName,74,description,"Someone who worries about his friend’s love life. He
+worries over others more than himself. A true friend."
+CodeName,75,name,Noble with Overflowing Elegance
+CodeName,75,description,"A delinquent at first glance, but royal blood flows through
+his veins. If he shows this side, his elegance is unmatched."
+CodeName,76,name,Previous Owner of the Secret Hideout
+CodeName,76,description,"""I get that kids like making secret bases, but now mine’s
+been changed completely. I got mixed feelings on this."""
+CodeName,77,name,Slacker
+CodeName,77,description,"""I can read, but I don’t feel like reading books.
+I’d rather slack than study."""
+CodeName,78,name,Rigged Coin
+CodeName,78,description,"Using his wit, he faked the results of the coin toss.
+All for the sake of his friend’s love life."
+CodeName,79,name,Barrage Master
+CodeName,79,description,"A title for the person who defeated the Barrage Master.
+A fitting name for one skilled in successive strikes."
+CodeName,80,name,Son of Vulcan
+CodeName,80,description,"A person who was created to be of good use to people.
+And the conclusion of that wish is..."
+CodeName,81,name,Perverted Aristocrat
+CodeName,81,description,"One who devotes himself to the voices of flowers. Instinct
+alone drives him. Such is the life of a man amongst men."
+CodeName,82,name,Weird Hat
+CodeName,82,description,"The nickname ’Weird hat’ is proof that he’s QQ’s friend.
+""I didn’t like it at first, but it’s not too shabby!"""
+CodeName,83,name,The Great Thief of the Streets
+CodeName,83,description,"Heir to the ’Dark Wings,’ the great phantom thieves of
+the century who help the weak and defeat the strong."
+CodeName,84,name,Member #0002
+CodeName,84,description,"A member of the Illia fan club. Before
+you knew it, you were forced to join."
+CodeName,85,name,Camaraderie
+CodeName,85,description,"Whenever you're in trouble, we'll face it together.
+A title bestowed only upon true friends."
+CodeName,86,name,Aristocratic Spendthrift
+CodeName,86,description,"Even with his extravegant spending, his
+wallet was no match for Ange's appetite..."
+CodeName,87,name,Ishitori Master
+CodeName,87,description,"The title of the person who defeated the Ishitori Master.
+""I suck at studying, but I’m a quick thinker."""
+CodeName,88,name,The Lost Hat
+CodeName,88,description,"Those who have had their hats lost to the wind.
+How people will view you depends on your appearance..."
+CodeName,89,name,The Boy Who Believed
+CodeName,89,description,"""I believed you would return no matter what happened.
+Our bonds are unbreakable!"""
+CodeName,90,name,Nun
+CodeName,90,description,"A woman who serves in a church. 
+""Offer thy prayers to Cielo today."""
+CodeName,91,name,Priest
+CodeName,91,description,"One who is capable of leading the procession. 
+""It is time to offer your donations."""
+CodeName,92,name,Bishop
+CodeName,92,description,"A highly influential person who preaches the doctrine. 
+One who guides lost lambs towards salvation."
+CodeName,93,name,Archbishop
+CodeName,93,description,"A title given to the one who brings forth great salvation. 
+""May you gain fortune upon this earth."""
+CodeName,94,name,Greatest Achievement
+CodeName,94,description,"A title given to the person who dominated the arena. 
+Such is the strength of a servant of Cielo... Amazing."
+CodeName,95,name,Cuisine Connoisseur
+CodeName,95,description,"One who has mastered the culinary arts.
+With her first-class tongue, her evaluations are critical."
+CodeName,96,name,Sand Angel
+CodeName,96,description,"A radiant angel with a dazzling yet self-indulgent body.
+Attracting attention on the beach is inevitable!"
+CodeName,97,name,Himmel’s Educator
+CodeName,97,description,"A person who has received power from Orifiel. 
+""I believe this power will save the world."""
+CodeName,98,name,Saintess
+CodeName,98,description,"A woman who is said to cure any illness or injury. 
+One whose heart is eternally merciful."
+CodeName,99,name,Wise General’s Incarnation
+CodeName,99,description,"Her previous life was the Wise General Orifiel.
+Her manner of speech is proof of her superior intellect."
+CodeName,100,name,Stubborn Employer
+CodeName,100,description,"""Call me stubborn if you wish, I shall stand firm in my
+convictions. Even more so if it is to save others."""
+CodeName,101,name,Woman who Dealt the Final Blow
+CodeName,101,description,"""No matter how much you try to understand the other 
+person, it’s meaningless if you don’t remember their name..."""
+CodeName,102,name,Sermon Maid
+CodeName,102,description,"A woman who has been swept away and became
+a maid. ""Even my master won’t overlook this!"""
+CodeName,103,name,All-seeing Woman
+CodeName,103,description,"A title given to those who have a keen eye. 
+Even if Cielo forgives it, she will not tolerate slacking."
+CodeName,104,name,Realist
+CodeName,104,description,"A practitioner of pragmatism, a tactician’s incarnation.
+""What matters most is that we accomplish our objective."""
+CodeName,105,name,A Woman with Nothing to Hide
+CodeName,105,description,"""Bringing up delicate topics in front of girls is a 
+no-no, even if there’s nothing to worry about!"""
+CodeName,106,name,Yamato Nadeshiko
+CodeName,106,description,"The highest form of praise for a neat
+and beautiful woman in Ashihara."
+CodeName,107,name,Member #0003
+CodeName,107,description,"A member of the Illia fan club. Before
+you knew it, you were forced to join."
+CodeName,108,name,Cunning Woman
+CodeName,108,description,"Not all women in the world are, but being
+so might give you an advantage in life."
+CodeName,109,name,Free Woman
+CodeName,109,description,"A woman who ate as she pleased. Resourcefulness 
+is required to keep up with her gluttony."
+CodeName,110,name,One With a Discerning Eye
+CodeName,110,description,"A title befitting someone who has an eye for beauty.
+""It is unacceptable for businesses to prey on the weak!"""
+CodeName,111,name,A Burdened Person
+CodeName,111,description,"One who hears the voices of the souls wandering in
+Lemures Marsh. What burdens does she carry...?"
+CodeName,112,name,The Woman Who Welcomes
+CodeName,112,description,"A woman who warmly welcomed the one who returned.
+With her, there’s always a place to return to."
+CodeName,113,name,Binge Eating Champion
+CodeName,113,description,"The title given to the winner of the Binge Eating Contest.
+Her appetite is as vast as the universe!"
+CodeName,114,name,Food Goddess
+CodeName,114,description,"A woman who rebuilt a bread pudding shop from the ground up.
+Her guidance might be inspired by the god of food himself!"
+CodeName,115,name,One Beloved by Glasses
+CodeName,115,description,"A woman who was given a present by her past self’s beloved
+disciple. These are fashion glasses, so you won’t get dizzy!"
+CodeName,116,name,Heavy Drinker
+CodeName,116,description,"The title given to the woman who stood until
+the very end. ""It was very delicious juice ♪"""
+CodeName,117,name,Ballroom Flower
+CodeName,117,description,"A woman who became the focus of attention at a ball.
+""It was my first time dancing, but I was able to do it well."""
+CodeName,118,name,Sniper
+CodeName,118,description,"Those who support from behind on the battlefield. Aiming
+at a distant target requires a large amount of patience."
+CodeName,119,name,Veteran Sniper
+CodeName,119,description,"One who wears the scent of gunpowder.
+The title of ’Veteran’ befits a man such as this."
+CodeName,120,name,Legendary Sniper
+CodeName,120,description,"A gunman who can nail distant targets with ease.
+A resourceful man who wastes not a single bullet."
+CodeName,121,name,Sniper King
+CodeName,121,description,"The title of he who has mastered the rifle. If one meets
+him on the battlefield, they’d best prepare for death."
+CodeName,122,name,Strongest Mercenary
+CodeName,122,description,"A title given to the person who dominated the arena.
+After the adventure, a fervent offer awaits."
+CodeName,123,name,Gourmet Soldier
+CodeName,123,description,"One who has mastered the culinary arts.
+The day to deliver to the battlefield draws near."
+CodeName,124,name,Man of the Sea
+CodeName,124,description,"A title given to a beach star. 
+You can’t keep your eyes off the back of that underwear!"
+CodeName,125,name,Reaper of War
+CodeName,125,description,"One who wields the power of Hypnos. ""I will sell my
+soul to the Reaper as long as those kids are safe."""
+CodeName,126,name,Mercenary
+CodeName,126,description,"His services go to the highest bidder.
+""I will wag my tail at the enemy, provided they pay enough."""
+CodeName,127,name,The Reaper’s Incarnation
+CodeName,127,description,"His previous life was the Reaper Hypnos.
+Is it his fate to be on the battlefield...?"
+CodeName,128,name,Mercenary Who Works for Free
+CodeName,128,description,"I may be dissatisfied, but my employer’s command 
+is absolute. Just put up with the pro bono."
+CodeName,129,name,Dozing Mercenary
+CodeName,129,description,"Sometimes, even mercenaries want to rest. 
+""I’ll accept a proper scolding afterwards."""
+CodeName,130,name,Mr. Dandy
+CodeName,130,description,"An attractive man with an adult sex appeal. 
+His coolness emanates from his years of experience."
+CodeName,131,name,Wolf with Bunny Ears
+CodeName,131,description,"Bunny by day. Wolf by night. 
+A title given to those who have such aspects."
+CodeName,132,name,One Who Wears Death
+CodeName,132,description,"One who has taken many lives in his previous life.
+The souls that he has claimed are innumerable."
+CodeName,133,name,Man of Many Names.
+CodeName,133,description,"A person who was once known by many names on 
+the battlefield. I still remember the smell of smoke."
+CodeName,134,name,Hunter of the future?
+CodeName,134,description,"""In the future I’d like to live leisurely. Not relying on
+anyone else and hunting only when necessary."""
+CodeName,135,name,The Misunderstood One
+CodeName,135,description,"A man who has caused a misunderstanding. 
+Push too much and you might end up in trouble."
+CodeName,136,name,Member #0004
+CodeName,136,description,"A member of the Illia fan club. Before
+you knew it, you were forced to join."
+CodeName,137,name,Traitor
+CodeName,137,description,"One who betrayed his companions. 
+The trust he has built easily crumbled away"
+CodeName,138,name,Brother
+CodeName,138,description,"A person who still longs for his older brother. 
+Even if his appearance has changed, his feelings will not."
+CodeName,139,name,Free Mercenary
+CodeName,139,description,"A person who went shopping with Hermana. 
+Being a babysitter’s not easy."
+CodeName,140,name,Airship Pilot
+CodeName,140,description,"He was doubtful at first, but he makes for a great captain. 
+However, he’s still not good with heights."
+CodeName,141,name,The Black Guard
+CodeName,141,description,"""I will not allow anyone to forget the pride of a mercenary.""
+He swiftly protects his master. An escort among escorts."
+CodeName,142,name,Pumpkin-Obsessed
+CodeName,142,description,"A person who became a pumpkin carriage. 
+Not discouraged even if his only scene is cut out."
+CodeName,143,name,Worried Man
+CodeName,143,description,"""Kids aren’t the only ones who worry...
+Adults do too."""
+CodeName,144,name,Thorn at the Ball
+CodeName,144,description,"One who always watches over his employer
+from the shadows. Totally not a stalker."
+CodeName,145,name,Avenger
+CodeName,145,description,"One who has avenged his brother’s death. 
+His soul shall remain on the earth he loved."
+CodeName,146,name,Brawler
+CodeName,146,description,"A girl who is good at fighting. 
+One who waves her fists in order to protect her children."
+CodeName,147,name,Close-quarter Combatant
+CodeName,147,description,"A girl who is good at keeping close to the enemy while fighting.
+Her strength lies in her close-quarter combat skill."
+CodeName,148,name,Grappler
+CodeName,148,description,"Despite being self-taught, her instincts shine brillantly.
+The capability to take over the world lies within her right hand."
+CodeName,149,name,Master
+CodeName,149,description,"A title given to someone who has mastered martial arts. 
+Her fists, a deadly weapon that can easily crush rock."
+CodeName,150,name,Champion
+CodeName,150,description,"A title given to the person who dominated the arena.
+She may have conquered the world, but it’s only the start!"
+CodeName,151,name,Child Chef
+CodeName,151,description,"One who has mastered the culinary arts.
+Don’t look down on her just cause she’s a child!"
+CodeName,152,name,Tropical Girl
+CodeName,152,description,"A girl who runs around the beach and swims in the sea. 
+It was when the sun began to set that she realized..."
+CodeName,153,name,The Dragon God who Watches Over the Heavens
+CodeName,153,description,"A title given to the one who received Vritra’s power. 
+""I’m glad ah was her in mah previous life."""
+CodeName,154,name,Street Child
+CodeName,154,description,"A girl who lives on the street. 
+""I may not have money, but I have lots of friends."""
+CodeName,155,name,Dragon God’s Incarnation
+CodeName,155,description,"Her previous self was the dragon god Vritra. 
+Her eyes that are filled with kindness watch over children."
+CodeName,156,name,Streetsmart
+CodeName,156,description,"Her superb skill was necessary for survival,
+but it’s hard to talk about it without tearing up."
+CodeName,157,name,Dozing Girl
+CodeName,157,description,"A girl who drooled while she slept.
+""Can’t be helped, ah can’t read, hear?"""
+CodeName,158,name,Landmine Girl
+CodeName,158,description,"The girl who said something that she shouldn’t have. 
+Her mouth is the source of misfortune."
+CodeName,159,name,The Girl with A Promising Future
+CodeName,159,description,"A girl who expects a promising future. ""A wonderful
+future is waiting for both my heart and my body!"""
+CodeName,160,name,Hero of Justice
+CodeName,160,description,"Someone who will charge through fire, swim through water 
+and fight countless bandits for the sake of her family."
+CodeName,161,name,Gothic Lolita
+CodeName,161,description,"A girl scouted by a fashion designer. 
+""Ah have talent for modelin’!?"""
+CodeName,162,name,Member #0005
+CodeName,162,description,"A member of the Illia fan club. Before
+you knew it, you were forced to join."
+CodeName,163,name,Like a Dog
+CodeName,163,description,"A girl with a dog-like sense of smell that
+does not miss even the slightest odor."
+CodeName,164,name,The Worshipped One
+CodeName,164,description,"A girl who was worshipped in the past as a dragon of
+agriculture. ""Ah wonder if they’ll offer me sum fruit?"""
+CodeName,165,name,Ruca’s Guardian
+CodeName,165,description,"A title given to a caring girl. 
+""Ah wonder if it’s cause of mah past life?"""
+CodeName,166,name,Free-Spirited Girl
+CodeName,166,description,"A girl who went shopping with Ricardo. 
+It seems to be a child’s job to annoy adults."
+CodeName,167,name,Problem Child
+CodeName,167,description,"She may unintentionally cause problems for others,
+but the life she brings to the party makes her hard to hate."
+CodeName,168,name,The Beloved Daughter
+CodeName,168,description,"No matter how much time passes, that love will last forever."
+CodeName,169,name,The Girl who Waited for her Son
+CodeName,169,description,"""Ah wonder if he’ll manage to come back safely?
+That’s mah worry, as his friend and his mum."""
+CodeName,170,name,Sian’s Friend
+CodeName,170,description,"A girl who became Sian’s friend. You can be friends
+with anyone as long as you believe you can!"
+CodeName,171,name,Cat-eared Girl
+CodeName,171,description,"This title is a present to the one who helped look
+for a white cat. Purrfect for a wild girl, meow～"
+CodeName,172,name,Magician
+CodeName,172,description,"An arte practitioner from another world. 
+Apparently his techniques differ from Cielan Artes."
+CodeName,173,name,Sorcerer
+CodeName,173,description,"One who uses few difficult artes as if it’s nothing.
+Female practicioners with this skill are called ""sorceress."""
+CodeName,174,name,Wizard
+CodeName,174,description,"Proof that one can handle more sophisticated artes. 
+Female practitioners at this level are called ""witches."""
+CodeName,175,name,Wiseman
+CodeName,175,description,"A title given to one who has obtained
+wisdom. They can use artes freely."
+CodeName,176,name,Sage
+CodeName,176,description,"A title given to a one who dominated the arena.
+No other practitioner’s skills surpass his own."
+CodeName,177,name,Magical Chef
+CodeName,177,description,"One who has mastered the art of cooking. Like casting
+a spell, he creates dishes using his trusty cookbook."
+CodeName,178,name,Diver Youth
+CodeName,178,description,"A young man who swims with the dolphins.
+He hates getting sunburned while in the sea."
+CodeName,179,name,Receiver of Divine Power
+CodeName,179,description,"One who has received a blessing from Vulkan.
+How will he wield his newly acquired power?"
+CodeName,180,name,Enigmatic Young Man
+CodeName,180,description,"A young man shrouded in mystery. 
+What secrets belie his mysterious smile...?"
+CodeName,181,name,Otherworldly Visitor 
+CodeName,181,description,"A young man from a different world. 
+His objective is to bring forth the soul’s salvation."
+CodeName,182,name,Cat lover?
+CodeName,182,description,"A young man who had no choice but to play with
+a cat. Everyone should have their own catnip."
+CodeName,183,name,Bad at Catch
+CodeName,183,description,Only he can tell if he was really bad at playing catch.
+CodeName,184,name,Defender
+CodeName,184,description,He doesn’t approve of one sided arguments.
+CodeName,185,name,Evil Cat Summoner
+CodeName,185,description,"A title befitting someone that black cats obey.
+He appears similar to a certain cat summoner in a story."
+CodeName,186,name,Observer
+CodeName,186,description,"A young man who silently observes the flow of events.
+""I know I do not truly belong within this tale, and yet..."""
+CodeName,187,name,Student
+CodeName,187,description,"A student who arrived in order to spread the word.
+His year and class is yet unknown."
+CodeName,188,name,One with Otherwordly Knowledge
+CodeName,188,description,"One wonders why no one has any idea about
+such knowledge..."
+CodeName,189,name,Beautiful Man
+CodeName,189,description,"A troublesome topic for the person in question. Even she
+who guards the hot springs was fooled by his appearance."
+CodeName,190,name,"Me, A Woman?"
+CodeName,190,description,"He was mistaken as someone’s soulmate.
+No one knows what happened to that person."
+CodeName,191,name,Member #0006
+CodeName,191,description,"A member of the Illia fan club. Before
+you knew it, you were forced to join."
+CodeName,192,name,Witness
+CodeName,192,description,"Once he makes up his mind, he'll stick it through
+till the end. This, too, is part of his creed."
+CodeName,193,name,Free Young Man
+CodeName,193,description,"It’s okay for him to read a book while everyone is shopping.
+That’s what freedom is all about."
+CodeName,194,name,Gentle or Cruel?
+CodeName,194,description,"He prevented a woman from taking her life.
+However, it’s difficult to ascertain his true intentions."
+CodeName,195,name,Executioner
+CodeName,195,description,"A young man who punished undisciplined bandits.
+""There is no way I shall serve as a decoy again!"""
+CodeName,196,name,Playwright
+CodeName,196,description,"Can you feel the talent within the bold
+scenario that this young man arranged?"
+CodeName,197,name,Relieved Young Man
+CodeName,197,description,"A young man who is relieved to see his friend return safely.
+""Naturally, because we’re friends."""
+CodeName,198,name,Dishonest Person
+CodeName,198,description,"A title given to the one who jumped into action to save
+his friend. He may not be honest, but he sure is brave."
+CodeName,199,name,Saviour of Souls
+CodeName,199,description,"One who released a suffering soul. 
+He can only save one more soul."
+CodeName,200,name,Adventurer with Broken Language
+CodeName,200,description,"In situations where you’re unfamIlliar with the
+native tongue, use body language!"
+CodeName,201,name,Rookie Archaeologist
+CodeName,201,description,"""I might be a newcomer, but my curiosity is second to none. 
+I’ll rush off to see things I’ve never seen before!"""
+CodeName,202,name,Experienced Archaeologist
+CodeName,202,description,"An archeologist who has grown accustomed to the world.
+A rumored celebrity."
+CodeName,203,name,Treasure Hunter
+CodeName,203,description,"Finding treasure is life!
+""If there’s a lead, I’ll hoof it anywhere at any time!"""
+CodeName,204,name,Queen Battler
+CodeName,204,description,"A title given to one who has dominated the arena.
+All will kneel before her might!"
+CodeName,205,name,Iron Chef
+CodeName,205,description,"A title given to one who has mastered the art of cooking.
+Her love for cooking is immeasurable."
+CodeName,206,name,Beach Descended Goddess
+CodeName,206,description,"A shining perfect body.
+Some might faint at the godliness of her figure."
+CodeName,207,name,Inheritor of the Stars
+CodeName,207,description,"A title for one who has witnessed Cielan’s technology. 
+Her new power will take her to a higher level!"
+CodeName,208,name,Strange Girl
+CodeName,208,description,"A girl who enjoys mysteries rather than being mysterious.
+She brims with curiosity about the world around her."
+CodeName,209,name,Otherworldly Visitor 
+CodeName,209,description,"A girl from another world. Her true purpose
+is to bring back modern technology."
+CodeName,210,name,Cute Bunny
+CodeName,210,description,"A girl who got scouted to be a bunny girl. 
+Her cuteness is eye-catching"
+CodeName,211,name,Phantom
+CodeName,211,description,"One who is bound to appear at any place or situation.
+...In part due to the fact that she can’t read the room."
+CodeName,212,name,Sightseer
+CodeName,212,description,"One who is interested in touring a factory.
+It is quite rare to see a woman interested in such a thing."
+CodeName,213,name,Soldier
+CodeName,213,description,"One who is currently receiving combat training.
+Her footwork, though immature, is still superb. "
+CodeName,214,name,Hugging Demon
+CodeName,214,description,"It is a means for her to express her happiness.
+She will hug anyone she thinks of as her friend."
+CodeName,215,name,Member #0007
+CodeName,215,description,"A member of the Illia fan club. Before
+you knew it, you were forced to join."
+CodeName,216,name,Proud of Her Scars
+CodeName,216,description,"A title given to someone covered with scars from head
+to toe. Don’t you dare touch the scar on her leg!"
+CodeName,217,name,One who Sees the World
+CodeName,217,description,"One who chose to be with her friends. Her dream
+is to see the whole world with her own eyes."
+CodeName,218,name,Free Lady
+CodeName,218,description,"For her, this world may be free in a sense."
+CodeName,219,name,Swear on my Heart
+CodeName,219,description,"Someone who has seen her compatriots’ regrets.
+""I swear to never waver in my resolve."""
+CodeName,220,name,Studious
+CodeName,220,description,"One who has toured the Tenos Arsenal.
+""But, I also want to see their military secrets..."""
+CodeName,221,name,A Friendly Lady
+CodeName,221,description,"One who rejoices knowing her friend is safe.
+""I knew you’d be back. You’re my friend, after all."""
+CodeName,222,name,Angelic Demon
+CodeName,222,description,"She seems like an angel, but she's really a demon.
+When night falls, you'll never see her coming."
+CodeName,223,name,Together with Kuro
+CodeName,223,description,"A seemingly adorable stuffed black cat.
+However, he’s actually an old otaku on the inside."
+CodeName,224,name,Unreliable PR Officer
+CodeName,224,description,"He may be unreliable, but he’s a respectable disciplinarian.
+Put the trash in the trash can! Yes, let’s put it in..."
+CodeName,225,name,Modern Female Student
+CodeName,225,description,"One difference is that she wears a scarf in lieu of a ribbon.
+Today’s female students sure have a good fashion sense."
+CodeName,226,name,Fashionable Yankee
+CodeName,226,description,"The decisive factor for fashion is the slightly disheveled
+uniform and the two-tone hat. ""Look, I’m still a delinquent!"""
+CodeName,227,name,Gentle Young Lady
+CodeName,227,description,"A school teacher who gives a soft and gentle impression.
+She eats with grace and elegance."
+CodeName,228,name,Hot-Blooded Gym Teacher
+CodeName,228,description,"A self-proclaimed PE teacher who is enthusiastic about
+his work. He’s surprisingly passionate and reliable."
+CodeName,229,name,School’s Mascot
+CodeName,229,description,"She’s like a cute school mascot.
+Just make sure not to follow any strangers."
+CodeName,230,name,Alleged Student Council VP
+CodeName,230,description,"A well-bred vice president trusted by all.
+But in truth, he dominates the school from the shadows."
+CodeName,231,name,Energetic Transfer Student
+CodeName,231,description,"A very energetic transfer student full of dreams.
+Is it a trend to dash to school with bread in your mouth?"
+CodeName,232,name,Talim Med Student
+CodeName,232,description,"A strong and kind boy who attends medical school.
+What he saw when he went to the laboratory was..."
+CodeName,233,name,Lens Hunter
+CodeName,233,description,"A lens hunter who loves money.
+Her dream for the future is to build an orphanage."
+CodeName,234,name,Guard of the Atamoni Order
+CodeName,234,description,"A polearm user who belonged to the Knights
+of the Atamoni Order. He’s a very reliable guy."
+CodeName,235,name,Princess of Kimlasca
+CodeName,235,description,"A noble girl who cares for her people and country.
+She is also a first-rate archer and healer."
+CodeName,236,name,Black Panther of Callegea
+CodeName,236,description,"Former Commander of the Royal Shield and a Force
+of Steel user. He is a very skilled Gajuma warrior."
+CodeName,237,name,Pirate of the Seas
+CodeName,237,description,"A descendant of the Great Pirate Aifread.
+She hates animals that are fluffy and furry."
+CodeName,238,name,The Emperor’s Sword
+CodeName,238,description,"Colonel of the 3rd Division of the Malkuth Empire.
+He is feared as a necromancer on the battlefield."
+CodeName,239,name,Girl with the Flower Name
+CodeName,239,description,"An amnesiac girl found sleeping in a flower field.
+She’ll protect her friends, even at the cost of her body!"
+CodeName,240,name,Idol Candidate
+CodeName,240,description,"An alternative outfit for Ruca in the style
+of Shouta from iDOLM{icon:0x4554}R 2."
+CodeName,241,name,Idol Candidate
+CodeName,241,description,"An alternative outfit for Illia in the style
+of Makoto from iDOLM{icon:0x4554}R 2."
+CodeName,242,name,Idol Candidate
+CodeName,242,description,"An alternative outfit for Spada in the style
+of Shouta from iDOLM{icon:0x4554}R 2."
+CodeName,243,name,Idol Candidate
+CodeName,243,description,"An alternative outfit for Ange in the style
+of Ritsuko from iDOLM{icon:0x4554}R 2."
+CodeName,244,name,Idol Candidate
+CodeName,244,description,"An alternative outfit for Ricardo in the style
+of Hokuto from iDOLM{icon:0x4554}R 2."
+CodeName,245,name,Idol Candidate
+CodeName,245,description,"An alternative outfit for Hermana in the style
+of Yayoi from iDOLM{icon:0x4554}R 2."
+CodeName,246,name,Idol Candidate
+CodeName,246,description,"An alternative outfit for Kongwei in the style
+of Touma from iDOLM{icon:0x4554}R 2."
+CodeName,247,name,Idol Candidate
+CodeName,247,description,"An alternative outfit for QQ in the style
+of Hibiki from iDOLM{icon:0x4554}R 2."
+CodeName,248,name,Dress-up Asura
+CodeName,248,description,"A costume in the likeness of the Sensus General.
+There will be no enemies left standing before me!"
+CodeName,249,name,Dress-up Inanna
+CodeName,249,description,"A costume in the likeness of the goddess of fertility.
+Shoot through the enemy with your good looks!"
+CodeName,250,name,Dress-up Durandal
+CodeName,250,description,"A costume in the likeness of the ultimate holy sword.
+Cut off all evil with this sword!"
+CodeName,251,name,Dress-up Orifiel
+CodeName,251,description,"A costume in the likeness of the Ratio’s wise general.
+Guide your friends with your overflowing wisdom!"
+CodeName,252,name,Dress-up Hypnos
+CodeName,252,description,"A costume in the likeness of the god of death.
+With the Reaper’s scythe in hand, you will end this war!"
+CodeName,253,name,Dress-up Vritra
+CodeName,253,description,"A costume in the likeness of the mother dragon god.
+She protects everything with her fist!"
+CodeName,254,name,Dress-up Himmel
+CodeName,254,description,"A costume in the likeness of the pillar of the sky god.
+Support your friends with your knowledge!"
+CodeName,255,name,Dress-up Sakuya
+CodeName,255,description,"A costume in the likeness of the flower goddess.
+Lovely flowers bloom on the battlefield!"
+CodeName,256,name,Young Doctor-in-Training
+CodeName,256,description,"I’m still an intern, but I’m aiming to be a
+distinguished doctor someday."
+CodeName,257,name,Promising Principal
+CodeName,257,description,"What’s the first step to becoming a principal?
+Knowing the school and striving to be a worthy principal."
+CodeName,258,name,Knight of the Kingdom
+CodeName,258,description,"A man who continues to fight with honor in his heart.
+With sword in hand, he becomes a shield for the people!"
+CodeName,259,name,Nurse of the North
+CodeName,259,description,"An angel in a white coat who travels the northern country.
+Her appearance heals not only the body, but also the mind."
+CodeName,260,name,Precise Hunter
+CodeName,260,description,"He never misses his target.
+His precise marksmanship indicates he’s a master hunter."
+CodeName,261,name,A Devout Sister?
+CodeName,261,description,"She is a very energetic and devout sister.
+Do you believe in God?"
+CodeName,262,name,Silent Assassin
+CodeName,262,description,"An assassin who executes his orders with ruthless
+efficiency. Truly a callous and merciless individual."
+CodeName,263,name,Female Military Officer
+CodeName,263,description,"Hold up, she was a big deal in the army?!
+With her in charge, her troops’ morale are at a high!"
+CodeName,264,name,Stray Dog Ears
+CodeName,264,description,"Look at those cute, drooping dog ears.
+Doesn’t it make you want to take care of him?"
+CodeName,265,name,Fox Ears
+CodeName,265,description,"The two colors of her fox ears have quite the contrast.
+Watch out, her cute figure may just charm you!"
+CodeName,266,name,Wolf Ears
+CodeName,266,description,"His perky wolf ears stand tall and proud.
+Oi, I’m no dog!"
+CodeName,267,name,The Day of the Sun
+CodeName,267,description,"A round sheep horn. Any who are dazzled by
+its cuteness will surely receive a painful blow!"
+CodeName,268,name,Tiger Ears
+CodeName,268,description,"The ears of a majestic tiger.
+Never let your prey escape!"
+CodeName,269,name,Dog Ears
+CodeName,269,description,"Those are some huge, perky dog ears! No doubt you’ll
+be running around energetically even in the cold!"
+CodeName,270,name,Rabbit Ears
+CodeName,270,description,"His rabbit ears droop down quite far.
+Take care not to share any secrets with him nearby!"
+CodeName,271,name,Cat Ears
+CodeName,271,description,"These are some cute and pointed cat ears!
+Her acrobatic movement resembles that of a cat."
+CodeName,272,name,Bedhead Ruca
+CodeName,272,description,"I should the feel the same as usual,
+but somehow I appear to be more easygoing."
+CodeName,273,name,Bedhead Illia
+CodeName,273,description,"I should the feel the same as usual,
+but somehow I appear to be more easygoing."
+CodeName,274,name,Bedhead Spada
+CodeName,274,description,"I should the feel the same as usual,
+but somehow I appear to be more easygoing."
+CodeName,275,name,Bedhead Ange
+CodeName,275,description,"I should the feel the same as usual,
+but somehow I appear to be more easygoing."
+CodeName,276,name,Bedhead Ricardo
+CodeName,276,description,"I should the feel the same as usual,
+but somehow I appear to be more easygoing."
+CodeName,277,name,Bedhead Hermana
+CodeName,277,description,"I should the feel the same as usual,
+but somehow I appear to be more easygoing."
+CodeName,278,name,Bedhead Kongwei
+CodeName,278,description,"I should the feel the same as usual,
+but somehow I appear to be more easygoing."
+CodeName,279,name,Bedhead QQ
+CodeName,279,description,"I should the feel the same as usual,
+but somehow I appear to be more easygoing."
+CodeName,280,name,Swirly Glasses
+CodeName,280,description,"Thick glasses that resembles the bottom of a bottle.
+Will my eyes start spinning as I look through them?"
+CodeName,281,name,Lensless Glasses
+CodeName,281,description,"Fashionable glasses with a narrow frame.
+Even the talkative girlfriend is somewhat intelligent."
+CodeName,282,name,Delinquent Glasses
+CodeName,282,description,"Fancy glasses without an upper frame.
+Even delinquents looks intelligent with this... maybe?"
+CodeName,283,name,Cool Glasses
+CodeName,283,description,"Glasses with a calm atmosphere. They may not reduce
+my appetite, but they make me look cooler than usual."
+CodeName,284,name,Adult Glasses
+CodeName,284,description,"Glasses that exude an adult-like atmosphere.
+Will women see you as a potential partner with these on?"
+CodeName,285,name,Goggle Girl
+CodeName,285,description,"Goggles that look more vibrant than usual.
+Maybe you’ll find a treasure after our great adventure?"
+CodeName,286,name,Intelligent Glasses
+CodeName,286,description,"Glasses that make you look intelligent just by wearing 
+them. Or do glasses look good on one who is intelligent?"
+CodeName,287,name,Dark Glasses
+CodeName,287,description,"A pair of glittering sunglasses.
+If it’s an escort job, leave it to QQ!"
+Recipe,0,name,Rice Balls
+Recipe,0,description,"Expertly seasoned, lovingly shaped balls of rice.
+Restores 10% HP."
+Recipe,1,name,Egg on Rice
+Recipe,1,description,"A generous helping of rice topped with a farm-fresh egg.
+Restores 15% HP."
+Recipe,2,name,Mixed Rice
+Recipe,2,description,"A fragrant dish harmonizing mushrooms and rice.
+Restores 20% HP."
+Recipe,3,name,Rice Omelet
+Recipe,3,description,"A generous slathering of ketchup is the secret to this dish.
+Restores 25% HP."
+Recipe,4,name,Seafood Doria
+Recipe,4,description,"Seafood with white sauce and a topping of grated cheese.
+Restores 30% HP."
+Recipe,5,name,Pilaf
+Recipe,5,description,"Intensely flavored rice cooked with various ingredients.
+Restores 40% HP."
+Recipe,6,name,Loco Moco
+Recipe,6,description,"A one-plate meal of minced meat and a fried egg on rice.
+Restores 50% HP."
+Recipe,7,name,Mabo Curry
+Recipe,7,description,"At long last, spicy tofu and curry combined.
+Restores 50% HP and revives KO’d characters."
+Recipe,8,name,Okonomiyaki Sandwich
+Recipe,8,description,"Revolutionized okonomiyaki. Mess and hassle free!
+Restores 70% HP."
+Recipe,9,name,Whole Banana Curry
+Recipe,9,description,"A fabled recipe. The ripe banana adds unexpected flavors.
+Restores 80% HP and revives KO’d characters."
+Recipe,10,name,Sandwich
+Recipe,10,description,"Ingredients sandwiched between two slices of bread. 
+Restores 5% HP and 5% TP."
+Recipe,11,name,French Toast
+Recipe,11,description,"Milk and egg add to a soft yet alluring sweetness!
+Restores 15% HP and 10% TP."
+Recipe,12,name,Yakisoba Sandwich
+Recipe,12,description,"Yakisoba and bread. So popular anyone would fight
+over it. Increase maximum HP and TP by 5%."
+Recipe,13,name,Cheese Fondue
+Recipe,13,description,"Melty cheese. Great to dip bread or veggies in.
+Restores 25% HP and 20% TP."
+Recipe,14,name,Hamburger
+Recipe,14,description,"Always better with a homemade, freshly grilled patty.
+Increase P. ATK and P .DEF by 10%."
+Recipe,15,name,Croque Monsieur
+Recipe,15,description,"You’ll need a fork and a knife for these.
+Increases maximum HP and TP by 10%"
+Recipe,16,name,Pizza Toast
+Recipe,16,description,"Pizza style bread! The cheese is perfectly melted.
+Increases attack and defense by 10%."
+Recipe,17,name,Bread Pudding
+Recipe,17,description,"Soft and sweet. Each bite fills you with joy.
+Restores 40% HP and 30% TP."
+Recipe,18,name,Croquette Bun
+Recipe,18,description,"Nice and crunchy, within is a freshly baked croquette!
+Restores 60% HP and 40% TP."
+Recipe,19,name,Pac-Man Bun
+Recipe,19,description,"A fabled recipe. A branded cream filled sugary bun.
+Increases maximum HP by 20% and TP by 30%."
+Recipe,20,name,Yakisoba
+Recipe,20,description,"Springy noodles and crunchy veggies in a savory sauce.
+Increases A. ATK by 3%."
+Recipe,21,name,Meat Sauce
+Recipe,21,description,"Take caution when wearing white!
+Increases A. ATK by 3%."
+Recipe,22,name,Seafood Spaghetti
+Recipe,22,description,"A simple seafood pasta dish. Taste the ocean’s
+freshness! Increases A. ATK by 5%."
+Recipe,23,name,Cold Tomato Pasta
+Recipe,23,description,"Filled to the brim with fresh tomatoes you
+can fully savor. Increases A. ATK by 8%."
+Recipe,24,name,Carbonara
+Recipe,24,description,"Thick noodles wrapped in a hearty sauce. It’s a sure hit!
+Increases A. ATK by 10%."
+Recipe,25,name,Radish Soba
+Recipe,25,description,"Cold Soba with a refreshing texture to pair with any drink!
+Increases A. ATK by 12%."
+Recipe,26,name,Pork Ramen
+Recipe,26,description,"Carefully selected roast pork slices with delicious
+noodles. Increases A. ATK by 12%."
+Recipe,27,name,Soba Omelette
+Recipe,27,description,"Small twist on yakisoba! Enrobed in a fluffy omelette.
+Increases A. ATK by 15%."
+Recipe,28,name,Pasta au Gratin
+Recipe,28,description,"A lovely aroma permeates the beautifully melted surface.
+Increases A. ATK by 15%."
+Recipe,29,name,Miso Mackerel Spaghetti
+Recipe,29,description,"A fabled recipe. Flavorful miso-glazed fish pasta.
+Increases A. ATK by 10%."
+Recipe,30,name,Salad
+Recipe,30,description,"Dressing or not, always fresh and invigorating.
+Increases A. DEF by 3%."
+Recipe,31,name,Coleslaw
+Recipe,31,description,"Freshly shredded and dressed. Simple, yet addictive.
+Increases A. DEF by 5%."
+Recipe,32,name,Tofu Steak
+Recipe,32,description,"Made from soybeans; some call it the meat
+of the field. Increases A. DEF by 8%."
+Recipe,33,name,Vegetable Stir-Fry
+Recipe,33,description,"A dish that can be made with any kind of vegetable.
+Increases A. DEF by 8%."
+Recipe,34,name,Grilled Mushroom
+Recipe,34,description,"They say hunger is the best spice.
+Increases A. DEF by 10%."
+Recipe,35,name,Curry Hot Pot
+Recipe,35,description,"An exquisite soup full of rich flavors. Increases P. ATK
+by 12%, restores 10% HP, revives KO’d characters."
+Recipe,36,name,Tempura
+Recipe,36,description,"Getting it perfectly crispy is hard but worth it.
+Increases A. DEF by 15%."
+Recipe,37,name,Stuffed Cabbage Roll
+Recipe,37,description,"A dish made by wrapping ground meat in cabbage.
+Increases A. DEF by 12%."
+Recipe,38,name,Croquette
+Recipe,38,description,"Freshly fried and crispy, with a soft and chewy interior.
+Increases A. DEF by 20%."
+Recipe,39,name,Secret Vegetable Juice
+Recipe,39,description,"A fabled recipe. A secret concoction. One needs
+determination to drink it. Increases A. DEF by 10%."
+Recipe,40,name,Fried Chicken and Fries
+Recipe,40,description,"A set of french fries and fried chicken. Perfect for parties.
+Increases P. ATK by 3%."
+Recipe,41,name,Yakitori
+Recipe,41,description,"Fragrant grilled chicken with a sweet, salty sauce.
+Increases P. ATK by 3%."
+Recipe,42,name,Salisbury Steak
+Recipe,42,description,"A juicy meat patty topped with a savory sauce. 
+Increases P. ATK by 5%."
+Recipe,43,name,Steak
+Recipe,43,description,"A slice of sirloin steak grilled to perfection! 
+Increases P. ATK by 8%."
+Recipe,44,name,Okonomiyaki
+Recipe,44,description,"A hearty pan-fried meal cooked with various ingredients.
+Increases P. ATK by 10%."
+Recipe,45,name,Sukiyaki
+Recipe,45,description,"This flavorful beef melts in the mouth.
+Increases P. ATK by 10%."
+Recipe,46,name,Mabo Tofu
+Recipe,46,description,"The perfect amount of spiciness!
+Increases P. ATK by 12%."
+Recipe,47,name,Scottish Egg
+Recipe,47,description,"A hard boiled egg wrapped with meat and fried. 
+Increases P. ATK by 15%."
+Recipe,48,name,Roast Beef
+Recipe,48,description,"A slow-roasted meat dish that you will surely relish.
+Increases P. ATK by 20%."
+Recipe,49,name,Roast Chicken
+Recipe,49,description,"A fabled recipe. This recipe that Illia’s mother made brings
+back memories of home. Increases P. ATK by 10%."
+Recipe,50,name,Miso-Glazed Mackerel
+Recipe,50,description,"Tasty when done right, just like mom used to make...
+Increase P. DEF by 3%."
+Recipe,51,name,Salmon Meuniere
+Recipe,51,description,"Salmon simply yet tastily grilled on both sides. 
+Increases P. DEF by 5%."
+Recipe,52,name,Japanese Stew
+Recipe,52,description,"A traditional home cooked meal. It’s difficult to get the 
+flavoring just right. Increases P. DEF by 5%."
+Recipe,53,name,Fisherman’s hot pot
+Recipe,53,description,"Salmon simmered in miso with veggies. Smells great!
+Increases P. DEF by 8%."
+Recipe,54,name,Chili Shrimp
+Recipe,54,description,"A dish made from shrimp fried in oil with a chili sauce.
+Increases P. DEF by 10%."
+Recipe,55,name,Miso Oden
+Recipe,55,description,"A variety of fishcakes and vegetables in a miso sauce.
+Increase P. DEF by 12%."
+Recipe,56,name,Fisherman’s Hot Pot
+Recipe,56,description,"Salmon simmered in miso with veggies. Smells great! 
+Increases P. DEF by 15%."
+Recipe,57,name,Sashimi
+Recipe,57,description,"The fresher the better! Served with lots of wasabi.
+Increases P. DEF by 12%."
+Recipe,58,name,Sushi
+Recipe,58,description,"The perfect balance of topping and rice.
+Increase P. DEF by 20%."
+Recipe,59,name,Funazushi
+Recipe,59,description,"A fabled recipe. Highly addictive Crucian Carp narezushi.
+Increase P. DEF by 10%."
+Recipe,60,name,Chocolate Banana
+Recipe,60,description,"This sweet snack is popular at festivals and fairs.
+Restores 10% TP."
+Recipe,61,name,Vanilla Ice Cream
+Recipe,61,description,"A rich, cool dessert made from vanilla beans.
+Restores 15% TP."
+Recipe,62,name,Apple Pie
+Recipe,62,description,"A crispy pie stuffed with sour apples. 
+Restores 20% TP."
+Recipe,63,name,Shortcake
+Recipe,63,description,"A sweet treat topped with a big, red strawberry. De-lish! 
+Restores 25% TP."
+Recipe,64,name,Crepes
+Recipe,64,description,"Rich chocolate and tasty bananas atop delicious crepes.
+Restores 35% TP."
+Recipe,65,name,Fruit Parfait
+Recipe,65,description,"Fruits, ice cream and pudding! Oh my!
+Restores 40% TP."
+Recipe,66,name,Gateau au Chocolat
+Recipe,66,description,"Rich and moist. A must-have for bittersweet chocolate fans.
+Restores 50% TP."
+Recipe,67,name,Pudding a la Mode
+Recipe,67,description,"A delicate dream of pudding and fruit. 
+Restores 60% TP."
+Recipe,68,name,Chocolate Fondue
+Recipe,68,description,"Dip all your favorites in chocolate and go to town! 
+Restores 70% TP."
+Recipe,69,name,Deep Fried Chocolate Banana
+Recipe,69,description,"A fabled recipe. Perfectly deep-fried chocolate bananas.
+Restores 80% TP."
+Recipe,70,name,Hot Chocolate
+Recipe,70,description,"This hot drink is best served with tiny marshmallows.
+Prevents poison and paralysis 50% of the time."
+Recipe,71,name,Miso Soup
+Recipe,71,description,"This endlessly versatile soup is perfect with tofu.
+Prevents weakness 50% of the time."
+Recipe,72,name,Egg Drop Soup
+Recipe,72,description,"This hot and comforting broth has a distinctive aroma.
+Prevent stats reducing effects 50% of the time."
+Recipe,73,name,Beef Stew
+Recipe,73,description,"A savory meal made with chunks of beef and vegetables.
+Prevents petrification 50% of the time."
+Recipe,74,name,Fruit juice
+Recipe,74,description,"This mellow and refreshing juice soothes the soul.
+Prevent terror 50% of the time."
+Recipe,75,name,Soup au Gratin
+Recipe,75,description,"The aroma coming from the oven is part of the experience.
+Prevents poison and paralysis altogether."
+Recipe,76,name,Pork Miso Soup
+Recipe,76,description,"A hearty soup with vegetables and pork in a miso broth.
+Prevents weakness altogether."
+Recipe,77,name,Vegetable Juice
+Recipe,77,description,"It’s so full of vitamins, it might improve your health.
+Prevents terror altogether."
+Recipe,78,name,Cream Stew
+Recipe,78,description,"A vegetable-laden cream stew.
+Prevents petrification altogether."
+Recipe,79,name,Cheese Soup
+Recipe,79,description,"A fabled recipe. Ahh, the taste of home.
+Prevents status effects altogether."
+RaveAbility,0,name,Regeneration 1
+RaveAbility,0,description,Restores 4% of HP periodically during battle.
+RaveAbility,1,name,Regeneration 2
+RaveAbility,1,description,Restores 6% of HP periodically during battle.
+RaveAbility,2,name,Regeneration 3
+RaveAbility,2,description,Restores 8% of HP periodically during battle.
+RaveAbility,3,name,Regeneration 4
+RaveAbility,3,description,Restores 10% of HP periodically during battle.
+RaveAbility,4,name,Relax 1
+RaveAbility,4,description,Recovers 4% of TP periodically during battle.
+RaveAbility,5,name,Relax 2
+RaveAbility,5,description,Recovers 6% of TP periodically during battle.
+RaveAbility,6,name,Relax 3
+RaveAbility,6,description,Recovers 8% of TP periodically during battle.
+RaveAbility,7,name,Relax 4
+RaveAbility,7,description,Recovers 10% of TP periodically during battle.
+RaveAbility,8,name,Divine Breath 1
+RaveAbility,8,description,Restores 2% of HP and TP periodically during battle.
+RaveAbility,9,name,Divine Breath 2
+RaveAbility,9,description,Restores 3% of HP and TP periodically during battle.
+RaveAbility,10,name,Divine Breath 3
+RaveAbility,10,description,Restores 4% of HP and TP periodically during battle.
+RaveAbility,11,name,Divine Breath 4
+RaveAbility,11,description,Restores 5% of HP and TP periodically during battle.
+RaveAbility,12,name,Antibody 1
+RaveAbility,12,description,Physical ailments recover 1.5 times faster.
+RaveAbility,13,name,Antibody 2
+RaveAbility,13,description,Physical ailments recover 2 times faster.
+RaveAbility,14,name,Antibody 3
+RaveAbility,14,description,Physical ailments recover 3 times faster.
+RaveAbility,15,name,Antibody 4
+RaveAbility,15,description,Physical ailments recover 10 times faster.
+RaveAbility,16,name,TP Charge 1
+RaveAbility,16,description,"Doubles the amount of TP recovered
+when a normal attack lands."
+RaveAbility,17,name,TP Charge 2
+RaveAbility,17,description,"Triples the amount of TP recovered
+when a normal attack lands."
+RaveAbility,18,name,TP Charge 3
+RaveAbility,18,description,"Quadruple the amount of TP recovered
+when a normal attack lands."
+RaveAbility,19,name,TP Charge 4
+RaveAbility,19,description,"Quintuples the amount of TP recovered
+when a normal attack lands."
+RaveAbility,20,name,Team Attack 1
+RaveAbility,20,description,Increases P. ATK by 6% during battle.
+RaveAbility,21,name,Team Attack 2
+RaveAbility,21,description,Increases P. ATK by 9% during battle.
+RaveAbility,22,name,Team Attack 3
+RaveAbility,22,description,Increases P. ATK by 12% during battle.
+RaveAbility,23,name,Team Attack 4
+RaveAbility,23,description,Increases P. ATK by 15% during battle.
+RaveAbility,24,name,Team Magic 1
+RaveAbility,24,description,Increases A. ATK by 6% during battle.
+RaveAbility,25,name,Team Magic 2
+RaveAbility,25,description,Increases A. ATK by 9% during battle.
+RaveAbility,26,name,Team Magic 3
+RaveAbility,26,description,Increases A. ATK by 12% during battle.
+RaveAbility,27,name,Team Magic 4
+RaveAbility,27,description,Increases A. ATK by 15% during battle.
+RaveAbility,28,name,Team Defense 1
+RaveAbility,28,description,Increases P. DEF by 6% during battle.
+RaveAbility,29,name,Team Defense 2
+RaveAbility,29,description,Increases P. DEF by 9% during battle.
+RaveAbility,30,name,Team Defense 3
+RaveAbility,30,description,Increases P. DEF by 12% during battle.
+RaveAbility,31,name,Team Defense 4
+RaveAbility,31,description,Increases P. DEF by 15% during battle.
+RaveAbility,32,name,Team Resist 1
+RaveAbility,32,description,Increases A. DEF by 6% during battle.
+RaveAbility,33,name,Team Resist 2
+RaveAbility,33,description,Increases A. DEF by 9% during battle.
+RaveAbility,34,name,Team Resist 3
+RaveAbility,34,description,Increases A. DEF by 12% during battle.
+RaveAbility,35,name,Team Resist 4
+RaveAbility,35,description,Increases A. DEF by 15% during battle.
+RaveAbility,36,name,Voltage 1
+RaveAbility,36,description,OVL gauge increases by 2% periodically.
+RaveAbility,37,name,Voltage 2
+RaveAbility,37,description,OVL gauge increases by 4% periodically.
+RaveAbility,38,name,Voltage 3
+RaveAbility,38,description,OVL gauge increases by 6% periodically.
+RaveAbility,39,name,Voltage 4
+RaveAbility,39,description,OVL gauge increases by 8% periodically.
+RaveAbility,40,name,Divide Damage 1
+RaveAbility,40,description,Reduces damage received in battle by 5%.
+RaveAbility,41,name,Divide Damage 2
+RaveAbility,41,description,Reduces damage received in battle by 10%.
+RaveAbility,42,name,Divide Damage 3
+RaveAbility,42,description,Reduces damage received in battle by 15%.
+RaveAbility,43,name,Divide Damage 4
+RaveAbility,43,description,Reduces damage received in battle by 20%.
+RaveAbility,44,name,Grade Bonus 1
+RaveAbility,44,description,"Increases GRADE earned by 1.1 times at the end of 
+the battle."
+RaveAbility,45,name,Grade Bonus 2
+RaveAbility,45,description,"Increases GRADE earned by 1.2 times
+at the end of the battle."
+RaveAbility,46,name,Grade Bonus 3
+RaveAbility,46,description,"Increases GRADE earned by 1.5 times
+at the end of the battle."
+RaveAbility,47,name,Grade Bonus 4
+RaveAbility,47,description,Doubles GRADE earned at the end of the battle.
+RaveAbility,48,name,Happiness 1
+RaveAbility,48,description,Increases EXP gained by 1.1 times at the end of battle.
+RaveAbility,49,name,Happiness 2
+RaveAbility,49,description,Increase EXP gained by 1.2 times at the end of battle.
+RaveAbility,50,name,Happiness 3
+RaveAbility,50,description,Increases EXP gained by 1.5 times at the end of battle.
+RaveAbility,51,name,Happiness 4
+RaveAbility,51,description,Doubles EXP earned at the end of the battle.
+RaveAbility,52,name,AP Up 1
+RaveAbility,52,description,Increase AP gained by 1.1 times at the end of battle.
+RaveAbility,53,name,AP Up 2
+RaveAbility,53,description,Increase AP gained by 1.2 times at the end of battle.
+RaveAbility,54,name,AP Up 3
+RaveAbility,54,description,Increase AP gained by 1.5 times at the end of battle.
+RaveAbility,55,name,AP Up 4
+RaveAbility,55,description,Doubles AP earned at the end of the battle.
+RaveAbility,56,name,Item Collector 1
+RaveAbility,56,description,Slightly increases the drop rate of unobtained items.
+RaveAbility,57,name,Item Collector 2
+RaveAbility,57,description,Increases the drop rate of unobtained items.
+RaveAbility,58,name,Item Collector 3
+RaveAbility,58,description,Greatly increases the drop rate of unobtained items.
+RaveAbility,59,name,Item Collector 4
+RaveAbility,59,description,Significantly increases the drop rate of unobtained items.
+RaveAbility,60,name,Item Hunt 1
+RaveAbility,60,description,Slightly increases the probability of item drops.
+RaveAbility,61,name,Item Hunt 2
+RaveAbility,61,description,Increases the probability of item drops.
+RaveAbility,62,name,Item Hunt 3
+RaveAbility,62,description,Greatly increases the probability of item drops.
+RaveAbility,63,name,Item Hunt 4
+RaveAbility,63,description,Significantly increases the probability of item drops.
+RaveAbility,64,name,Rave Up 1
+RaveAbility,64,description,The Rave gauge fills up a little more easily.
+RaveAbility,65,name,Rave Up 2
+RaveAbility,65,description,The Rave gauge fills up more easily.
+RaveAbility,66,name,Rave Up 3
+RaveAbility,66,description,The Rave gauge fills up much more easily.
+RaveAbility,67,name,Rave Save 1
+RaveAbility,67,description,The Rave Gauge depletes a little more slowly.
+RaveAbility,68,name,Rave Save 2
+RaveAbility,68,description,The Rave Gauge depletes more slowly.
+RaveAbility,69,name,Rave Save 3
+RaveAbility,69,description,The Rave Gauge depletes much more slowly.
+OperationCond,0,name,Self
+OperationCond,0,description,Target yourself
+OperationCond,1,name,Self with HP <～%
+OperationCond,1,description,"Target yourself when your own HP is
+below the specified percentage."
+OperationCond,2,name,Self with TP <～%
+OperationCond,2,description,"Target yourself when your own TP is
+below the specified percentage."
+OperationCond,3,name,Self with Lowered ～
+OperationCond,3,description,"Target yourself when your specified
+parameter has been lowered."
+OperationCond,4,name,Single Ally
+OperationCond,4,description,Select an ally as the target. 
+OperationCond,5,name,Ally with HP<～%
+OperationCond,5,description,"Target a single ally when their HP
+is below the specified percentage."
+OperationCond,6,name,Ally with TP<～%
+OperationCond,6,description,"Target a single ally when their TP
+is below the specified percentage."
+OperationCond,7,name,Ally with Lowered ～
+OperationCond,7,description,"Target a single ally when their specified
+parameter has been lowered."
+OperationCond,8,name,Ally with High ～
+OperationCond,8,description,"Target a single ally when their specified
+parameter is above average."
+OperationCond,9,name,Ally with Low ～
+OperationCond,9,description,"Target a single ally when their specified
+parameter is below average."
+OperationCond,10,name,Party with HP<～%
+OperationCond,10,description,"Target the whole party when their HP
+is below the specified percentage."
+OperationCond,11,name,Party with TP<～%
+OperationCond,11,description,"Target the whole party when their TP
+is below the specified percentage."
+OperationCond,12,name,Specified Character
+OperationCond,12,description,Target the specified character.
+OperationCond,13,name,Closest Enemy
+OperationCond,13,description,Target the enemy that is closest to you.
+OperationCond,14,name,Same Enemy
+OperationCond,14,description,"Target the same enemy as the character
+under player control is targeting."
+OperationCond,15,name,Different Enemy
+OperationCond,15,description,"Target a different enemy from the one that
+the character under player control is."
+OperationCond,16,name,Frontline Enemy
+OperationCond,16,description,Target an enemy on the front line.
+OperationCond,17,name,Rear Guard Enemy
+OperationCond,17,description,Target an enemy in the rear guard.
+OperationCond,18,name,Casting Enemy
+OperationCond,18,description,"Target an enemy that is currently
+casting a Magic arte."
+OperationCond,19,name,Flying Enemy
+OperationCond,19,description,Target an aerial-type enemy.
+OperationCond,20,name,Enemy Weak Against ～
+OperationCond,20,description,"Target an enemy that is weak
+against the specified element."
+OperationCond,21,name,Foe Targeting Caster
+OperationCond,21,description,"Target an enemy that is currently
+targeting an ally who is casting."
+OperationCond,22,name,Strong Enemy
+OperationCond,22,description,Target an enemy that has a higher Maximum HP.
+OperationCond,23,name,Weak Enemy
+OperationCond,23,description,Target an enemy that has a lower Maximum HP.
+OperationCond,24,name,Enemy with HP≧～%
+OperationCond,24,description,"Target an enemy with its remaining HP
+above or equal to the specified percentage."
+OperationCond,25,name,Enemy with HP<～%
+OperationCond,25,description,"Target an enemy with its remaining HP
+below the specified percentage."
+OperationCond,26,name,Enemy with ～ Boost
+OperationCond,26,description,"Target an enemy that currently has
+the specified parameter raised."
+OperationCond,27,name,Enemy with High ～
+OperationCond,27,description,"Target an enemy when its specified
+parameter is above average."
+OperationCond,28,name,Enemy with Low ～
+OperationCond,28,description,"Target an enemy when its specified
+parameter is below average."

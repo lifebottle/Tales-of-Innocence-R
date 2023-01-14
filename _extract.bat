@@ -1,0 +1,2 @@
+python extract.py 0_PCSG00009_dec 1_extracted
+pause

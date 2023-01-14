@@ -1,1 +1,0 @@
-perl abcde.pl -cm abcde::Cartographer .\boot.elf .\test.abcde items.txt -m

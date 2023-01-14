@@ -1,0 +1,708 @@
+0,0,name,Fireball
+0,0,description,"An entry-level arte that sends a scorching
+ball of fire flying at the enemy."
+0,1,name,Spiral Flare
+0,1,description,"An arte for adepts that launches a
+swirling mass of flame at the target."
+0,2,name,Explosion
+0,2,description,"An advanced arte that sets off a
+devastating detonation over a wide area."
+0,3,name,Demon Fang
+0,3,description,"Creates a shockwave that
+travels across the ground."
+0,4,name,Sonic Shock
+0,4,description,Quickly rushes down foes in front of you.
+0,5,name,Coil
+0,5,description,"Channels the heat of battle into a
+temporary physical attack boost."
+0,6,name,Demolishing Thrust
+0,6,description,Jumps up and slams down on the enemy.
+0,7,name,Crescent Strike
+0,7,description,"Launches foes upwards with a sword
+swing that traces an arcing moon."
+0,8,name,Void Tempest
+0,8,description,"Attacks surrounding enemies
+with a spinning slash."
+0,9,name,Center
+0,9,description,Calms your body to restore some health.
+0,10,name,Shining Eagle
+0,10,description,"An upward slash that connects with
+the ground to produce a shockwave."
+0,11,name,Dragon Slayer
+0,11,description,"Thrusts your weapon into the ground and
+burns the surrounding enemies with fire."
+0,12,name,Bestial Strike
+0,12,description,"Swing your sword down two times,
+crushing the enemy with force."
+0,13,name,Hell Sword
+0,13,description,Leap forward and send forth a blade of fire!
+0,14,name,Tempest Strike
+0,14,description,"Turns the user into a spinning blade
+that slices savagely into the enemy."
+0,15,name,Fissure Sweep
+0,15,description,Cleaves the ground to unleash a shockwave.
+0,16,name,Havoc Impact
+0,16,description,"Generate shockwaves by slamming your
+sword into the ground from a dive."
+0,17,name,Crescent Flash
+0,17,description,"Traces an arcing moon with your
+sword twice in succession."
+0,18,name,Crushing Fang
+0,18,description,"Slashes an enemy upwards and immediately
+follows up with a cleaving attack."
+0,19,name,Rising Phoenix
+0,19,description,"Envelopes your body in a phoenix’s aura
+and burns the enemy in a plunge."
+0,20,name,Hell Pyre
+0,20,description,Rains fire down upon the enemy.
+0,21,name,Infernal Torrent
+0,21,description,"Slashes up and down with a flaming
+sword, incinerating foes in front."
+0,22,name,Pyre Demon Fang
+0,22,description,"Creates a fire-infused shockwave
+that travels across the ground."
+0,23,name,Pyro Blitz
+0,23,description,Cloak yourself in flame and rush down your foes!
+0,24,name,Demonic Void
+0,24,description,"An arte that combines Demon Fang
+and Void Tempest."
+0,25,name,Searing Gale
+0,25,description,"Attack surrounding enemies with
+an infernal spinning slash."
+0,26,name,Tempest Eagle
+0,26,description,"An arte that combines Shining Eagle
+and Tempest Strike."
+0,27,name,Tempest Moon
+0,27,description,"An arte that follows up Tempest Strike
+with a Crescent Strike."
+0,28,name,Razing Phoenix
+0,28,description,"Ascend with the aura of a phoenix
+to burn enemies with its flames."
+0,29,name,Infernal Spear
+0,29,description,"Pierces and knocks down foes with
+a single, fire-infused thrust."
+0,30,name,Scarlet Supremacy
+0,30,description,"Summons a spiral of flames and rushes
+through, destroying foes in an explosion."
+0,31,name,Demon Kingslayer
+0,31,description,"Transforms into Demon King Asura and
+slash foes with his scorching greatsword."
+1,0,name,First Aid
+1,0,description,"An entry-level arte that restores 30%
+of a single party member’s HP."
+1,1,name,Heal
+1,1,description,"An arte for adepts that restores 50%
+of a single party member’s HP."
+1,2,name,Cure
+1,2,description,"An advanced arte that restores 70%
+of a single party member’s HP."
+1,3,name,Recover
+1,3,description,"An entry-level arte that cures a single
+ally of any physical ailments."
+1,4,name,Dispel
+1,4,description,"An entry-level arte that purges any
+negative status effects from an ally."
+1,5,name,Resurrection
+1,5,description,"An advanced arte that allows the caster
+to put a KO’d ally back on their feet."
+1,6,name,Ice Needles
+1,6,description,"An entry-level arte that hails
+icicles down upon your foes."
+1,7,name,Spread
+1,7,description,"An arte for adepts that causes a geyser
+to gush forth from the ground beneath."
+1,8,name,Final Embrace
+1,8,description,"An advanced arte that plunges the target
+into a devastating nightmare of ice."
+1,9,name,Wind Blade
+1,9,description,"An entry-level arte that slices the target
+with razor-sharp blades of wind."
+1,10,name,Crosswind
+1,10,description,"An arte for adepts that assaults the enemy
+from all sides with stinging whirlwinds."
+1,11,name,Cyclone
+1,11,description,"An advanced arte that engulfs the
+target in a devastating twister."
+1,12,name,Pow Hammer
+1,12,description,"An entry-level arte that drops a daze-
+inducing hammer on the target’s head."
+1,13,name,Search Gald
+1,13,description,"Crawls on the ground and searches for Gald.
+You’ll be lucky if you find some!"
+1,14,name,Twin Bullet
+1,14,description,"Shoot the enemy with a series of
+bullets after taking a backstep."
+1,15,name,Strong Bullet
+1,15,description,Fires two powerful bullets in a row.
+1,16,name,Acro Bullet
+1,16,description,"Leap into the air, spin like a top, and
+shower your surroundings with lead."
+1,17,name,Bubble Bullet
+1,17,description,"Takes a shot at your target’s feet and
+creates an explosion of bubbles."
+1,18,name,Misty Arc
+1,18,description,"Disperses bullets in a fan shaped
+formation in front of you."
+1,19,name,Flip Shot
+1,19,description,"Shoots at the target’s feet and launches
+them into the air with a roaring whirlwind."
+1,20,name,Spiral Shot
+1,20,description,Fires bullets clad in a spiraling wind.
+1,21,name,Aqua Bullet
+1,21,description,"Shoots at the target’s feet and creates
+a geyser that knocks them into the air."
+1,22,name,Blast Bullet
+1,22,description,Fire a series of bullets from midair at a 45 degree angle.
+1,23,name,Freeze Shot
+1,23,description,"leap into the air and shower your surroundings with
+ice bullets that form spikes of ice on impact."
+1,24,name,Reflect Shot
+1,24,description,"Fires a stream of bullets that ricochet
+in succession around the target."
+1,25,name,Aerial Barrage
+1,25,description,"Blast the enemy into the air, then barrage
+them with a stream of bullets."
+1,26,name,Falling Shot
+1,26,description,"Fires a mass of energy above the target’s head,
+which explodes and pours down upon them."
+1,27,name,Raging Shot
+1,27,description,"Fires a wind magic bullet that unleashes a storm
+upon impact. The bullet travels in an arc."
+1,28,name,Freeze Lancer
+1,28,description,Fires a delayed barrage of icy spears in front of you.
+1,29,name,Burst Shot
+1,29,description,"A shot that explodes upon impact,
+engulfing the surrounding enemies."
+1,30,name,Absolute Zero
+1,30,description,"Fires a large number of ice magic bullets,
+freezing and crushing the enemy."
+1,31,name,Ruined Vain Wish
+1,31,description,"Transforms into Inanna and summons cyclones
+and meteors to destroy everything in your path."
+2,0,name,Lightning
+2,0,description,"An entry-level arte that summons a
+bolt of lightning to strike the target."
+2,1,name,Spark Wave
+2,1,description,"An arte for adepts that imprisons the
+target in a swirling sphere of lightning."
+2,2,name,Thunder Blade
+2,2,description,"An advanced arte that calls down a sword
+of pure electricity from on high."
+2,3,name,Sonic Thrust
+2,3,description,"Gets up close and personal to slash the
+enemy with both swords simultaneously."
+2,4,name,Tiger Blade
+2,4,description,"A two-part combo consisting of an upward
+swing followed by a downward one."
+2,5,name,Dust Bath
+2,5,description,"An upward kick that sends dust flying into the
+enemy’s eyes, lowering their physical defense."
+2,6,name,Sword Rain
+2,6,description,"Unleashes a series of high speed
+thrusts to perforate the enemy."
+2,7,name,Chain Lightning
+2,7,description,"Perform a two-stage slash on an
+enemy with electric-infused swords."
+2,8,name,Revolution Slash
+2,8,description,"Rotates your body to bring down
+the full force of both your swords."
+2,9,name,Falling Hunter
+2,9,description,Performs a jumping slash followed by a thrust.
+2,10,name,Flowing Spiral
+2,10,description,"Rushes at the enemy while spinning
+in a cone-shaped motion."
+2,11,name,Void Sword
+2,11,description,"Creates a tornado that slices the surrounding
+area as you swing your swords."
+2,12,name,Pillar Fang Strike
+2,12,description,"Slashes three times before crossing
+your blades to strike the enemy."
+2,13,name,Talon Swarm
+2,13,description,"Attacks the enemy with a three-step slash.
+The slashes resemble the claws of a beast."
+2,14,name,Lightning Flash
+2,14,description,"Swings your electrified swords
+to shoot out electric shocks."
+2,15,name,Light Spear
+2,15,description,"A spinning slash that carries
+enemies with you into the air."
+2,16,name,Tiger Rage
+2,16,description,"Unleashes a flurry of slashes that knocks
+down foes with its final slash."
+2,17,name,Hurricane Rush
+2,17,description,"Swings your wind-infused swords down
+with force, creating a rising shockwave."
+2,18,name,Top Blade
+2,18,description,"Peforms a high-speed spinning slash on the spot.
+Foes hit by this arte will be pulled in, so follow it up."
+2,19,name,Soaring Slash
+2,19,description,"Slashes the enemy twice and
+carries them into the air."
+2,20,name,Sword Rain: Alpha
+2,20,description,"Unleash a barrage of lightspeed thrusts at the enemy.
+This arte evokes the feeling of an endless rain."
+2,21,name,Dragon Swarm
+2,21,description,Slashes three times before kicking the enemy.
+2,22,name,Lightning Tiger Blade
+2,22,description,"A slash upward followed by a downward slash
+accompanied by a lightning strike."
+2,23,name,Raging Tiger Blade
+2,23,description,Unleashes a Tiger Blade after a Sword Rain.
+2,24,name,Cyclone Shot
+2,24,description,Performs a diagonal dash towards the enemy.
+2,25,name,Beastly Fang
+2,25,description,"Inflicts deep wounds with a series of strikes
+that resemble the claws of a beast."
+2,26,name,Victory Light Spear
+2,26,description,"Uses Light Spear followed by a downward
+slash that knocks down opponents."
+2,27,name,Shredding Winds
+2,27,description,"Generates countless wind slashes in front of
+you before ending with a wind-infused slash."
+2,28,name,Voltaic Roar
+2,28,description,"Discharges electricity from your body, bombarding
+the surrounding area with electric shocks."
+2,29,name,Zeus’s Retribution
+2,29,description,"Thrusts out your electrified swords and discharges
+them, then performs a slash to finish off the attack."
+2,30,name,Lionic Thunderstrike
+2,30,description,"Assimilates lightning into your body, striking in all
+directions, then discharges it onto your enemies."
+2,31,name,Deicide Blade of Light
+2,31,description,"After a powerful series of attacks, transforms into
+the Holy Sword Durandal to pierce everything."
+3,0,name,First Aid
+3,0,description,"An entry-level arte that restores 30%
+of a single party member’s HP."
+3,1,name,Heal
+3,1,description,"An arte for adepts that restores 50%
+of a single party member’s HP."
+3,2,name,Cure
+3,2,description,"An advanced arte that restores 70%
+of a single party member’s HP."
+3,3,name,Nurse
+3,3,description,"An arte for adepts that restores 40%
+of all party members’ HP."
+3,4,name,Revitalize
+3,4,description,"An advanced arte that restores 60%
+of all party members’ HP."
+3,5,name,Recover
+3,5,description,"An entry-level arte that cures a single
+ally of any physical ailments."
+3,6,name,Dispel
+3,6,description,"An entry-level arte that removes any
+negative status effects from an ally."
+3,7,name,Anti-Magic
+3,7,description,"An arte for adepts that cures an ally of
+all physical ailments and status effects."
+3,8,name,Resurrection
+3,8,description,"An advanced arte that allows the caster
+to put a KO’d ally back on their feet."
+3,9,name,Photon
+3,9,description,"An entry-level arte that bombards
+the target with particles of light."
+3,10,name,Ray
+3,10,description,"An arte for adepts that summons beams
+of light to deal damage to the enemy."
+3,11,name,Grand Cross
+3,11,description,"An advanced arte that draws an enormous
+damage-dealing cross of light in the sky."
+3,12,name,Thievery
+3,12,description,"Steals an item from the enemy. If it fails,
+you will fall back and be left vulnerable."
+3,13,name,Platinum Edge
+3,13,description,"Swings your dagger to shoot
+a blade of light at the enemy."
+3,14,name,Fang Rush
+3,14,description,"Instantly closes the distance between
+you and the enemy with a thrust."
+3,15,name,Force Rush
+3,15,description,"Slashes the enemy while jumping
+forward diagonally."
+3,16,name,Diving Dragon
+3,16,description,"Slashes the enemy while diving
+forward diagonally."
+3,17,name,Moon Glare
+3,17,description,"Swings your dagger along a trajectory
+that forms a crescent moon."
+3,18,name,Hawk Ascent
+3,18,description,"Ascends with a spinning slash
+and slashes the enemy midair."
+3,19,name,Twinkling Halo
+3,19,description,"Strike outwards with a spinning slash. A circle of
+light spreads out along the weapon’s trajectory."
+3,20,name,Force Fang
+3,20,description,"Rush forward while thrusting your weapon,
+then jump backwards with a slash."
+3,21,name,Platinum Hail
+3,21,description,Unleashes three blades of light from midair.
+3,22,name,Storm Blade
+3,22,description,"Unleashes a quick flurry of slashes, tossing
+the enemy in the air with your final slash."
+3,23,name,Dragon Force
+3,23,description,An arte that combines Force Rush and Diving Dragon.
+3,24,name,Force Glare
+3,24,description,"An arte that begins with Moon Glare
+before following up with Force Rush."
+3,25,name,Supersonic Dragon
+3,25,description,"Slashes past the enemy, leaving behind
+countless slashes behind you."
+3,26,name,Guardian Field
+3,26,description,"Draws an arcane sigil whose holy light
+heals allies and damages foes."
+3,27,name,Storm Ascent
+3,27,description,"A technique that connects Storm Blade
+to Hawk Ascent."
+3,28,name,Dragon Shine
+3,28,description,"Flash through the air, carving a Z
+shape with your dagger."
+3,29,name,Heavenly Platinum Edge
+3,29,description,"Knocks the enemy into the air with a series
+of dashes before shooting a blade of light."
+3,30,name,Angelic Radiance
+3,30,description,"Summons eight blades of light to purify
+the enemy in a glimmer of light."
+3,31,name,Heavenly Phoenix Wings
+3,31,description,"Transforms into Orifiel and envelops your
+enemies with crimson feathers."
+4,0,name,Geotherapy
+4,0,description,"An entry-level arte that gradually
+restores 30% of all nearby allies’ HP."
+4,1,name,Astral-therapy
+4,1,description,"An advanced arte that gradually
+restores 50% of all nearby allies’ HP."
+4,2,name,Sharpness
+4,2,description,"An entry-level arte that temporarily
+boosts an ally’s physical attack."
+4,3,name,Barrier
+4,3,description,"An entry-level arte that temporarily
+boosts an ally’s physical defense."
+4,4,name,Resist
+4,4,description,"An entry-level arte that temporarily
+boosts an ally’s Arte defense."
+4,5,name,Stone Blast
+4,5,description,"An entry-level arte that causes rocks to rush
+forth and attack the enemy from beneath."
+4,6,name,Boulder Bash
+4,6,description,"An arte for adepts that drops a massive
+boulder right on the enemy’s head."
+4,7,name,Ground Dasher
+4,7,description,"An advanced arte that opens up a boulder-
+spewing fissure in the earth."
+4,8,name,Shadow Edge
+4,8,description,"An entry-level arte that causes a blade of
+darkness to stab the target from behind."
+4,9,name,Demon’s Lance
+4,9,description,"An advanced arte that summons a lance of pure
+darkness to impale the enemy from above."
+4,10,name,Black Hole
+4,10,description,"An advanced arte that creates a black hole
+capable of inflicting unspeakable damage."
+4,11,name,Suppress Weapon
+4,11,description,"An entry-level arte that temporarily
+reduces an enemy’s physical attack."
+4,12,name,Suppress Armor
+4,12,description,"An entry-level arte that temporarily
+reduces an enemy’s physical defense."
+4,13,name,Suppress Mind
+4,13,description,"An entry-level arte that temporarily
+reduces an enemy’s arte attack."
+4,14,name,Suppress Aura
+4,14,description,"An entry-level arte that temporarily
+reduces an enemy’s arte defense."
+4,15,name,Flare Bomb
+4,15,description,Throws grenades in front of the target.
+4,16,name,Merciless Hunt
+4,16,description,Fires three shots in front of you.
+4,17,name,Sonic Spear
+4,17,description,"Thrusts your bayonet at the enemy
+and backsteps upon impact."
+4,18,name,Roaring Spear
+4,18,description,"Thrusts your bayonet into the ground to
+summon a stone spear that pierces foes."
+4,19,name,Venom Shot
+4,19,description,Shoots a single bullet that may poison the target.
+4,20,name,Hide Shot
+4,20,description,"Shoots through the ground, sending a bullet
+underground to hit the enemy from below."
+4,21,name,Brutal Hunt
+4,21,description,Fires a barrage of shots in front of you.
+4,22,name,Gatling Evil
+4,22,description,"Unleashes a dark magic bullet. The bullet
+stalls at a certain distance after being fired."
+4,23,name,Revolving Longinus
+4,23,description,Swings your bayonet to unleash a blade of wind.
+4,24,name,Impact Shot
+4,24,description,Fire a shot that explodes upon impact with the enemy.
+4,25,name,Breaking Shot
+4,25,description,Gather your fighting spirit and fire it as a bullet.
+4,26,name,Shot Blast
+4,26,description,"Unearth a stone from the ground and shoot it, shattering
+it and sending shrapnel flying at the opponent."
+4,27,name,Sonic Impact
+4,27,description,"Thrusts your bayonet forward and fires
+a series of point-blank shots."
+4,28,name,Raging Blast
+4,28,description,"Shoots the ground while backstepping, creating
+a series of rock pillars at the point of impact."
+4,29,name,Dark Laser
+4,29,description,"Launches a dark sphere. The sphere penetrates
+all foes and moves forward in a straight line."
+4,30,name,Howling Launcher
+4,30,description,"Generates a shockwave in the form of a beast
+when your magic bullet hits the target."
+4,31,name,Phantom’s Call
+4,31,description,"Fires a bullet that condenses the power of darkness
+and causes a tremendous explosion upon impact."
+4,32,name,Endless Tragedy
+4,32,description,"Transforms into the god of death, Hypnos,
+and cuts everything into pieces."
+5,0,name,Sharpness
+5,0,description,"An entry-level arte that temporarily
+boosts an ally’s physical attack."
+5,1,name,Barrier
+5,1,description,"An entry-level arte that temporarily
+boosts an ally’s physical defense."
+5,2,name,Resist
+5,2,description,"An entry-level arte that temporarily
+boosts an ally’s Arte defense."
+5,3,name,Pow Hammer
+5,3,description,"An entry-level arte that drops a daze-
+inducing hammer on the target’s head."
+5,4,name,Healer
+5,4,description,Restores your health by storing chi.
+5,5,name,Thievery
+5,5,description,"Steals an item from the enemy. If it fails,
+you will fall back and be left vulnerable."
+5,6,name,Crouching Dragon
+5,6,description,Launches a powerful flying knee kick at the enemy.
+5,7,name,Shadow Rush
+5,7,description,"Dashes forward and launches a straight right
+that somehow inflicts multiple hits."
+5,8,name,Talon Storm
+5,8,description,Unleashes a series of quick punches.
+5,9,name,Fang Upper
+5,9,description,"Perform a chop, then follow up with a rising uppercut."
+5,10,name,Break Heel
+5,10,description,Unleashes an aerial spinning heel drop kick.
+5,11,name,Collision Stamp
+5,11,description,"Strikes the ground with a force that creates
+shockwaves and propels your body upward."
+5,12,name,Wyrm Rush
+5,12,description,Unleashes three dash straights in a row.
+5,13,name,Talon Strike
+5,13,description,"Leap into the air above the enemy’s
+head and stomp them with both feet."
+5,14,name,Swallow Dance
+5,14,description,Unleash a series of spinning kicks in midair.
+5,15,name,Vicious Sparkle
+5,15,description,Fire a mass of chi at your foes!
+5,16,name,Whirlwind Snap
+5,16,description,A spinning kick that brings the enemy closer to you.
+5,17,name,Beast
+5,17,description,"Unleashes a lion-shaped surge of
+energy that blows enemies away."
+5,18,name,Rising Falcon
+5,18,description,Leaps into the air and unleashes a diving kick.
+5,19,name,Roaring Drill
+5,19,description,"Spins like a cone, drawing an arc as you charge forward."
+5,20,name,Talon Blast
+5,20,description,"Unleashes a series of high-velocity punches,
+ending with a straight left for the final blow."
+5,21,name,Eagle Bolt
+5,21,description,"Leap into the air above the enemy’s head and stomp
+them with both feet, discharging electricity."
+5,22,name,Soaring Wyrm
+5,22,description,"Perform a devastating roundhouse kick
+followed up with a barrage of rapid kicks."
+5,23,name,Boulder Beatdown
+5,23,description,Unearth a boulder from the earth and onto your foes.
+5,24,name,Royal Upper
+5,24,description,"A jumping uppercut followed by a series of
+punches, ending with a heel drop to the ground."
+5,25,name,Swallow Storm
+5,25,description,"An arte that begins with Talon Storm before
+following up with Swallow Dance."
+5,26,name,Howling Dash
+5,26,description,"Unleashes three straight dashes in a row,
+followed by a lion-shaped surge of energy."
+5,27,name,Dragon Strike
+5,27,description,Unleashes an infernal dive kick.
+5,28,name,Dreamfang Rise
+5,28,description,"Unleashes a powerful uppercut after
+rapidly punching the enemy into the air."
+5,29,name,Cielan Opposition Wave
+5,29,description,"Create a massive sphere of chi
+energy that you then detonate."
+5,30,name,Dragon’s Touch of Death
+5,30,description,"Launches the enemy with a powerful uppercut
+before winding up for a powerful straight punch."
+5,31,name,Celestial Draconic Destruction
+5,31,description,"Transforms into Vritra to fire a ball
+of light that engulfs everything."
+6,0,name,Astion
+6,0,description,"An entry-level arte that temporarily
+boosts an ally’s arte attack."
+6,1,name,Dancing Edge
+6,1,description,"An entry-level arte that summons countless
+swords and launches them at the target."
+6,2,name,Blast Streak
+6,2,description,"An arte for adepts that fires a laser at the ground in
+a fan shape, triggering an explosion along its path."
+6,3,name,Meteor Storm
+6,3,description,"An advanced arte that causes a swarm
+of meteorites to fall upon the battlefield."
+6,4,name,Fearful Flare
+6,4,description,"An entry-level arte that rains down venom-infused
+balls of fire that violently explode on impact."
+6,5,name,Fireball
+6,5,description,"An entry-level arte that sends a scorching
+fireball flying at the enemy."
+6,6,name,Spiral Flare
+6,6,description,"An arte for adepts that shoots a
+swirling mass of flame at the target."
+6,7,name,Explosion
+6,7,description,"An advanced arte that sets off a
+devastating detonation over a wide area."
+6,8,name,Crimson Flare
+6,8,description,"An advanced arte that brings forth a large column
+of fire to burn all enemies within the area."
+6,9,name,Ice Needles
+6,9,description,"An entry-level arte that hails
+icicles down upon your foes."
+6,10,name,Spread
+6,10,description,"An intermediate arte that causes a geyser
+to gush forth from the ground beneath."
+6,11,name,Final Embrace
+6,11,description,"An advanced arte that plunges the target
+into a devastating nightmare of ice."
+6,12,name,Maelstrom
+6,12,description,"An advanced arte that causes a raging
+vortex to lay waste to a wide area."
+6,13,name,Stone Blast
+6,13,description,"An entry-level arte that causes rocks to rush
+forth and attack the enemy from beneath."
+6,14,name,Boulder Bash
+6,14,description,"An arte for adepts that drops a massive
+boulder right on the enemy’s head."
+6,15,name,Ground Dasher
+6,15,description,"An advanced arte that opens up a boulder-
+spewing fissure in the earth."
+6,16,name,Gravity Well
+6,16,description,"An advanced arte that creates a
+gravitational field to crush foes."
+6,17,name,Wind Blade
+6,17,description,"An entry-level arte that slices the target
+with razor-sharp blades of wind."
+6,18,name,Crosswind
+6,18,description,"An arte for adepts that assaults the enemy
+from all sides with stinging whirlwinds."
+6,19,name,Cyclone
+6,19,description,"An advanced arte that engulfs the
+target in a devastating twister."
+6,20,name,Tempest
+6,20,description,"An advanced arte that calls forth
+multiple giant tornadoes."
+6,21,name,Lightning
+6,21,description,"An entry-level arte that summons a
+bolt of lightning to strike the target."
+6,22,name,Spark Wave
+6,22,description,"An arte for adepts that imprisons the
+target in a swirling sphere of lightning."
+6,23,name,Thunder Blade
+6,23,description,"An advanced arte that calls down a sword
+of pure electricity from on high."
+6,24,name,Indignation
+6,24,description,"An advanced arte which summons a bolt
+that inflicts catastrophic lightning damage."
+6,25,name,Photon
+6,25,description,"An entry-level arte that bombards
+the target with particles of light."
+6,26,name,Ray
+6,26,description,"An arte for adepts that summons beams
+of light to deal damage to the enemy."
+6,27,name,Grand Cross
+6,27,description,"An advanced arte that draws an enormous
+damage-dealing cross of light in the sky."
+6,28,name,Shadow Edge
+6,28,description,"An entry-level arte that causes a blade of
+darkness to stab the target from behind."
+6,29,name,Demon’s Lance
+6,29,description,"An advanced arte that summons a lance of pure
+darkness to impale the enemy from above."
+6,30,name,Black Hole
+6,30,description,"An advanced arte that creates a black hole
+capable of inflicting unspeakable damage."
+6,31,name,Bloody Howling
+6,31,description,"This advanced arte creates an arcane circle
+which spews forth a deadly miasma."
+6,32,name,Pow Hammer
+6,32,description,"An entry-level arte that drops a daze-
+inducing hammer on the target’s head."
+6,33,name,Suppress Weapon
+6,33,description,"An entry-level arte that temporarily
+reduces an enemy’s physical attack."
+6,34,name,Suppress Armor
+6,34,description,"An entry-level arte that temporarily
+reduces an enemy’s physical defense."
+6,35,name,Suppress Mind
+6,35,description,"An entry-level arte that temporarily
+reduces an enemy’s Arte attack."
+6,36,name,Suppress Aura
+6,36,description,"An entry-level arte that temporarily
+reduces an enemy’s Arte defense."
+6,37,name,Silent Apocalypse
+6,37,description,"Scatters several pages of your book around the
+enemy and envelops them in a sphere of light."
+6,38,name,Innumerum Arts
+6,38,description,"Summons a number of weapons, then
+drops a giant greatsword on the enemy."
+7,0,name,Somersault Shoot
+7,0,description,"Perform a kickwhile backflipping. This also
+applies an attack buff to your next arte."
+7,1,name,Spin Thrust
+7,1,description,Performs a spinning slash while hopping forward.
+7,2,name,Hard Break
+7,2,description,"Unleashes a powerful elbow strike
+that temporarily prevents knock down."
+7,3,name,Trick Crash
+7,3,description,"Skewer the enemy with a thrust, drag them
+to you, then knock them away with a slash."
+7,4,name,Accel Blow
+7,4,description,"Rush forward and perform a downward slash, then follow
+up with a lacerating upswing that sends foes flying."
+7,5,name,Prism Waltz
+7,5,description,"Closes the distance with a rushing slash,
+then spins to unleash a powerful thrust."
+7,6,name,Aerial Rush
+7,6,description,Stomps enemies from midair in rapid succession.
+7,7,name,Whirlwind
+7,7,description,"Twirls your spear in midair and
+swings it down with all your might."
+7,8,name,Soul Howling
+7,8,description,"Unleashes your fighting spirit, creating a shockwave,
+and increasing the stun chance of your next attack."
+7,9,name,Slash Rise
+7,9,description,"Stabs your foe and follows up
+with a rising, spinning slash."
+7,10,name,Lanzador
+7,10,description,"Twirls your weapon to unleash a barrage
+of blows and follows it up with a cleave."
+7,11,name,Dual Impact
+7,11,description,"A palm strike that hits twice. The second
+hit will blow the enemy away."
+7,12,name,Roll Strike
+7,12,description,"Perform a spin slash in midair, then thrust your
+spear into the ground, creating a shockwave."
+7,13,name,Dancing Slash
+7,13,description,"Knocks foes into the air and connects a string of
+attacks as if you were performing a graceful dance."
+7,14,name,Banishing Storm
+7,14,description,"Generates shock waves by thrusting
+your spear into the ground."
+7,15,name,Imperial Spear
+7,15,description,"Pierces the enemy with a series of thrusts,
+then throws your spear with all your might."
+7,16,name,Infinite Rondo
+7,16,description,"Pummel your foes as if you were dancing
+wildly, then finish them with a shockwave."
