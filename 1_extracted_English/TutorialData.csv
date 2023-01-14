@@ -1,0 +1,102 @@
+0,0,"Note: The following tutorial is for
+{red}Semi-Auto{x01}{x00} control mode."
+0,1,"
+　　　　　　　[ {red}Movement{x01}{x00} ]　　　　　　　"
+0,2,"Hold dpad_du{variable} in a given direction to move
+the character you’re controlling.{fixed}"
+0,3,"{fixed}Press {remap_square} while pressing dpad_u to jump.
+If you’re moving, you’ll jump in that direction.{variable}"
+0,4,"{blue}Try it for yourself!{x01}{x00}
+- Use dpad_du to move around.
+- Press {remap_square}＋dpad_u to jump."
+0,5,"Use left_analog to move. You can move freely
+in whichever direction left_analog is pushed."
+0,6,"{blue}Try it for yourself!{x01}{x00}
+- Use left_analog to free run."
+0,7,"
+　　　　- {red}Switching Targets{x01}{x00} -　　　　"
+0,8,"When multiple enemies are present,
+you can press {remap_l2} to switch your
+target to the closest enemy."
+0,9,"You can press dpad_du while holding {remap_l2}
+to switch freely between target."
+0,10,"{blue}Try it for yourself!{x01}{x00}
+- Press {remap_l2} to switch targets."
+0,11,"
+　　　　　　[ {red}Regular Attacks{x01}{x00} ]　　　　　　"
+0,12,"Press {remap_circle} to attack an enemy. 
+Different attacks can be performed using {icon:0x0E06} + {remap_circle}.
+Press repeatedly to perform combos."
+0,13,"{blue}Try it for yourself!{x01}{x00}
+- Press {remap_circle} to attack.
+- Press {icon:0x0E06} + {remap_circle} to attack."
+0,14,"While using left_analog to run around, you can press {remap_circle} to
+perform a free-run attack. If the attack hits an enemy, 
+your target will automatically switch to that opponent."
+0,15,"{blue}Try it for yourself!{x01}{x00}
+- While moving with left_analog, press {remap_circle} to perform a free-run attack."
+0,16,"
+　　　　　　　[ {red}Artes{x01}{x00} ]　　　　　　　"
+0,17,"Using {remap_cross} to attack an enemy will cause a special 
+attack known as an arte to be performed.
+Performing an arte uses up TP."
+0,18,Artes can be combined by using them after regular attacks ({remap_circle}).
+0,19,"{blue}Try it for yourself!{x01}{x00}
+- Press {remap_circle} to perform a regular attack 
+then press {remap_cross} to perform an arte."
+0,20,"
+　　　　　　　[ {red}Blocking{x01}{x00} ]　　　　　　　"
+0,21,"Press {remap_square} to block an incoming attack.
+Hold it down to guard continuously."
+0,22,"While guarding, press dpad_d to perform a magic guard."
+0,23,"Magic guard reduces the damage taken by A. ATK 
+by a greater amount than a normal guard."
+0,24,"{blue}Try it for yourself!{x01}{x00}
+- Press {remap_square} to block.
+- Press {remap_square} + dpad_d to perform a magic guard."
+0,25,"Press dpad_du twice quickly while guarding
+({remap_square}) to perform a quick-step, allowing
+you to cover ground fast."
+0,26,"{blue}Try it for yourself!{x01}{x00}
+- Hold {remap_square} to block, then press dpad_du
+twice quickly to quick-step."
+0,27,"
+　　　　[ {red}Over Limit{x01}{x00} ]　　　　"
+0,28,"Attacking and being attacked causes the OVL gauge
+to gradually fill."
+0,29,"Once it has filled, you can press {remap_l1} to activate 
+your Over Limit."
+0,30,"Special abilities will be granted while the gauge
+is active until the gauge runs out."
+0,31,"However, please keep in mind that the gauge will 
+decrease quickly if you are attacked by an enemy!"
+0,32,"{blue}Try it for yourself!{x01}{x00}
+- Press {remap_l1} to enter Over Limit."
+0,33,This concludes the battle basics tutorial.
+1,0,"
+　　　　[{red}Guard Counter{x01}{x00}]　　　　"
+1,1,"After taking a certain number of hits, enemies will 
+glow red, and then lash out with rage."
+1,2,"By pressing {remap_square} at just the right moment, 
+you can block the enraged attack, and perform 
+a Guard Counter."
+1,3,"{remap_square} must be pressed at the very last moment 
+in order for the counter-attack to be successful."
+1,4,"A successful Guard Counter will allow you to carry on your 
+current combo onslaught uninterrupted."
+1,5,"{blue}Try it for yourself!{x01}{x00}
+- Press {remap_square} with the right timing to counter 
+their rage attack."
+1,6,This concludes the Guard Counter tutorial.
+2,0,"
+　　　　　　[{red}Mystic Artes{x01}{x00}]　　　　　　"
+2,1,"Mystic Artes can be performed by holding down {remap_l1}
+when an attack hits an enemy during Over Limit."
+2,2,"Mystic Artes can be used in combination with {remap_circle} normal 
+attacks and {remap_cross} artes."
+2,3,Activating a Mystic Arte will consume the entire Rave gauge.
+2,4,"The power of the Mystic Artes will increase greatly according 
+to the number of gauges consumed."
+2,5,"{blue}Try it for yourself!{x01}{x00}
+- Press {remap_l1} while in Over Limit to activate your Mystic Arte."
+2,6,This concludes the Mystic Artes tutorial.

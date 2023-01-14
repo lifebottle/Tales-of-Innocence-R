@@ -1,0 +1,56 @@
+0,name,Keep Items
+0,description,Carries over most of your items.
+1,name,Keep Gald
+1,description,Carries over all of your current gald.
+2,name,Keep Grade
+2,description,Carries over all of your current Grade.
+3,name,Keep Parameters
+3,description,"Carries over everyone's levels, parameters, styles, artes,
+and cooking levels."
+4,name,Keep Titles
+4,description,Carries over all of your current titles.
+5,name,Keep Bonds
+5,description,Carries over everyone's bond levels.
+6,name,Keep Raves
+6,description,Carry all Rave Abilities and Rave Levels you currently possess.
+7,name,Keep Strategies
+7,description,Carries over all strategy conditions that you've collected.
+8,name,Keep Recipes
+8,description,Carries over all recipes collected.
+9,name,Keep Character Battle Totals
+9,description,Carries over the number of times each character has been used in battle.
+10,name,30-Item Carry Limit
+10,description,Sets the maximum number of items that can be carried to 30.
+11,name,60-Item Carry Limit
+11,description,Sets the maximum number of items that can be carried to 60.
+12,name,99-Item Carry Limit
+12,description,Sets the maximum number of items that can be carried to 99.
+13,name,Half Experience
+13,description,Decrease the amount of EXP earned to half.
+14,name,Double Experience
+14,description,Increase the amount of EXP earned by 2x.
+15,name,5x Experience
+15,description,Increase the amount of EXP earned by 5x.
+16,name,Double Gald
+16,description,Double the amount of gald earned after battles.
+17,name,Double Grade
+17,description,Double the amount of grade earned after battles.
+18,name,Double AP
+18,description,Double the amount of AP earned after battles.
+19,name,OVL Gauge UP
+19,description,Increases the speed at which the Over Limit gauge fills up.
+20,name,Rave Gauge UP
+20,description,Increases the speed at which the Rave Gauge fills up.
+21,name,Double Capacity
+21,description,Doubles the amount of capacity  to set style abilities.
+22,name,Increase Item Drop Rate
+22,description,Increases the rate at which items are dropped by defeated enemies
+23,name,Increase Rare Item Drop Rate
+23,description,Increases the rate at which rare items are dropped by defeated enemies
+24,name,Keep Monster Book
+24,description,Carries over the contents of the Monster Book
+25,name,Fill Monster Book
+25,description,Unlocks the all entries in the Monster Book
+26,name,Unlock All Skits
+26,description,"Unlocks all skits for the Skit Player that can now be found in Muse
+Clan's Hometown."

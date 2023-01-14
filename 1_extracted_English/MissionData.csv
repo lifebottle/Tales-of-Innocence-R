@@ -1,0 +1,60 @@
+0,line_1,Win within the time limit.
+0,line_2,-1
+0,target,Time remaining.
+1,line_1,Make a combo.
+1,line_2,-1
+1,target,Max Hits
+2,line_1,Score a guard counter!
+2,line_2,-1
+2,target,Number of successes
+3,line_1,Just Guard
+3,line_2,-1
+3,target,Number of successes
+4,line_1,Win in less than the specified number of attacks.
+4,line_2,victory.
+4,target,Number of Attacks
+5,line_1,Take him down.
+5,line_2,-1
+5,target,Downed.
+6,line_1,Kill the enemies in the air.
+6,line_2,-1
+6,target,Number of kills
+7,line_1,Defeat enemies with their weakness
+7,line_2,-1
+7,target,Number of kills
+8,line_1,Stop it from casting!
+8,line_2,-1
+8,target,Number of blocks
+9,line_1,Defeat with a specific arte.
+9,line_2,-1
+9,target,Number of kills
+10,line_1,All party members
+10,line_2,Don't lose the battle.
+10,target,-1
+11,line_1,Don't use any items.
+11,line_2,-1
+11,target,-1
+12,line_1,Defeat with secret weapon.
+12,line_2,-1
+12,target,Number of kills
+13,line_1,Steal the item.
+13,line_2,-1
+13,target,Number of successes
+14,line_1,Control character only
+14,line_2,No attacks or techniques
+14,target,-1
+15,line_1,Control character only
+15,line_2,No magic
+15,target,-1
+16,line_1,All party members
+16,line_2,HP is greater than or equal to |% at the time of victory
+16,target,-1
+17,line_1,Do not let the Rave Gauge decrease.
+17,line_2,-1
+17,target,-1
+18,line_1,Control Character Only
+18,line_2,Win with no damage.
+18,target,-1
+19,line_1,All party members.
+19,line_2,Win with no damage.
+19,target,-1
