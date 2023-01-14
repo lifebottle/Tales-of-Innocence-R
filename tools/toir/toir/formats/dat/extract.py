@@ -2,7 +2,7 @@ from .artes import extract_artes
 from .items import extract_items
 from .battlebook import extract_battle_book
 from .charaability import extract_chara_ability
-from .charanames import extract_chara_names
+from .packfield import extract_chara_names
 from .tutorial import extract_tutorial
 from .mission import extract_mission
 from .enemies import extract_enemies
