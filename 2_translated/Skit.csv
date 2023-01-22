@@ -5193,8 +5193,8 @@ We will anger Illia should we fail to."
 "0210.dat","line","5","0 [ハスタ]","ハイチャラバーイ♪","0 [Hasta]","Hi, charabancai."
 "0210.dat","line_speaker","12","","システム","","System"
 "0210.dat","line","12","0 [ハスタ]","{fixed}※{variable}このスキットは仮のスキットです{fixed}。
-　{variable}後でちゃんと差し替えてあげてね♪","0 [Hasta]","{fixed}*{variable}This skit is a temporary skit {fixed}. 
-{variable}You’ll have to replace it properly later."
+　{variable}後でちゃんと差し替えてあげてね♪","0 [Hasta]","*This skit is a temporary skit. 
+You’ll have to replace it properly later."
 "0211.dat","title","833","","なし","","None"
 "0211.dat","speaker","0","","アンジュ","","Ange"
 "0211.dat","line_speaker","0","","メイド","","Maid"
@@ -35424,7 +35424,7 @@ a bit troublesome, correct?"
 "5015.dat","line_speaker","23","","？？？","","???"
 "5015.dat","line","23","","………い{fixed}…… 
 {variable}は{fixed}…………………… 
-……{variable}あ…！","","...ooh{fixed}...{variable}hah{fixed}...{variable}ee...!"
+……{variable}あ…！","","...ooh...hah...ee...!"
 "5015.dat","line","26","0 [ルカ]","……外？","0 [Ruca]","...Outside?"
 "5015.dat","line","42","1 [スパーダ]","せいっ！","1 [Spada]","HOO!"
 "5015.dat","line","47","1 [スパーダ]","はっ！","1 [Spada]","HAH!"

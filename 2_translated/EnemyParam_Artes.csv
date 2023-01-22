@@ -1,289 +1,288 @@
-#,Japanese,English,Comments
-0,ファイアボール,Fireball,General Artes
-1,スパイラルフレア,Spiral Flare,
-2,エクスプロード,Explosion,
-3,アイスニードル,Ice Needles,
-4,スプレッド,Spread,
-5,インブレイスエンド,Final Embrace,
-6,ストーンブラスト,Stone Blast,
-7,マッシブロック,Boulder Bash,
-8,グランドダッシャー,Ground Dasher,
-9,ウィンドカッター,Wind Blade,
-10,クロスウィンド,Crosswind,
-11,サイクロン,Cyclone,
-12,ライトニング,Lightning,
-13,スパークウェブ,Spark Wave,
-14,サンダーブレード,Thunder Blade,
-15,フォトン,Photon,
-16,レイ,Ray,
-17,グランドクロス,Grand Cross,
-18,シャドウエッジ,Shadow Edge,
-19,デモンズランス,Demon’s Lance,
-20,ブラックホール,Black Hole,
-21,ピコハン,Pow Hammer,
-22,ファーストエイド,First Aid,
-23,ヒール,Heal,
-24,キュア,Cure,
-25,ナース,Nurse,
-26,リザレクション,Revitalize,
-27,ヒールオブアース,Geotherapy,
-28,ソウルオブアース,Astral-therapy,"same that artes sheet so if theres
-change there need to be applied to both"
-29,リカバー,Recover,
-30,ディスペル,Dispel,
-31,アンチマジック,Anti-Magic,
-32,レイズデッド,Resurrection,
-33,シャープネス,Sharpness,
-34,バリアー,Barrier,
-35,アスティオン,Astion,
-36,レジスト,Resist,
-37,スポイル・ウェポン,Suppress Weapon,
-38,スポイル・アーマー,Suppress Armor,
-39,スポイル・マインド,Suppress Mind,
-40,スポイル・レジスト,Suppress Aura,
-41,,,
-42,,,
-43,ワイルドラッシュ,Wild Rush,Sian: artes
-44,,,
-45,アースブレイカー,Earth Breaker,
-46,ブラッディソウル,Bloody Soul,
-47,Ｂ・インパクト,Bloody Impact,
-48,チャージファング,Charge Fang,
-49,,,Albert :Artes
-50,,,
-51,ディズィーボム,Dizzy Bomb,
-52,アサルトトリガー,Assault Trigger,
-53,ヘブンズラダー,Heaven’s Ladder,
-54,ジャッジメント,Judgment,
-55,Ｐ・パーミット,Punishment Permit,
-56,,,Cxarma: Artes
-57,青魂零呪,Spirit’s Curse,"No clue why 青 is here when the Arte is purple? Does it mean, like vibrant or nature-like?"
-58,秘剣封縛,Hidden Binds,
-59,,,
-60,桜花乱舞,Sakura Ballet,"乱舞 specifically specifies a powerful dance, idk if ballet fits that but it sounds pretty"
-61,モータル・シャドウ,Mortal Shadow,
-62,,,Gardle: Artes
-63,ヤクトラーゼン,Jagd Reisen,
-64,,,
-65,,,
-66,,,
-67,,,
-68,スタークニヒト,Stark Nicht,
-69,ナハトエルガー,Nacht Elgar,
-70,エヒト・シュワルツ,Echt Schwarz,
-71,,,Hasta Ekstermi: Artes
-72,,,
-73,,,
-74,崩襲撃,Devastation,in symphonia?
-75,旋風槍,Storm Thrust,
-76,殺撃槍,Fatal Lance,Cresty
-77,天破剛雷槍,Manly Thunder Lance,剛 can be used as slang for manly and I figured it fit Hasta’s personality
-78,旋風槍・追連,Storm Thrust: Seeker,Cresty
-79,烈震雷光撃,Calamity Impact,
-80,煉舞羅刹槍,Rakshasa’s Ecstasy,Rakshasa is a man-eating God of Buddist and Hinduist origin both of which Innocence takes a lot of inspiration from (Cresty)
-81,,,
-82,火旋輪,Burning Wheel,Kohaku: Artes
-83,炎舞陣,Blazing Ring,
-84,鳳凰天駆,Rising Phoenix,
-85,空牙嵐蹴旋,Pirouette Kick,
-86,殺劇舞荒拳,Final Fury,
-87,,,
-88,鳶氷雨,Black Kite Hail,Hisui: Artes
-89,風梟,Stormy Owl,Redid the translation
-90,荒鷹,Wild Hawk,Redid the translation
-91,銃狗鷲・番風,Golden Eagle,
-92,,,
-93,アサルトダンス,Whirling Assault,Milla: Artes
-94,ラウンドエッジ,Shimmer Spin,I used the localized name
-95,ネガティブホルダー,Binding Sphere,
-96,カタラクトレイ,Blade Torrent,
-97,スプリームエレメンツ,Elemental Mastery,
-98,,,
-99,,,
-100,,,
-101,,,
-102,,,
-103,,,
-104,,,
-105,,,
-106,,,
-107,,,
-108,,,
-109,,,
-110,,,
-111,,,
-112,,,
-113,,,
-114,,,
-115,,,
-116,ウィークパウダー,Weak Powder,
-117,パラライズパウダー,Paralysis Powder,
-118,フィアーパウダー,Fear Powder,
-119,ブリットルパウダー,Britlle Powder,Most likely lowers a stat
-120,,,
-121,,,
-122,,,
-123,,,
-124,,,
-125,,,
-126,,,
-127,,,
-128,,,
-129,,,
-130,,,
-131,,,
-132,,,
-133,,,
-134,,,
-135,,,
-136,,,
-137,,,
-138,,,
-139,ポイズンジェル,Poison Jel,"These Artes all are actually called ""Gel"" instead of ""Gummi"" to make it clear they’re different from the ""Gel"" items I went with Jel"
-140,ウィークジェル,Weak Jel,
-141,パラライズジェル,Paralysis Jel,
-142,ポイズンスポア,Poison Spore,
-143,ウィークスポア,Weak Spore,
-144,パラライズスポア,Paralysis Spore,
-145,フィアースポア,Fierce Spore,
-146,,,
-147,ショックハウリング,Shock Howling,
-148,,,
-149,,,
-150,,,
-151,ポイズンスポア,Poison Spore,Again?
-152,ストーンスポア,Stone Spore,
-153,ブリットルスポア,Brittle Spore,
-154,,,
-155,フレイムブレス,Flame Breath,
-156,アースブレス,Earth Breath,
-157,ホーリーブレス,Holy Breath,
-158,,,
-159,,,
-160,,,
-161,,,
-162,,,
-163,,,
-164,,,
-165,,,
-166,,,
-167,,,
-168,,,
-169,,,
-170,ストーンスモッグ,Stone Smog,
-171,スキャタースモッグ,Scatter Smog,
-172,,,
-173,,,
-174,フレアボール,Flare Ball,
-175,,,
-176,,,
-177,アースダイブ,Earth Dive,
-178,,,
-179,,,
-180,,,
-181,,,
-182,ポイズンピック,Poison Prick,
-183,,,
-184,,,
-185,スタンプレス,Stampless,I’d need to check what this Arte does to make sense of whatever this means
-186,,,
-187,,,
-188,,,
-189,,,
-190,リミットアブソーブ,Limit Absorber,
-191,,,
-192,,,
-193,,,
-194,,,
-195,,,
-196,,,
-197,,,
-198,デストロイボム,Destruction Bomb,
-199,,,
-200,フレアグレネード,Flare Grenade,
-201,,,
-202,,,
-203,,,
-204,,,
-205,プロトンボム,Proton Bomb,
-206,バリオンレーザー,Baryon Laser,
-207,バリオンレーザー,Baryon Laser,Same?
-208,,,
-209,,,
-210,,,
-211,,,
-212,スティングレーザー,Sting Laser,
-213,,,
-214,,,
-215,テラーシャウト,Terro Shout,
-216,,,
-217,,,
-218,,,
-219,轟崩襲撃,Smiting Fall,Mattheus: Artes
-220,魔神剣・王牙,Sovereign Demon Fang,
-221,,,
-222,魔王絶葬陣,Demon King Rupture,
-223,,,
-224,,,
-225,,,
-226,オクトストローク,Octostroke,
-227,アブラプトエンド,Abrupt End,
-228,アブラプトエンド,Abrupt End,
-229,,,
-230,冥光襲烈閃,Chiaroscuro Wave,
-231,冥光襲烈陣,Chiaroscuro Union,
-232,,,
-233,瞬迅月華衝,Blinking Lunar Tempest,This form’s Artes seem to be versions of Ruca’s
-234,紅蓮襲爪刃,Hell Pyre Fang,
-235,紅蓮瞬迅衝,Blinking Hell Pyre,
-236,魔王界滅刃,Demon Worldslayer,
-237,,,
-238,,,
-239,シャドーネイル,Shadow Nails,
-240,スキャッター,Scatter,
-241,,,
-242,,,
-243,,,
-244,ベノムガッシュ,Venom Gouge,
-245,,,
-246,,,
-247,,,
-248,,,
-249,,,
-250,アースウェイブ,Earth Wave,
-251,,,
-252,アースウォール,Earth Wall,
-253,,,
-254,,,
-255,,,
-256,,,
-257,,,
-258,,,
-259,スクリューハンマー,Screw Hammer,Ange: Artes
-260,フレアボム,Flare Bomb,
-261,マーシレスハント,Merciless Hunt,
-262,瞬迅槍,Sonic Spear,
-263,光波刃,Platinum Edge,
-264,牙突衝,Fang Rush,
-265,空襲刃,Diving Dragon,
-266,聖煌輪,Twinkling Halo,
-267,牙突飛燕衝,Force Fang,
-268,光波連刃,Platinum Hail,
-269,空襲閃光翔,Dragon Force,
-270,守護方陣,Guardian Field,
-271,崩龍斬光刃,Dragon Shine,
-272,天翔光波刃,Heavenly Platinum Edge,
-273,魔神剣,Demon Fang,Ruca: Artes
-274,瞬迅衝,Sonic Shock,
-275,崩襲剣,Demolishing Thrust,
-276,真空破斬,Void Tempest,
-277,爆炎剣,Hell Sword,
-278,裂空斬,Tempest Strike,
-279,轟衝破斬,Fissure Sweep,
-280,鳳凰天駆,Rising Phoenix,
-281,紅蓮剣,Hell Pyre,
-282,魔王炎撃破,Infernal Torrent,
-283,烈火爆炎走,Pyro Blitz,
-284,熱波旋風陣,Searing Gale,
-285,鳳凰天翔駆,Razing Phoenix,
-286,魔王爆炎槍,Infernal Spear,
+"#","Japanese","English"
+"0","ファイアボール","Fireball"
+"1","スパイラルフレア","Spiral Flare"
+"2","エクスプロード","Explosion"
+"3","アイスニードル","Ice Needles"
+"4","スプレッド","Spread"
+"5","インブレイスエンド","Final Embrace"
+"6","ストーンブラスト","Stone Blast"
+"7","マッシブロック","Boulder Bash"
+"8","グランドダッシャー","Ground Dasher"
+"9","ウィンドカッター","Wind Blade"
+"10","クロスウィンド","Crosswind"
+"11","サイクロン","Cyclone"
+"12","ライトニング","Lightning"
+"13","スパークウェブ","Spark Wave"
+"14","サンダーブレード","Thunder Blade"
+"15","フォトン","Photon"
+"16","レイ","Ray"
+"17","グランドクロス","Grand Cross"
+"18","シャドウエッジ","Shadow Edge"
+"19","デモンズランス","Demon’s Lance"
+"20","ブラックホール","Black Hole"
+"21","ピコハン","Pow Hammer"
+"22","ファーストエイド","First Aid"
+"23","ヒール","Heal"
+"24","キュア","Cure"
+"25","ナース","Nurse"
+"26","リザレクション","Revitalize"
+"27","ヒールオブアース","Geotherapy"
+"28","ソウルオブアース","Astral-therapy"
+"29","リカバー","Recover"
+"30","ディスペル","Dispel"
+"31","アンチマジック","Anti-Magic"
+"32","レイズデッド","Resurrection"
+"33","シャープネス","Sharpness"
+"34","バリアー","Barrier"
+"35","アスティオン","Astion"
+"36","レジスト","Resist"
+"37","スポイル・ウェポン","Suppress Weapon"
+"38","スポイル・アーマー","Suppress Armor"
+"39","スポイル・マインド","Suppress Mind"
+"40","スポイル・レジスト","Suppress Aura"
+"41","",""
+"42","",""
+"43","ワイルドラッシュ","Wild Rush"
+"44","",""
+"45","アースブレイカー","Earth Breaker"
+"46","ブラッディソウル","Bloody Soul"
+"47","Ｂ・インパクト","Bloody Impact"
+"48","チャージファング","Charge Fang"
+"49","",""
+"50","",""
+"51","ディズィーボム","Dizzy Bomb"
+"52","アサルトトリガー","Assault Trigger"
+"53","ヘブンズラダー","Heaven’s Ladder"
+"54","ジャッジメント","Judgment"
+"55","Ｐ・パーミット","Punishment Permit"
+"56","",""
+"57","青魂零呪","Spirit’s Curse"
+"58","秘剣封縛","Hidden Binds"
+"59","",""
+"60","桜花乱舞","Sakura Ballet"
+"61","モータル・シャドウ","Mortal Shadow"
+"62","",""
+"63","ヤクトラーゼン","Jagd Reisen"
+"64","",""
+"65","",""
+"66","",""
+"67","",""
+"68","スタークニヒト","Stark Nicht"
+"69","ナハトエルガー","Nacht Elgar"
+"70","エヒト・シュワルツ","Echt Schwarz"
+"71","",""
+"72","",""
+"73","",""
+"74","崩襲撃","Devastation"
+"75","旋風槍","Storm Thrust"
+"76","殺撃槍","Fatal Lance"
+"77","天破剛雷槍","Manly Thunder Lance"
+"78","旋風槍・追連","Storm Thrust: Seeker"
+"79","烈震雷光撃","Calamity Impact"
+"80","煉舞羅刹槍","Rakshasa’s Ecstasy"
+"81","",""
+"82","火旋輪","Burning Wheel"
+"83","炎舞陣","Blazing Ring"
+"84","鳳凰天駆","Rising Phoenix"
+"85","空牙嵐蹴旋","Pirouette Kick"
+"86","殺劇舞荒拳","Final Fury"
+"87","",""
+"88","鳶氷雨","Black Kite Hail"
+"89","風梟","Stormy Owl"
+"90","荒鷹","Wild Hawk"
+"91","銃狗鷲・番風","Golden Eagle"
+"92","",""
+"93","アサルトダンス","Whirling Assault"
+"94","ラウンドエッジ","Shimmer Spin"
+"95","ネガティブホルダー","Binding Sphere"
+"96","カタラクトレイ","Blade Torrent"
+"97","スプリームエレメンツ","Elemental Mastery"
+"98","",""
+"99","",""
+"100","",""
+"101","",""
+"102","",""
+"103","",""
+"104","",""
+"105","",""
+"106","",""
+"107","",""
+"108","",""
+"109","",""
+"110","",""
+"111","",""
+"112","",""
+"113","",""
+"114","",""
+"115","",""
+"116","ウィークパウダー","Weak Powder"
+"117","パラライズパウダー","Paralysis Powder"
+"118","フィアーパウダー","Fear Powder"
+"119","ブリットルパウダー","Britlle Powder"
+"120","",""
+"121","",""
+"122","",""
+"123","",""
+"124","",""
+"125","",""
+"126","",""
+"127","",""
+"128","",""
+"129","",""
+"130","",""
+"131","",""
+"132","",""
+"133","",""
+"134","",""
+"135","",""
+"136","",""
+"137","",""
+"138","",""
+"139","ポイズンジェル","Poison Jel"
+"140","ウィークジェル","Weak Jel"
+"141","パラライズジェル","Paralysis Jel"
+"142","ポイズンスポア","Poison Spore"
+"143","ウィークスポア","Weak Spore"
+"144","パラライズスポア","Paralysis Spore"
+"145","フィアースポア","Fierce Spore"
+"146","",""
+"147","ショックハウリング","Shock Howling"
+"148","",""
+"149","",""
+"150","",""
+"151","ポイズンスポア","Poison Spore"
+"152","ストーンスポア","Stone Spore"
+"153","ブリットルスポア","Brittle Spore"
+"154","",""
+"155","フレイムブレス","Flame Breath"
+"156","アースブレス","Earth Breath"
+"157","ホーリーブレス","Holy Breath"
+"158","",""
+"159","",""
+"160","",""
+"161","",""
+"162","",""
+"163","",""
+"164","",""
+"165","",""
+"166","",""
+"167","",""
+"168","",""
+"169","",""
+"170","ストーンスモッグ","Stone Smog"
+"171","スキャタースモッグ","Scatter Smog"
+"172","",""
+"173","",""
+"174","フレアボール","Flare Ball"
+"175","",""
+"176","",""
+"177","アースダイブ","Earth Dive"
+"178","",""
+"179","",""
+"180","",""
+"181","",""
+"182","ポイズンピック","Poison Prick"
+"183","",""
+"184","",""
+"185","スタンプレス","Stampless"
+"186","",""
+"187","",""
+"188","",""
+"189","",""
+"190","リミットアブソーブ","Limit Absorber"
+"191","",""
+"192","",""
+"193","",""
+"194","",""
+"195","",""
+"196","",""
+"197","",""
+"198","デストロイボム","Destruction Bomb"
+"199","",""
+"200","フレアグレネード","Flare Grenade"
+"201","",""
+"202","",""
+"203","",""
+"204","",""
+"205","プロトンボム","Proton Bomb"
+"206","バリオンレーザー","Baryon Laser"
+"207","バリオンレーザー","Baryon Laser"
+"208","",""
+"209","",""
+"210","",""
+"211","",""
+"212","スティングレーザー","Sting Laser"
+"213","",""
+"214","",""
+"215","テラーシャウト","Terro Shout"
+"216","",""
+"217","",""
+"218","",""
+"219","轟崩襲撃","Smiting Fall"
+"220","魔神剣・王牙","Sovereign Demon Fang"
+"221","",""
+"222","魔王絶葬陣","Demon King Rupture"
+"223","",""
+"224","",""
+"225","",""
+"226","オクトストローク","Octostroke"
+"227","アブラプトエンド","Abrupt End"
+"228","アブラプトエンド","Abrupt End"
+"229","",""
+"230","冥光襲烈閃","Chiaroscuro Wave"
+"231","冥光襲烈陣","Chiaroscuro Union"
+"232","",""
+"233","瞬迅月華衝","Blinking Lunar Tempest"
+"234","紅蓮襲爪刃","Hell Pyre Fang"
+"235","紅蓮瞬迅衝","Blinking Hell Pyre"
+"236","魔王界滅刃","Demon Worldslayer"
+"237","",""
+"238","",""
+"239","シャドーネイル","Shadow Nails"
+"240","スキャッター","Scatter"
+"241","",""
+"242","",""
+"243","",""
+"244","ベノムガッシュ","Venom Gouge"
+"245","",""
+"246","",""
+"247","",""
+"248","",""
+"249","",""
+"250","アースウェイブ","Earth Wave"
+"251","",""
+"252","アースウォール","Earth Wall"
+"253","",""
+"254","",""
+"255","",""
+"256","",""
+"257","",""
+"258","",""
+"259","スクリューハンマー","Screw Hammer"
+"260","フレアボム","Flare Bomb"
+"261","マーシレスハント","Merciless Hunt"
+"262","瞬迅槍","Sonic Spear"
+"263","光波刃","Platinum Edge"
+"264","牙突衝","Fang Rush"
+"265","空襲刃","Diving Dragon"
+"266","聖煌輪","Twinkling Halo"
+"267","牙突飛燕衝","Force Fang"
+"268","光波連刃","Platinum Hail"
+"269","空襲閃光翔","Dragon Force"
+"270","守護方陣","Guardian Field"
+"271","崩龍斬光刃","Dragon Shine"
+"272","天翔光波刃","Heavenly Platinum Edge"
+"273","魔神剣","Demon Fang"
+"274","瞬迅衝","Sonic Shock"
+"275","崩襲剣","Demolishing Thrust"
+"276","真空破斬","Void Tempest"
+"277","爆炎剣","Hell Sword"
+"278","裂空斬","Tempest Strike"
+"279","轟衝破斬","Fissure Sweep"
+"280","鳳凰天駆","Rising Phoenix"
+"281","紅蓮剣","Hell Pyre"
+"282","魔王炎撃破","Infernal Torrent"
+"283","烈火爆炎走","Pyro Blitz"
+"284","熱波旋風陣","Searing Gale"
+"285","鳳凰天翔駆","Razing Phoenix"
+"286","魔王爆炎槍","Infernal Spear"

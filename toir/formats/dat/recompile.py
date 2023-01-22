@@ -9,12 +9,12 @@ from .shops import recompile_shop_names
 from .operation import recompile_operations
 
 _RECOMPILERS = [
-    #recompile_items, #done
-    #recompile_artes, #done
-    #recompile_pack_field, #done
-    #recompile_chara_styles #done
-    #recompile_enemies #done
-    recompile_operations
+    recompile_items, #done
+    recompile_artes, #done
+    recompile_pack_field, #done
+    recompile_chara_styles, #done
+    recompile_enemies, #done
+    #recompile_operations, #wip
     #recompile_shop_names #wip
     #recompile_bond #wip
     #recompile_mission  #wip 

@@ -39,8 +39,8 @@ def extract_operation(l7cdir, outputdir):
         write_csv_data(f, 'iifs', ['category', 'index', 'field', 'japanese'], operation)
 
 #new script taken from arte for reinsertion
-def read_artes_csv(csvdir):
-    artes = {}
+def read_operations_csv(csvdir):
+    operations = {}
     with open(csvdir / 'Operation.csv', 'r', encoding='utf-8', newline='') as f:
         reader = csv.DictReader(f, ['category', 'index', 'field', 'japanese', 'english'])
         for row in reader:
@@ -53,44 +53,44 @@ def read_artes_csv(csvdir):
             translation = row['english']
             if not (0 <= category < 4): #updated to 3 instead of 8 
                 raise ValueError('unknown category in Operation.csv')
-            if category not in artes:
-                artes[category] = {}
-            if index not in artes[category]:
-                artes[category][index] = {}
+            if category not in operations:
+                operations[category] = {}
+            if index not in operations[category]:
+                operations[category][index] = {}
             if field == 'name':
-                artes[category][index]['name'] = translation
+                operations[category][index]['name'] = translation
             elif field == 'description':
-                artes[category][index]['description'] = translation
+                operations[category][index]['description'] = translation
             else:
                 raise ValueError('unknown field in Operation.csv')
-    return artes
+    return operations
 
-def write_artes(category, section, artes):
+def write_operations(category, section, operations):
     count, = struct.unpack_from('<L', section, 0)
-    if count != len(artes):
-        raise ValueError('Operation.csv: number of Artes does not match original')
+    if count != len(operations):
+        raise ValueError('Operation.csv: number of Operations does not match original')
     for i in range(count):
         start = 4 + i * 0xE0
-        encode_section_text(section, artes[i]['name'], start + 0x24, max_length=0x28,
+        encode_section_text(section, operations[i]['name'], start + 0x24, max_length=0x28,
                             id=f'Operation.csv:{category},{i},name')
-        encode_section_text(section, artes[i]['description'], start + 0x4D, max_length=0x90,
+        encode_section_text(section, operations[i]['description'], start + 0x4D, max_length=0x90,
                             id=f'Operation.csv:{category},{i},description')
 
-def insert_artes(binary, artes):
+def insert_operations(binary, operations):
     newbinary = read_dat_header(binary)
     sections = [bytearray(section) for section in read_sections(binary)]
     for i in range(0, len(sections)):
-        if i in artes:
-            write_artes(i, sections[i], artes[i])
+        if i in operations:
+            write_operations(i, sections[i], operations[i])
             newbinary = append_section(newbinary, sections[i])
     assert(len(binary) == len(newbinary))
     return newbinary
 
 def recompile_operations(l7cdir, csvdir, outputdir):
-    items = read_artes_csv(csvdir)
+    items = read_operations_csv(csvdir)
     with open(l7cdir / '_Data/System/OperationDataPack.dat', 'rb') as f:
         binary = f.read()
-    binary = insert_artes(binary, items)
+    binary = insert_operations(binary, items)
     outputdir = outputdir / '_Data/System'
     outputdir.mkdir(parents=True, exist_ok=True)
     with open(outputdir / 'OperationDataPack.dat', 'wb') as f:

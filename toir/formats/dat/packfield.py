@@ -145,7 +145,7 @@ def recompile_pack_field(l7cdir, csvdir, outputdir):
     dat.sections[37] = section
     
 #save the dat in new location and align 16 for some reason 
-    outputfile = outputdir / '_Data/Field/test/PackFieldData.dat'
+    outputfile = outputdir / '_Data/Field/PackFieldData.dat'
     outputfile.parent.mkdir(parents=True, exist_ok=True)
     with open(outputfile, 'wb') as f:
         dat.save(f)

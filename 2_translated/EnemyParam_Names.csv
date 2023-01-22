@@ -1,316 +1,316 @@
-#,Japanese,English,Comments
-0,オタオタ,Polwigle,
-1,バサバサ,Rustlet,Hearts R
-2,教団兵,Church Soldier,
-3,ラビラビ,Honey Bunny,Hearts R
-4,ウルフ,Wolf,
-5,セブンスター,Giant Beetle,
-6,ラティオ・エクス,Ratio EX,
-7,ゲコゲコ,Ribbit,
-8,ビー,Bee,
-9,ウッズワーム,Woods Worm,
-10,ガラムソルジャー,Garam Soldier,
-11,ガラムハンター,Garam Hunter,
-12,ラティオ・デュナス,Ratio Dunes,
-13,ラティオ・テテス,Ratio Tetes,
-14,ラティオ・スロネ,Ratio Slone,
-15,エッグベア,Egg Bear,
-16,ファンガス,Fangus,Hearts R
-17,トルチュ,Tortue,Hearts R
-18,アレニェ,Araignée,Hearts R
-19,バーズ,Vase Maléfique,Hearts R
-20,プリュム,Saur,
-21,ネガスィオンデローズ,Negución de Rose,
-22,ガードハウンド,Guard Dog,Hearts R
-23,ホークアイ,Hawkeye,Hearts R
-24,レグヌムガード,Regnum Guard,
-25,レグヌムハンター,Regnum Hunter,
-26,レグヌムアサルト,Regnum Breacher,
-27,フェイク,Fake,
-28,ギガンテス,Gigantes,
-29,ガードル,Gardle,
-30,ハスタ,Hasta,
-31,ウパルパ,Roxolotl,Hearts R
-32,シロゲコ,White Ribbit,Hearts R
-33,ビッグバット,Big Bat,Hearts R
-34,マーマン,Gillman,Hearts R
-35,ゴーレム,Golem,
-36,シアン,Sian,
-37,ケル,Cer,
-38,ベロ,Bero,
-39,アックスビーク,Axe Beak,
-40,ガルムウルフ,Garm Wolf,Hearts R
-41,ガーゴイル,Gargoyle,
-42,ソルジャー,Soldier,
-43,ウィザード,Wizard,
-44,用心棒,Mercenary,
-45,アシハラウサギ,Ashihara Rabbit,
-46,ボア,Boar,
-47,エメラルドビートル,Emerald Beetle,
-48,グレイブトータス,Grisly Tortoise,
-49,タランチュラ,Tarantula,
-50,メルティングポット,Melting Pot,
-51,マミー,Mummy,
-52,スケルトン,Skeleton,
-53,スピリット,Spirit,
-54,チトセ,Chitose,
-55,キングクラブ,King Crab,
-56,キラービー,Killer Bee,
-57,サンドワーム,Sand Worm,
-58,ツチゲコ,Land Ribbit,Hearts R
-59,アースバット,Earth Bat,
-60,ブラウンベア,Brown Bear,Hearts R
-61,アンバーベール,Red Cap,Hearts R
-62,ライアー,Liar,
-63,ドレイク,Drake,
-64,サラマンダー,Salamander,
-65,ラーヴァゴーレム,Lava Golem,Hearts R
-66,ファイア・ソウル,Fire Animos,Based on Hearts R (similar to Air Animos)
-67,ハスタ,Hasta,
-68,ショヴスリ,Chauve-Souris,
-69,モンストル,Horreur,monster ?
-70,アーム,Animos,
-71,マッキア,Macchia,Based on Hearts R
-72,マッキア・グラーヴェ,Macchia Grave,Based on Hearts R
-73,アダマンバット,Adamantine Bat,Hearts R
-74,アージェントガンナー,Berserker Drone,Hearts R
-75,教団突撃兵,Church Shock Trooper,
-76,教団術師,Church Wizard,
-77,チトセ,Chitose,
-78,教団近衛兵,Church Bodyguard,
-79,ウオウオ,Splisher,Hearts R
-80,ハーミットクラブ,Hermit Crab,Hearts R
-81,カーカー,Cawker,Hearts R
-82,ゼリーフィッシュ,Jellyfish,Hearts R
-83,ディープダイバー,Deep Diver,
-84,オイルスライダー,Oil Skater,Hearts R
-85,アクアレックス,Hydrosaur,Hearts R
-86,ポルターガイスト,Poltergeist,Hearts R
-87,フラワーパターン,Bloomshell Beetle,Hearts R
-88,ヴェノムインセクト,Green Widow,Hearts R
-89,オレンジグローブ,Boxwood,Hearts R
-90,トビネズミ,Skipping Rat,"Hearts R, Flying Rat is more accurate"
-91,トサゲコ,Rabid Ribbit,"Hearts R, Flying Squirrel may be more accurate"
-92,ロックトータス,Rock Tortoise,
-93,コカトリス,Cockatrice,Hearts R
-94,アースドラコ,Earth Drake,Hearts R
-95,ナーガ,Naga,
-96,ガルポオオトカゲ,Galpos Varan,
-97,スウィンドラー,Swindler,Hearts R
-98,シアン,Sian,
-99,ケル,Cer,
-100,ベロ,Bero,
-101,ロバークラブ,Robber Crab,Hearts R
-102,ドードー,Dodo,Hearts R
-103,デスホーネット,Death Hornet,Hearts R
-104,ガードル,Gardle,
-105,ギガンテスＺ,Gigantes Z,
-106,ヘビヘビ,Fattlesnake,Hearts R
-107,デスレイヴン,Death Raven,Hearts R
-108,ライノッサス,Rhinoceros,
-109,ネペンテス,Nepenthes,Hearts R
-110,ヘルハウンド,Hell Hound,Hearts R
-111,マゴット,Maggot,Hearts R
-112,ゾンビ,Zombie,Hearts R
-113,ボーンヘッド,Bonehead,Hearts R
-114,マッドアンデッド,Mad Undead,
-115,ゾンビリターナー,Zombie Returner,
-116,レグヌムソルジャー,Regnum Soldier,
-117,レグヌムシューター,Regnum Shooter,
-118,テノスソルジャー,Tenos Soldier,
-119,テノスシューター,Tenos Shooter,
-120,ギガンテスＲ,Gigantes R,
-121,ギガンテスＲ２,Gigantes R Mk.II,
-122,ハスタ,Hasta,
-123,スノーラビット,Snow Hare,Hearts R
-124,ホワイトジャッカル,White Jackal,Hearts R
-125,グリズリー,Grisley,Hearts R
-126,アイス・ソウル,Ice Animus,Hearts R
-127,フロストジャイアント,Frost Giant,
-128,アイスデーモン,Icigoyle,Hearts R
-129,スケルトンウォリアー,Skeleton Warrior,
-130,テノススティンガー,Tenos Stinger,Bug scorpion robot boss so it’s good
-131,ゲートキーパー,Gatekeeper,
-132,テノスナイト,Tenos Knight,
-133,テノススナイパー,Tenos Sniper,
-134,テノスアサルト,Tenos Breacher,
-135,アルベール,Albert,
-136,クリムゾンレイダー,Crimson Raider,
-137,教団上級突撃兵,Church Senior Shock Trooper,
-138,教団上級術師,Church Senior Wizard,
-139,アムルゼス,Amor Zero,Big white bird so Zero at the end for like sub zero
-140,バジリスク,Basilisk,
-141,ドラゴンテール,Dragontail,
-142,ライト・ソウル,Light Animos,
-143,エデンズキーパー,Eden’s Keeper,
-144,エンシェントソウル,Ancient Soul,
-145,ラティオ・セラフ,Ratio Seraph,
-146,アブルホール,Abul Hol,
-147,ヴァルチャー,Vulture,"Hearts R, Literally just Vulture"
-148,ハチェットビーグ,Hatchet Beak,I believe whoever wrote the japanese used the wrong last character; translates literally to Hatchet Beag
-149,アラクネー,Arachnid,Hearts R
-150,グラップラワー,Boxer Iris,Hearts R
-151,テタールデオッド,Têtard D’eau,
-152,マッキア・クインディ,Macchia Quindi,Hearts R
-153,マッキア・クワットロ,Macchia Quatro,Hearts R
-154,マッキア・クワランタ,Macchia Quaranta,Hearts R
-155,マッキア・セーイ,Macchia Seyi,Hearts R
-156,ベヒーモス,Behemoth,Hearts R
-157,アーマードボア,Armored Boar,Hearts R
-158,キラータイガー,Bearlion,Hearts R
-159,アルパインビートル,Alpine Beetle,Hearts R
-160,ハイランダー,Highlander,Hearts R
-161,リビングデッド,Living Dead,
-162,カワンチャ,Kwancha,Hearts R
-163,セレスティアルナイト,Celestial Knight,
-164,グローリーポット,Glory Pot,
-165,レジェンドワイバーン,Legendary Wyvern,
-166,ゴールドゴーレム,Gold Golem,
-167,キラーゴイル,Grimgoyle,Hearts R
-168,教団特殊兵,Church Elite Troop,
-169,教団特殊術師,Church Elite Wizard,
-170,レグヌムナイト,Regnum Knight,
-171,レグヌムスナイパー,Regnum Sniper,
-172,シェセプアンク,Shesep’ankh,
-173,カラドリウス,Caldarius,
-174,ハスタ,Hasta,
-175,ギガンテスΩ,Gigantes Ω,
-176,マティウス,Mattheus,
-177,マティウス・ウェヌス,Mattheus Venus,
-178,絶望を背負いし覇王,The Great King of Despair,
-179,ベック,Bec,"Hearts R, just Bec literally"
-180,アベイユ,Abeille,
-181,シュニール,Chenille,Hearts R
-182,フルール,Fleur Formidable,Hearts R
-183,マッキア・マーゴ,Macchia Margo,
-184,オグルデプール,Ogre,
-185,ミメシス,Mimétisme,Hearts R
-186,プーペ,Poupée,Hearts R
-187,マッキア・ウーノ,Macchia Uno,Hearts R
-188,エスクリル,Escrimeur,
-189,ソルシエ,Sorcier,
-190,モルソデイモータリテ,Abérration,
-191,オワゾー,Oiseau,Hearts R
-192,エール,Coq,Hearts R
-193,サングリエ,Sanglier,Hearts R
-194,ディノソル,Dinosaure,Hearts R
-195,マッキア・チンクエ,Macchia Cinquo,Hearts R
-196,オワゾーデレジャンド,Oiseau Légendaire,
-197,テタール,Têtard,Hearts R
-198,グルヌイユ,Grenouille,Hearts R
-199,ミヌレ,Helmet Crab,Hearts R
-200,シレーヌ,Sirène,Hearts R
-201,マッキア・グランデ,Macchia Grande,Hearts R
-202,マッキア・デロワ,Macchia Deloitte,
-203,ガルグイユ,Gargouille,Hearts R
-204,カダヴル,Cadavre,Hearts R
-205,スクレット,Squelette,Hearts R
-206,コシュマール,Cauchemar,Hearts R
-207,マッキア・ディエーチ,Macchia Diechi,Hearts R
-208,マッキア・ヴェンティ,Macchia Venti,Hearts R
-209,ネガスィオンデリス,ネガスィオンデリス,
-210,コルヌ,Tortue Corné,Hearts R
-211,ラパン,Lapin,Hearts R
-212,ルー,Loup,Hearts R
-213,コチネレ,Coccinelle,Hearts R
-214,ベートデアンシャン,Ancienne Bête,
-215,オンブル,Ombre,Hearts R
-216,マッキア・ドゥーエ,Macchia Due,Hearts R
-217,ソルダ,Soldat,
-218,ティラール,Tireur,
-219,ゲリエ,Guerrier,
-220,メサジェデシエル,Messager du Ciel,
-221,アンセクト,Insecte,
-222,トレゾール,Faux Trésor,Hearts R
-223,マッキア・トレ,Macchia Tre,Hearts R
-224,マッキア・トレンタ,Macchia Trente,
-225,シュバリエ,Chevalier,
-226,ロテュスデリュイーヌ,Lotus De Ruine,
-227,狙撃手,Marksman,
-228,ネガスィオンデローズ,Negución de Rose,
-229,トルチュ,Tortue,Hearts R
-230,アンジュ,Ange,
-231,アンジュ,Ange,
-232,アンジュ,Ange,
-233,ルカ,Ruca,
-234,ルカ,Ruca,
-235,ルカ,Ruca,
-236,オタオタＲ,Polwigle R,
-237,バサバサＲ,Rustlet R,
-238,ラビラビＲ,Honey Bunny R,
-239,ソルジャーＲ,Soldier R,
-240,ウィザードＲ,Wizard R,
-241,ウルフＲ,Wolf R,
-242,ガードハウンドＲ,Guard Dog R,
-243,ガルムウルフＲ,Garm Wolf R,
-244,ビッグバットＲ,Big Bat R,
-245,ゴーレムＲ,Golem R,
-246,ウパルパＲ,Roxolotl R,
-247,シロゲコＲ,White Ribbit R,
-248,ゲコゲコＲ,Ribbit R,
-249,ビーＲ,Giant Bee R,
-250,ウッズワームＲ,Wood Worms R,
-251,ホークアイＲ,Hawkeye R,
-252,アックスビークＲ,Axe Beak R,
-253,エッグベアＲ,Egg Bear R,
-254,ファンガスＲ,Fangus R,
-255,スケルトンＲ,Skeleton R,
-256,マミーＲ,Mummy R,
-257,メルティングポットＲ,Melting Pot R,
-258,オレンジグローブＲ,Boxwood R,
-259,エメラルドビートルＲ,Emerald Beetle R,
-260,フラワーパターンＲ,Bloomshell Beetle R,
-261,ラーヴァゴーレムＲ,Lava Golem R,
-262,ファイア・ソウルＲ,Fire Animos R,
-263,サラマンダーＲ,Salamander R,
-264,ガルポオオトカゲＲ,Galpos Varan R,
-265,キングクラブＲ,King Crab R,
-266,タランチュラＲ,Tarantula R,
-267,キラービーＲ,Killer Bee R,
-268,ボアＲ,Boar R,
-269,コカトリスＲ,Cockatrice R,
-270,トサゲコＲ,Rabid Ribbit R,
-271,ドレイクＲ,Drake R,
-272,アースドラコＲ,Earth Drake R,
-273,グレイブトータスＲ,Grisly Tortoise R,
-274,ロックトータスＲ,Rock Tortoise R,
-275,アシハラウサギＲ,Ashihara Rabbit R,
-276,トビネズミＲ,Skipping Rat R,
-277,ドードーＲ,Dodo R,
-278,ハチェットビーグＲ,Hatchet Beak R,
-279,バジリスクＲ,Basilisk R,
-280,ライノッサスＲ,Rhinoceros R,
-281,アーマードボアＲ,Armored Boar R,
-282,アラクネーＲ,Arachnid R,
-283,アイス・ソウルＲ,Ice Animos R,
-284,ライト・ソウルＲ,Light Animos R,
-285,キラータイガーＲ,Bearlion R,
-286,ディープダイバーＲ,Deep Diver R,
-287,チャンピオン,Champion,
-288,グラップラワーＲ,Boxer Iris R,
-289,ガーゴイルＲ,Gargoyle R,
-290,ボーンヘッドＲ,Bonehead R,
-291,ポルターガイストＲ,Poltergeist R,
-292,エンシェントソウルＲ,Ancient Soul R,
-293,ゾンビＲ,Zombie R,
-294,リビングデッドＲ,Living Dead R,
-295,ネペンテスＲ,Nepenthes R,
-296,グローリーポットＲ,Glory Pot R,
-297,フロストジャイアントＲ,Frost Giant R,
-298,ドラゴンテールＲ,Dragontail R,
-299,アクアレックスＲ,Hydrosaur R,
-300,ハイランダーＲ,Highlander R,
-301,コープスレギオン,Corpse Legion,
-302,ミラ,Milla,
-303,ヒスイ,Hisui,
-304,コハク,Kohaku,
-305,アルベール,Albert,
-306,テノスアサルトＲ,Tenos Breacher R,
-307,テノスシューターＲ,Tenos Shooter R,
-308,テノスソルジャーＲ,Tenos Soldier R,
-309,シアン,Sian,
-310,ケル,Cer,
-311,ベロ,Bero,
-312,チトセ,Chitose,
-313,ハスタ,Hasta,
-314,ガードル,Gardle,
+"#","Japanese","English"
+"0","オタオタ","Polwigle"
+"1","バサバサ","Rustlet"
+"2","教団兵","Church Soldier"
+"3","ラビラビ","Honey Bunny"
+"4","ウルフ","Wolf"
+"5","セブンスター","Giant Beetle"
+"6","ラティオ・エクス","Ratio EX"
+"7","ゲコゲコ","Ribbit"
+"8","ビー","Bee"
+"9","ウッズワーム","Woods Worm"
+"10","ガラムソルジャー","Garam Soldier"
+"11","ガラムハンター","Garam Hunter"
+"12","ラティオ・デュナス","Ratio Dunes"
+"13","ラティオ・テテス","Ratio Tetes"
+"14","ラティオ・スロネ","Ratio Slone"
+"15","エッグベア","Egg Bear"
+"16","ファンガス","Fangus"
+"17","トルチュ","Tortue"
+"18","アレニェ","Araignée"
+"19","バーズ","Vase Maléfique"
+"20","プリュム","Saur"
+"21","ネガスィオンデローズ","Negución de Rose"
+"22","ガードハウンド","Guard Dog"
+"23","ホークアイ","Hawkeye"
+"24","レグヌムガード","Regnum Guard"
+"25","レグヌムハンター","Regnum Hunter"
+"26","レグヌムアサルト","Regnum Breacher"
+"27","フェイク","Fake"
+"28","ギガンテス","Gigantes"
+"29","ガードル","Gardle"
+"30","ハスタ","Hasta"
+"31","ウパルパ","Roxolotl"
+"32","シロゲコ","White Ribbit"
+"33","ビッグバット","Big Bat"
+"34","マーマン","Gillman"
+"35","ゴーレム","Golem"
+"36","シアン","Sian"
+"37","ケル","Cer"
+"38","ベロ","Bero"
+"39","アックスビーク","Axe Beak"
+"40","ガルムウルフ","Garm Wolf"
+"41","ガーゴイル","Gargoyle"
+"42","ソルジャー","Soldier"
+"43","ウィザード","Wizard"
+"44","用心棒","Mercenary"
+"45","アシハラウサギ","Ashihara Rabbit"
+"46","ボア","Boar"
+"47","エメラルドビートル","Emerald Beetle"
+"48","グレイブトータス","Grisly Tortoise"
+"49","タランチュラ","Tarantula"
+"50","メルティングポット","Melting Pot"
+"51","マミー","Mummy"
+"52","スケルトン","Skeleton"
+"53","スピリット","Spirit"
+"54","チトセ","Chitose"
+"55","キングクラブ","King Crab"
+"56","キラービー","Killer Bee"
+"57","サンドワーム","Sand Worm"
+"58","ツチゲコ","Land Ribbit"
+"59","アースバット","Earth Bat"
+"60","ブラウンベア","Brown Bear"
+"61","アンバーベール","Red Cap"
+"62","ライアー","Liar"
+"63","ドレイク","Drake"
+"64","サラマンダー","Salamander"
+"65","ラーヴァゴーレム","Lava Golem"
+"66","ファイア・ソウル","Fire Animos"
+"67","ハスタ","Hasta"
+"68","ショヴスリ","Chauve-Souris"
+"69","モンストル","Horreur"
+"70","アーム","Animos"
+"71","マッキア","Macchia"
+"72","マッキア・グラーヴェ","Macchia Grave"
+"73","アダマンバット","Adamantine Bat"
+"74","アージェントガンナー","Berserker Drone"
+"75","教団突撃兵","Church Shock Trooper"
+"76","教団術師","Church Wizard"
+"77","チトセ","Chitose"
+"78","教団近衛兵","Church Bodyguard"
+"79","ウオウオ","Splisher"
+"80","ハーミットクラブ","Hermit Crab"
+"81","カーカー","Cawker"
+"82","ゼリーフィッシュ","Jellyfish"
+"83","ディープダイバー","Deep Diver"
+"84","オイルスライダー","Oil Skater"
+"85","アクアレックス","Hydrosaur"
+"86","ポルターガイスト","Poltergeist"
+"87","フラワーパターン","Bloomshell Beetle"
+"88","ヴェノムインセクト","Green Widow"
+"89","オレンジグローブ","Boxwood"
+"90","トビネズミ","Skipping Rat"
+"91","トサゲコ","Rabid Ribbit"
+"92","ロックトータス","Rock Tortoise"
+"93","コカトリス","Cockatrice"
+"94","アースドラコ","Earth Drake"
+"95","ナーガ","Naga"
+"96","ガルポオオトカゲ","Galpos Varan"
+"97","スウィンドラー","Swindler"
+"98","シアン","Sian"
+"99","ケル","Cer"
+"100","ベロ","Bero"
+"101","ロバークラブ","Robber Crab"
+"102","ドードー","Dodo"
+"103","デスホーネット","Death Hornet"
+"104","ガードル","Gardle"
+"105","ギガンテスＺ","Gigantes Z"
+"106","ヘビヘビ","Fattlesnake"
+"107","デスレイヴン","Death Raven"
+"108","ライノッサス","Rhinoceros"
+"109","ネペンテス","Nepenthes"
+"110","ヘルハウンド","Hell Hound"
+"111","マゴット","Maggot"
+"112","ゾンビ","Zombie"
+"113","ボーンヘッド","Bonehead"
+"114","マッドアンデッド","Mad Undead"
+"115","ゾンビリターナー","Zombie Returner"
+"116","レグヌムソルジャー","Regnum Soldier"
+"117","レグヌムシューター","Regnum Shooter"
+"118","テノスソルジャー","Tenos Soldier"
+"119","テノスシューター","Tenos Shooter"
+"120","ギガンテスＲ","Gigantes R"
+"121","ギガンテスＲ２","Gigantes R Mk.II"
+"122","ハスタ","Hasta"
+"123","スノーラビット","Snow Hare"
+"124","ホワイトジャッカル","White Jackal"
+"125","グリズリー","Grisley"
+"126","アイス・ソウル","Ice Animus"
+"127","フロストジャイアント","Frost Giant"
+"128","アイスデーモン","Icigoyle"
+"129","スケルトンウォリアー","Skeleton Warrior"
+"130","テノススティンガー","Tenos Stinger"
+"131","ゲートキーパー","Gatekeeper"
+"132","テノスナイト","Tenos Knight"
+"133","テノススナイパー","Tenos Sniper"
+"134","テノスアサルト","Tenos Breacher"
+"135","アルベール","Albert"
+"136","クリムゾンレイダー","Crimson Raider"
+"137","教団上級突撃兵","Church Senior Shock Trooper"
+"138","教団上級術師","Church Senior Wizard"
+"139","アムルゼス","Amor Zero"
+"140","バジリスク","Basilisk"
+"141","ドラゴンテール","Dragontail"
+"142","ライト・ソウル","Light Animos"
+"143","エデンズキーパー","Eden’s Keeper"
+"144","エンシェントソウル","Ancient Soul"
+"145","ラティオ・セラフ","Ratio Seraph"
+"146","アブルホール","Abul Hol"
+"147","ヴァルチャー","Vulture"
+"148","ハチェットビーグ","Hatchet Beak"
+"149","アラクネー","Arachnid"
+"150","グラップラワー","Boxer Iris"
+"151","テタールデオッド","Tetard D’eau"
+"152","マッキア・クインディ","Macchia Quindi"
+"153","マッキア・クワットロ","Macchia Quatro"
+"154","マッキア・クワランタ","Macchia Quaranta"
+"155","マッキア・セーイ","Macchia Seyi"
+"156","ベヒーモス","Behemoth"
+"157","アーマードボア","Armored Boar"
+"158","キラータイガー","Bearlion"
+"159","アルパインビートル","Alpine Beetle"
+"160","ハイランダー","Highlander"
+"161","リビングデッド","Living Dead"
+"162","カワンチャ","Kwancha"
+"163","セレスティアルナイト","Celestial Knight"
+"164","グローリーポット","Glory Pot"
+"165","レジェンドワイバーン","Legendary Wyvern"
+"166","ゴールドゴーレム","Gold Golem"
+"167","キラーゴイル","Grimgoyle"
+"168","教団特殊兵","Church Elite Troop"
+"169","教団特殊術師","Church Elite Wizard"
+"170","レグヌムナイト","Regnum Knight"
+"171","レグヌムスナイパー","Regnum Sniper"
+"172","シェセプアンク","Shesep’ankh"
+"173","カラドリウス","Caldarius"
+"174","ハスタ","Hasta"
+"175","ギガンテスΩ","Gigantes Ω"
+"176","マティウス","Mattheus"
+"177","マティウス・ウェヌス","Mattheus Venus"
+"178","絶望を背負いし覇王","The Great King of Despair"
+"179","ベック","Bec"
+"180","アベイユ","Abeille"
+"181","シュニール","Chenille"
+"182","フルール","Fleur Formidable"
+"183","マッキア・マーゴ","Macchia Margo"
+"184","オグルデプール","Ogre"
+"185","ミメシス","Mimétisme"
+"186","プーペ","Poupée"
+"187","マッキア・ウーノ","Macchia Uno"
+"188","エスクリル","Escrimeur"
+"189","ソルシエ","Sorcier"
+"190","モルソデイモータリテ","Abérration"
+"191","オワゾー","Oiseau"
+"192","エール","Coq"
+"193","サングリエ","Sanglier"
+"194","ディノソル","Dinosaure"
+"195","マッキア・チンクエ","Macchia Cinquo"
+"196","オワゾーデレジャンド","Oiseau Légendaire"
+"197","テタール","Têtard"
+"198","グルヌイユ","Grenouille"
+"199","ミヌレ","Helmet Crab"
+"200","シレーヌ","Sirène"
+"201","マッキア・グランデ","Macchia Grande"
+"202","マッキア・デロワ","Macchia Deloitte"
+"203","ガルグイユ","Gargouille"
+"204","カダヴル","Cadavre"
+"205","スクレット","Squelette"
+"206","コシュマール","Cauchemar"
+"207","マッキア・ディエーチ","Macchia Diechi"
+"208","マッキア・ヴェンティ","Macchia Venti"
+"209","ネガスィオンデリス","ネガスィオンデリス"
+"210","コルヌ","Tortue Corné"
+"211","ラパン","Lapin"
+"212","ルー","Loup"
+"213","コチネレ","Coccinelle"
+"214","ベートデアンシャン","Ancienne Bête"
+"215","オンブル","Ombre"
+"216","マッキア・ドゥーエ","Macchia Due"
+"217","ソルダ","Soldat"
+"218","ティラール","Tireur"
+"219","ゲリエ","Guerrier"
+"220","メサジェデシエル","Messager du Ciel"
+"221","アンセクト","Insecte"
+"222","トレゾール","Faux Trésor"
+"223","マッキア・トレ","Macchia Tre"
+"224","マッキア・トレンタ","Macchia Trente"
+"225","シュバリエ","Chevalier"
+"226","ロテュスデリュイーヌ","Lotus De Ruine"
+"227","狙撃手","Marksman"
+"228","ネガスィオンデローズ","Negución de Rose"
+"229","トルチュ","Tortue"
+"230","アンジュ","Ange"
+"231","アンジュ","Ange"
+"232","アンジュ","Ange"
+"233","ルカ","Ruca"
+"234","ルカ","Ruca"
+"235","ルカ","Ruca"
+"236","オタオタＲ","Polwigle R"
+"237","バサバサＲ","Rustlet R"
+"238","ラビラビＲ","Honey Bunny R"
+"239","ソルジャーＲ","Soldier R"
+"240","ウィザードＲ","Wizard R"
+"241","ウルフＲ","Wolf R"
+"242","ガードハウンドＲ","Guard Dog R"
+"243","ガルムウルフＲ","Garm Wolf R"
+"244","ビッグバットＲ","Big Bat R"
+"245","ゴーレムＲ","Golem R"
+"246","ウパルパＲ","Roxolotl R"
+"247","シロゲコＲ","White Ribbit R"
+"248","ゲコゲコＲ","Ribbit R"
+"249","ビーＲ","Giant Bee R"
+"250","ウッズワームＲ","Wood Worms R"
+"251","ホークアイＲ","Hawkeye R"
+"252","アックスビークＲ","Axe Beak R"
+"253","エッグベアＲ","Egg Bear R"
+"254","ファンガスＲ","Fangus R"
+"255","スケルトンＲ","Skeleton R"
+"256","マミーＲ","Mummy R"
+"257","メルティングポットＲ","Melting Pot R"
+"258","オレンジグローブＲ","Boxwood R"
+"259","エメラルドビートルＲ","Emerald Beetle R"
+"260","フラワーパターンＲ","Bloomshell Beetle R"
+"261","ラーヴァゴーレムＲ","Lava Golem R"
+"262","ファイア・ソウルＲ","Fire Animos R"
+"263","サラマンダーＲ","Salamander R"
+"264","ガルポオオトカゲＲ","Galpos Varan R"
+"265","キングクラブＲ","King Crab R"
+"266","タランチュラＲ","Tarantula R"
+"267","キラービーＲ","Killer Bee R"
+"268","ボアＲ","Boar R"
+"269","コカトリスＲ","Cockatrice R"
+"270","トサゲコＲ","Rabid Ribbit R"
+"271","ドレイクＲ","Drake R"
+"272","アースドラコＲ","Earth Drake R"
+"273","グレイブトータスＲ","Grisly Tortoise R"
+"274","ロックトータスＲ","Rock Tortoise R"
+"275","アシハラウサギＲ","Ashihara Rabbit R"
+"276","トビネズミＲ","Skipping Rat R"
+"277","ドードーＲ","Dodo R"
+"278","ハチェットビーグＲ","Hatchet Beak R"
+"279","バジリスクＲ","Basilisk R"
+"280","ライノッサスＲ","Rhinoceros R"
+"281","アーマードボアＲ","Armored Boar R"
+"282","アラクネーＲ","Arachnid R"
+"283","アイス・ソウルＲ","Ice Animos R"
+"284","ライト・ソウルＲ","Light Animos R"
+"285","キラータイガーＲ","Bearlion R"
+"286","ディープダイバーＲ","Deep Diver R"
+"287","チャンピオン","Champion"
+"288","グラップラワーＲ","Boxer Iris R"
+"289","ガーゴイルＲ","Gargoyle R"
+"290","ボーンヘッドＲ","Bonehead R"
+"291","ポルターガイストＲ","Poltergeist R"
+"292","エンシェントソウルＲ","Ancient Soul R"
+"293","ゾンビＲ","Zombie R"
+"294","リビングデッドＲ","Living Dead R"
+"295","ネペンテスＲ","Nepenthes R"
+"296","グローリーポットＲ","Glory Pot R"
+"297","フロストジャイアントＲ","Frost Giant R"
+"298","ドラゴンテールＲ","Dragontail R"
+"299","アクアレックスＲ","Hydrosaur R"
+"300","ハイランダーＲ","Highlander R"
+"301","コープスレギオン","Corpse Legion"
+"302","ミラ","Milla"
+"303","ヒスイ","Hisui"
+"304","コハク","Kohaku"
+"305","アルベール","Albert"
+"306","テノスアサルトＲ","Tenos Breacher R"
+"307","テノスシューターＲ","Tenos Shooter R"
+"308","テノスソルジャーＲ","Tenos Soldier R"
+"309","シアン","Sian"
+"310","ケル","Cer"
+"311","ベロ","Bero"
+"312","チトセ","Chitose"
+"313","ハスタ","Hasta"
+"314","ガードル","Gardle"

@@ -3,12 +3,6 @@
 .thumb
 .include "armv7-a_macros.asm"
 
-; Registers are numbered (r)0-12
-; then special names follow
-; SP -> 13
-; LR -> 14
-; PC -> 15
-
 .org 0x8102ABBE
 cmp        r3,#0x40
 bne        skip
@@ -28,10 +22,9 @@ space_case:
 cmp        r3,#0x20
 bne        go_back
 push       { r3 }
-mov.w      /*r*/3,0xE
-str.w      /*r*/3,/*[r*/6,0x0/*]*/
+mov.w      r3,0xE
+str.w      r3, /*[*/ r6,0x0 /*]*/
 pop        { r3 }
-;That was the code fucking up the letters the first few attempts at fixing the button on Innocence
 ;adds       /*r*/6,0x3c
 ;add.w      /*r*/7,/*lr*/14,0x2
 b.w        default
@@ -40,15 +33,25 @@ b.w        else_case
 
 tag_case:
 adds       r6,#0x3c
-add.w      /*r*/7,/*lr*/14,0x4
-add.w      /*r*/8,/*r*/2,0x2
+add.w      r7,lr,0x4
+add.w      r8,r2,0x2
 b.w        default
 
 
 ; Cooking Lv text overlaps the number
-; so let's move that to the left, 0x164 to 0x154
+; so let's move that to the left
 .org 0x8112F332
-movw       /*r*/2,0x154
+movw       r2,0x154
+
+
+; Remove the monospacing 0x01 is on, 0x00 is off
+.orga 0x7B5E
+.byte 0x00
+
+; Change the width of the whitespace to half from 0x80 to 0x40
+.orga 0x8630
+.byte 0x40
+
 
 ; Replace the 'a' special char with '|'
 .org 0x8115D138
@@ -60,13 +63,5 @@ movw       /*r*/2,0x154
 ; from the japanese one, so let's use 2
 .org 0x8115CF70
 .asciiz "  "
-
-; Remove the monospacing 0x01 is on, 0x00 is off
-.orga 0x7B5E
-.byte 0x00
-
-; Change the width of the whitespace to half from 0x80 to 0x40
-.orga 0x8630
-.byte 0x40
 
 .close

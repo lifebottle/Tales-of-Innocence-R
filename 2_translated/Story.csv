@@ -427,11 +427,12 @@ You have no idea about my power!"
 "Dn/01/01/701.dat","193","Ruca","…{variable}って あれッ！？
 力が出ない？ いつもの僕だ！","Huh...? I can’t use my power?!"
 "Dn/01/01/701.dat","203","Illia","そんな！ どうして！？
-天術が… 使えない！","No way! How? I can’t use my Cielan Artes!"
+天術が… 使えない！","We have the power to seal Cielan Artes, 
+now, hand yourself over!"
 "Dn/01/01/701.dat","215","Grigori Soldier A","天術を封じるなど
 我々にとっては 初歩の技
-さあ 転生者研究所に連行する！！","We have the power to seal Cielan Artes, 
-now, hand yourself over!"
+さあ 転生者研究所に連行する！！","We have the power to seal Cielan Artes, now, 
+hand yourself over!"
 "Dn/01/01/701.dat","220","Ruca","そ… そんなぁ…","No way..."
 "Dn/01/01/701.dat","245","Grigori Soldier B","おい この生き物はどうする？","Hey, what do we do about this thing?"
 "Dn/01/01/701.dat","253","Coda","し… しかし～！","Though...!"
@@ -1615,7 +1616,7 @@ you for a moment."
 different compared to last time?"
 "Dn/03/00/410.dat","140","Illia","レグヌムが負けたらしいし そのせいでしょ
 気にするだけムダよ","Welp, that’s probably coz Regnum lost.
-No use overanalyzing it."
+No use over analyzing it."
 "Dn/03/00/410.dat","143","Ange","ひとまず あのふたりが帰ってくるまで
 ここで待ちましょう","Well, why not wait for their 
 return in the meantime?"
@@ -3282,8 +3283,8 @@ I will succeed."
 Then you’ll have to go through us first!"
 "Dn/05/03/701.dat","219","Ricardo","フン 力ずくが望みか？
 あまり 俺の趣味ではないが たまには
-趣向を 変えるのもいいだろう","So you want to do this by force?
-It’s not really my hobby, but maybe a
+趣向を 変えるのもいいだろう","So you want to do this by force? This isn't 
+really in my best interests, but perhaps a
 change of plans isn’t bad once in a while."
 "Dn/05/03/701.dat","223","Ange","待って…
 では こうしましょう","Wait. Let us try this."
@@ -6612,7 +6613,7 @@ could show up next?"
 "Dn/15/03/401.dat","120","Illia","ってことはなに？
 しらみつぶしに 世界をまわらなきゃ
 なんないってこと？","So what are you saying? We don’t have 
-to go around the worldand check every 
+to go around the world and check every 
 place one by one, right?"
 "Dn/15/03/401.dat","123","Kongwei","ああ だから まずは各地の町で
 住人から 変わったことはないか
@@ -10107,10 +10108,10 @@ Thanks for always coming by!"
 き… 君は一体なんなの？","What’s this!? What are you?"
 "Twn/00/00/761.dat","69","???","ん？ コーダは コーダという
 それよりおまえ ヒドいヤツ
-どう落とし前つけるんだ しかし？","Coda is called Coda. That said you’re
-horrible. How are you going to repent?"
+どう落とし前つけるんだ しかし？","Coda is called Coda. That said, you’re
+horrible. How are you going to atone?"
 "Twn/00/00/761.dat","74","Ruca","落とし前って
-ちょっと ぶつかっただけじゃないか！","Repent? She just bumped into me, though?"
+ちょっと ぶつかっただけじゃないか！","Atone? She just bumped into me, though?"
 "Twn/00/00/761.dat","80","???","もう死にそう…","I’m dying..."
 "Twn/00/00/761.dat","84","Ruca","死ぬって そんなァ どうして…","Dying? No... why...?"
 "Twn/00/00/761.dat","90","???","お腹が すいて…","Hungry..."

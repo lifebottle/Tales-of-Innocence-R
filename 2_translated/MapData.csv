@@ -20,9 +20,9 @@ You are able to save outside of the overworld.",""
 You can also use {blue}Touch Commands{white}.",""
 "Dn/00/03.dat","5","62","","青色の記憶陣はセーブのみですが
 緑色の記憶陣は乗るとＨＰ・ＴＰを
-回復してくれるので有効に活用しましょう","Blue save points are only for saving but ones
-also restore your HP and TP so remember to 
-make the most of it.",""
+回復してくれるので有効に活用しましょう","Blue save points are only for saving, while green
+ones also restore your HP and TP. So remember
+to make use of them.",""
 "Dn/00/04.dat","0","53","Ruca","ふぅ～　一番奥までは　あと少しだな
 ん？　あれは…","The innermost tree should just 
 be right there... Hm? Who...?","The innermost tree must be nearby. 
@@ -2635,8 +2635,8 @@ tending to the flower beds.",""
 along with my husband’s antics.",""
 "Twn/00/00.dat","6","28","Old Woman","あんた　怪盗セスノインって知ってるかい？","Have you ever heard of the
 Great Thief: Cense Noinne?",""
-"Twn/00/00.dat","6","32/0","","知ってる","Sure I do",""
-"Twn/00/00.dat","6","32/1","","知らない","Never heard of them",""
+"Twn/00/00.dat","6","32/0","","知ってる","Sure I have!",""
+"Twn/00/00.dat","6","32/1","","知らない","Never heard of them.",""
 "Twn/00/00.dat","6","34","Old Woman","そうかそうか
 こんな若い子が知ってるとは…
 あの人の名前も　ようやく…","I see...

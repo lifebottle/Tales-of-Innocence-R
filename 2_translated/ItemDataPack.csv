@@ -145,8 +145,8 @@ and enemies during battle by 50%."
 statistics. Can’t be used on allies."
 "Weapon","0","name","Eddy’s Sword","Eddie’s Sword"
 "Weapon","0","description","一見、頑丈そうに見えるが、ただのハリボテ。
-しかし殴られると大人でも痛い","At first glance, it looks sturdy, but it’s just a toy.
-However, it hurts even adults when they are hit."
+しかし殴られると大人でも痛い","It looks sturdy, but it’s just a toy. Though,
+it'll still hurt if someone wacks you with it."
 "Weapon","1","name","ブロードソード","Broadsword"
 "Weapon","1","description","幅広の両手剣。突くことよりも、
 断ち切ることに重みが置かれている","A wide, two-handed sword. Rather than 
@@ -2938,7 +2938,7 @@ The souls that he has claimed are innumerable."
 "CodeName","133","description","かつて戦場で多くの異名をつけられた者。
 若き日の硝煙の臭いを思い出す","A person who was once known by many names on 
 the battlefield. I still remember the smell of smoke."
-"CodeName","134","name","将来はハンター？","Hunter of the future?"
+"CodeName","134","name","将来はハンター？","Hunter of the Future?"
 "CodeName","134","description","将来はのんびりと暮らしたい。
 自給自足、必要以上の狩猟はしない","""In the future I’d like to live leisurely. Not relying on
 anyone else and hunting only when necessary."""
