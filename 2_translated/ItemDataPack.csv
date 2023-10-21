@@ -1,4 +1,3 @@
-"","","","","Norm text"
 "Use","0","name","アップルグミ","Apple Gel"
 "Use","0","description","HPが最大値の30％分回復。
 ガルポス産の新鮮なリンゴを使用","Made from the freshly picked apples of Galpos,
@@ -146,7 +145,7 @@ statistics. Can’t be used on allies."
 "Weapon","0","name","Eddy’s Sword","Eddie’s Sword"
 "Weapon","0","description","一見、頑丈そうに見えるが、ただのハリボテ。
 しかし殴られると大人でも痛い","It looks sturdy, but it’s just a toy. Though,
-it'll still hurt if someone wacks you with it."
+it’ll still hurt if someone wacks you with it."
 "Weapon","1","name","ブロードソード","Broadsword"
 "Weapon","1","description","幅広の両手剣。突くことよりも、
 断ち切ることに重みが置かれている","A wide, two-handed sword. Rather than 
@@ -189,7 +188,7 @@ Part of it contains the soul of Garam’s craftsmen."
 Simplicity at its finest."
 "Weapon","11","name","シャープネスソード","Sharpness Sword"
 "Weapon","11","description","切れ味の鋭い剣。うっかり自分を
-切ってしまわないよう取り扱いに注意","Sword with a sharp edge. Handle with
+切ってしまわないよう取り扱いに注意","A sword with a sharp edge. Handle it with
 care so you don’t accidentally cut yourself."
 "Weapon","12","name","ハピネスソード","Happiness Sword"
 "Weapon","12","description","幸せの名を持つ剣。
@@ -318,7 +317,7 @@ A must-have for rapid-firing gunmen!"
 "Weapon","43","description","環境の悪さを苦にしないといわれる銃","A gun reliable even in bad weather conditions."
 "Weapon","44","name","オートマグ","Automatic Magnum"
 "Weapon","44","description","マグナム弾を使う自動式拳銃。
-扱いは難しいが威力は折り紙付き","An automatic pistol that fires Magnum rounds.
+扱いは難しいが威力は折り紙付き","An automatic pistol that fires magnum rounds.
 While difficult to handle, its power makes up for it."
 "Weapon","45","name","ハッピートリガー","Happy Trigger"
 "Weapon","45","description","幸福の名を持つ銃。
@@ -518,10 +517,10 @@ Its quality is artisanal."
 "Weapon","94","name","クロノス","Chronos"
 "Weapon","94","description","大地の神の名を冠した銃。
 巨人に踏まれたかのような衝撃を受けるという","A gun bearing the name of a god of the earth.
-Its bullets hit has hard as a giant’s step."
+Its bullets hit as hard as a giant’s stomp."
 "Weapon","95","name","サダルスウド","Sa‘d Al-Su‘ud"
 "Weapon","95","description","「最高の幸運」の名を持つ銃。
-持っていても幸福が訪れるかどうかは自分次第","A gun with the name ""luck of lucks.""
+持っていても幸福が訪れるかどうかは自分次第","A gun with the name ""Luck of Lucks.""
 You might have hapiness, but it’s up to you to claim it."
 "Weapon","96","name","スネークガンナー","Snake Gunner"
 "Weapon","96","description","刀身が蛇の牙のように鋭い銃剣。
@@ -529,7 +528,7 @@ You might have hapiness, but it’s up to you to claim it."
 It can hook in its foes just as well as it can cut them down."
 "Weapon","97","name","アルナスライン","Al Nasrain"
 "Weapon","97","description","「二羽の鷲」の名を持つ銃。
-銃剣が鷲に見立てて作られている","A gun with the name ""two eagles.""
+銃剣が鷲に見立てて作られている","A gun with the name ""Two Eagles.""
 This bayonet is created in an eagle’s image."
 "Weapon","98","name","ディルガン","Dilgan"
 "Weapon","98","description","かつて崇拝された星の名を冠した銃。
@@ -541,15 +540,15 @@ It is said to give hope to its bearers."
 wrapped in wind enhances the magic power of its owner."
 "Weapon","100","name","ポスポロス","Phosporos"
 "Weapon","100","description","「光をもたらす者」の名を持つ銃。
-闇に堕ちた者にも光をもたらすという","A gun with the name ""light bringer.""
+闇に堕ちた者にも光をもたらすという","A gun with the name ""Light Bringer.""
 It brings light to those who have fallen in darkness."
 "Weapon","101","name","コル・スコルピオ","Cor Scorpio"
 "Weapon","101","description","「蠍の心臓」の名を持つ銃。
-その弾丸は正確に対象の心臓を捉えるという","A gun with the name ""scorpion’s heart.""
+その弾丸は正確に対象の心臓を捉えるという","A gun with the name ""Scorpion’s Heart.""
 Its bullets can precisely capture the target’s heart."
 "Weapon","102","name","アルナイル","Alnair"
 "Weapon","102","description","「輝く者」の名を持つ銃。
-その銃身は光り輝き、持つ者に祝福を授ける","A gun with the name ""the bright one.""
+その銃身は光り輝き、持つ者に祝福を授ける","A gun with the name ""The Bright One.""
 Its barrel shines brightly and blesses its bearer."
 "Weapon","103","name","ストリボーグ","Stribog"
 "Weapon","103","description","風神の名を冠した銃。
@@ -650,7 +649,7 @@ It hides an ominous power of darkness."
 "Weapon","127","name","アゾット","Azoth"
 "Weapon","127","description","謎の多いナイフ。その謎が解き明かされるとき
 それは「終わり」か「始まり」か","A knife surrounded by many mysteries.
-Is solving its secrets the ""End"" or rather the ""Beginning?"""
+Is solving its secrets the ""End"" or rather the ""Beginning""?"
 "Weapon","128","name","ミスリルダガー","Mythril Dagger"
 "Weapon","128","description","「失われた金属」で作られた短剣。
 振れば大地をも切り裂くといわれている","A dagger made of metal thought to be lost to time.
@@ -1468,8 +1467,8 @@ It has more defensive properties than mythril."
 of whoever should wear it."
 "Helm","33","name","ミスリルサークレット","Mythril Circlet"
 "Helm","33","description","「失われた金属」を用いた古代のサークレット。
-その実力は折り紙つき","An ancient circlet made from the ""lost
-metal."" Guaranteed 100% powerful."
+その実力は折り紙つき","An ancient circlet made from the ""lost metal.""
+Guaranteed 100% powerful."
 "Helm","34","name","ねこのカチューシャ","Cat Hair Band"
 "Helm","34","description","猫のアップリケがついたかわいいカチューシャ。
 とってもラブリーにゃ～","A cute headband with a motif of a cat.
@@ -1788,7 +1787,7 @@ the mind, boosting HP and TP by 25%."
 "Acc","35","name","ラビットシンボル","Rabbit’s Foot"
 "Acc","35","description","冒険の無事を祈って身につけるお守り。
 幸運が1段階上昇","A good luck charm for travelers that
-makes the wearer 1 level more lucky."
+increases the wearer's luck by 1 level."
 "Acc","36","name","ターコイズ","Turquoise"
 "Acc","36","description","古くからお守りとして重宝されていた宝石。
 幸運が3段階上昇","A precious stone prized as a good luck
@@ -1985,7 +1984,7 @@ It’s not rotten, okay? It’s fermented!"
 "Event","0","description","小さな炎を撃ち出す不思議な指輪。
 冒険の必需品","A mysterious ring that shoots a small flame.
 An adventuring essential."
-"Event","1","name","ソーサラーリング改","Modified Sorcerer’s Ring"
+"Event","1","name","ソーサラーリング改","Enhanced Sorcerer’s Ring"
 "Event","1","description","不思議な力により強化された指輪。
 撃ち出される炎は威力を増し、より実用的","A ring reinforced by a mysterious force. 
 Its stronger shots give it more practical use."
@@ -2041,8 +2040,8 @@ Can be used to remove boulders."
 "Event","14","description","船尾の扉を開けるために必要な鍵","The key needed to open the stern door."
 "Event","15","name","ブローチ","Brooch"
 "Event","15","description","レグヌム峠に落ちていた青い石のブローチ。
-持ち主は………？","A blue gemstone brooch that had fallen
-on the Regnum Pass. The owner is...?"
+持ち主は………？","A blue gemstone brooch that had fallen on the
+Regnum Pass. Who could its owner be...?"
 "Event","16","name","手紙","Letter"
 "Event","16","description","「漆黒の翼」の老人から
 街に居る「ばあさん」宛てに書かれた手紙","A letter written by an old man with the ""Dark Wings""
@@ -2085,7 +2084,7 @@ It seems to have something to do with Vulcan’s swords..."
 It seems to have something to do with Vulcan’s swords..."
 "Event","26","name","バルカンの翠剣","Vulcan’s Emerald Sword"
 "Event","26","description","ハルトマンから貰った翠色の剣。
-バルカンの武器と関係があるようだが…","An emerald sword given by Hartmann. 
+バルカンの武器と関係があるようだが…","An emerald sword given by Hartman. 
 It seems to have something to do with Vulcan’s swords..."
 "Event","27","name","バルカンの白剣","Vulcan’s Quartz Sword"
 "Event","27","description","アンジュの兄から貰った白き短剣。
@@ -2097,7 +2096,7 @@ It seems to have something to do with Vulcan’s swords..."
 It seems to have something to do with Vulcan’s swords..."
 "Event","29","name","バルカンの橙剣","Vulcan’s Sapphire Sword"
 "Event","29","description","テントで見つけた橙色の剣。
-バルカンの武器と関係があるようだが…","A sapphire sword found in your tent.
+バルカンの武器と関係があるようだが…","A sapphire sword found in Grandpwo’s tent.
 It seems to have something to do with Vulcan’s swords..."
 "Event","30","name","バルカンの虹剣","Vulcan’s Prismatic Sword"
 "Event","30","description","ナーオス基地で入手した虹色の剣。
@@ -2464,7 +2463,7 @@ A reserved boy who prefers books over sports."
 but do make sure to properly change your clothes."
 "CodeName","15","name","猛将の転生者","The Fierce General’s Incarnation"
 "CodeName","15","description","前世はセンサスの猛将アスラ。
-名に相応しき力を得るのは、まだまだ先…？","His previous life was the Sensus' General Asura.
+名に相応しき力を得るのは、まだまだ先…？","His previous life was the Sensus’ General Asura.
 Will he ever be worthy of that name...?"
 "CodeName","16","name","忘れ物少年","Forgetful Boy"
 "CodeName","16","description","誰だって、忘れ物をすることはあるが
@@ -2472,8 +2471,8 @@ Will he ever be worthy of that name...?"
 So make sure you pay attention to your items!"
 "CodeName","17","name","おたんこルカ","Dummy Ruca"
 "CodeName","17","description","それは「一緒に行く」ことを決意した少年に
-贈られた名","A title given to the boy who was
-determined to ’tag along.’"
+贈られた名","A title given to the boy who was determined
+to ’walk alongside’ his companions"
 "CodeName","18","name","愛されし少年","Beloved Boy"
 "CodeName","18","description","親は子を思い、子は親を思う。
 息子の無事を信じ、いつでも帰りを待っている","Parents love their children, and vice versa. They 
@@ -2488,8 +2487,8 @@ His heart harbors naive and unseen worries."
 If he’s with you, investigations go perfectly."
 "CodeName","21","name","枯れた趣味？","A Dying Pastime?"
 "CodeName","21","description","わびさびを理解する心、枯れていても立派な趣味
-僕、お墓に入りたいんです！","His mind appreciates the view of wabi-sabi, 
-albeit its obscurity. ""I want to go into the tomb!"""
+僕、お墓に入りたいんです！","A mind capable of truly embracing traditional, imperfect beauty.
+An old-fashioned but lovely pastime! ""Let’s enter the tomb!"""
 "CodeName","22","name","ムッツリ少年","Taciturn Boy"
 "CodeName","22","description","秘密の花園の様子が気になるのは仕方ない。
 だって男の子だもの！","He can’t help but be curious about the state of 
@@ -2497,7 +2496,7 @@ the secret garden. ""I am a boy, after all!"""
 "CodeName","23","name","会員番号０００１","Member Number 0001"
 "CodeName","23","description","イリアファンクラブの会員。
 そして、なぜか幹部になってしまった","A member of the Illia fan club. For some
-reason, he ended up as the club's executive."
+reason, he ended up as the club’s executive."
 "CodeName","24","name","アスラ将軍","General Asura"
 "CodeName","24","description","アスラ将軍変身セットを持つ者の称号。
 これで君もアスラ将軍だ！","A title for one who wears a General Asura 
@@ -2598,9 +2597,9 @@ desires. A word of admiration for her recklessness."
 "CodeName","48","description","時には些細なことでイライラしちゃう。
 だって女の子だもん！","Sometimes trivial things get on her nerves.
 ""It’s because I’m a girl!"""
-"CodeName","49","name","人違い","Wrong Person"
+"CodeName","49","name","人違い","Mistaken Identity"
 "CodeName","49","description","たとえ本人が目の前にいなくとも、
-チトセと間違われるのは不愉快なの","Even if the real person’s not there, it still
+チトセと間違われるのは不愉快なの","Even if the actual person’s not there, it still
 feels unpleasant to be mistaken for Chitose."
 "CodeName","50","name","サボリ魔","Slacker"
 "CodeName","50","description","拳銃は持てても、ナイフとフォークより
@@ -2657,7 +2656,7 @@ Mischevious and rash. ""I’m justice!"""
 "CodeName","63","name","騎士","Knight"
 "CodeName","63","description","自分のことで手一杯だったけど、
 他人を思いやる気持ちがわいてきた","I used to have my hands full looking after myself,
-but now I'm beginning to look after others."
+but now I’m beginning to look after others."
 "CodeName","64","name","熟練騎士","Skilled Knight"
 "CodeName","64","description","酸いも甘いもかみ分けた者。
 正義、守ること…今それがわかりつつある","One who has persevered through thick and thin.
@@ -2702,11 +2701,11 @@ rock-paper-scissors master. Is this feat even useful?"
 "CodeName","74","description","ダチの恋の行く先を案ずる者。
 自分のことより他人のこと。友達思い","Someone who worries about his friend’s love life. He
 worries over others more than himself. A true friend."
-"CodeName","75","name","気品溢れる貴族","Noble with Overflowing Elegance"
+"CodeName","75","name","気品溢れる貴族","Elegant Noble"
 "CodeName","75","description","普段は不良、しかしその実態は名門貴族。
 本気を出せば気品溢れんばかり","A delinquent at first glance, but royal blood flows through
 his veins. If he shows this side, his elegance is unmatched."
-"CodeName","76","name","隠れ家の元主","Previous Owner of the Secret Hideout"
+"CodeName","76","name","隠れ家の元主","Chief of the Refuge"
 "CodeName","76","description","子どもなら誰もが作った秘密基地。
 今ではすっかり様変わり。ちょっぴり複雑","""I get that kids like making secret bases, but now mine’s
 been changed completely. I got mixed feelings on this."""
@@ -2744,12 +2743,12 @@ the century who help the weak and defeat the strong."
 you knew it, you were forced to join."
 "CodeName","85","name","仲間思い","Camaraderie"
 "CodeName","85","description","悩んでいるなら、共に悩み解決したい…。
-そんな仲間思いに贈られる称号","Whenever you're in trouble, we'll face it together.
+そんな仲間思いに贈られる称号","Whenever you’re in trouble, we’ll face it together.
 A title bestowed only upon true friends."
 "CodeName","86","name","自由な貴族","Aristocratic Spendthrift"
 "CodeName","86","description","自由に振り回され、散財した者。
 アンジュの食欲には敵わなかった…","Even with his extravegant spending, his
-wallet was no match for Ange's appetite..."
+wallet was no match for Ange’s appetite..."
 "CodeName","87","name","石取りマスター","Ishitori Master"
 "CodeName","87","description","石取りマスターを倒した者の称号。
 勉強は不得意でも、頭の回転は速い","The title of the person who defeated the Ishitori Master.
@@ -2806,7 +2805,7 @@ Her manner of speech is proof of her superior intellect."
 "CodeName","100","description","強情といわれようが、自分の信念は曲げない。
 それで人が救えるなら、なおさら","""Call me stubborn if you wish, I shall stand firm in my
 convictions. Even more so if it is to save others."""
-"CodeName","101","name","トドメを刺した女性","Woman who Dealt the Final Blow"
+"CodeName","101","name","トドメを刺した女性","Sharp-tongued Lady"
 "CodeName","101","description","いくら相手を理解しようとしても、
 名前を覚えないとなにも始まらない…","""No matter how much you try to understand the other 
 person, it’s meaningless if you don’t remember their name..."""
@@ -2914,7 +2913,7 @@ soul to the Reaper as long as those kids are safe."""
 "CodeName","127","description","前世は死神ヒュプノス。
 戦場に身を置くことは運命なのか…","His previous life was the Reaper Hypnos.
 Is it his fate to be on the battlefield...?"
-"CodeName","128","name","タダ働きの傭兵","Mercenary Who Works for Free"
+"CodeName","128","name","タダ働きの傭兵","Mercenary of Unremunerative Work"
 "CodeName","128","description","たとえ自分が不服でも主人の命令は絶対。
 タダ働きだって我慢我慢","I may be dissatisfied, but my employer’s command 
 is absolute. Just put up with the pro bono."
@@ -3150,7 +3149,7 @@ He appears similar to a certain cat summoner in a story."
 "CodeName","187","name","学生","Student"
 "CodeName","187","description","見聞を広めるためにやってきた学生。
 学年とクラスまではわからない","A student who arrived in order to spread the word.
-His year and class is yet unknown."
+His year and class are yet unknown."
 "CodeName","188","name","異界を知る者","One with Otherwordly Knowledge"
 "CodeName","188","description","「知らないこと」を「何故知らないか」
 答えられる者は果たして……","One wonders why no one has any idea about
@@ -3169,7 +3168,7 @@ No one knows what happened to that person."
 you knew it, you were forced to join."
 "CodeName","192","name","見届け人","Witness"
 "CodeName","192","description","一度決めたことは頑として貫き通す。
-それも彼のイデオロギー","Once he makes up his mind, he'll stick it through
+それも彼のイデオロギー","Once he makes up his mind, he’ll stick it through
 till the end. This, too, is part of his creed."
 "CodeName","193","name","自由な青年","Free Young Man"
 "CodeName","193","description","皆が買い物する中、本を読む人がいてもいい。
@@ -3288,8 +3287,8 @@ is to see the whole world with her own eyes."
 ""I knew you’d be back. You’re my friend, after all."""
 "CodeName","222","name","天使な悪魔","Angelic Demon"
 "CodeName","222","description","天使のような悪魔の思考を持った少女。
-夜なら誰も見ていない","She seems like an angel, but she's really a demon.
-When night falls, you'll never see her coming."
+夜なら誰も見ていない","She seems like an angel, but she’s really a demon.
+When night falls, you’ll never see her coming."
 "CodeName","223","name","クロといっしょ","Together with Kuro"
 "CodeName","223","description","とっても愛らしい黒猫のぬいぐるみ。
 中身はとってもオタクなオヤジネコ","A seemingly adorable stuffed black cat.
@@ -3556,7 +3555,7 @@ If it’s an escort job, leave it to QQ!"
 Restores 10% HP."
 "Recipe","1","name","卵かけご飯","Egg on Rice"
 "Recipe","1","description","HP15％回復。
-あつあつのライスに新鮮なタマゴをのせてどうぞ","A generous helping of rice topped with a farm-fresh egg.
+あつあつのライスに新鮮なタマゴをのせてどうぞ","A generous helping of rice topped with an egg.
 Restores 15% HP."
 "Recipe","2","name","たきこみご飯","Mixed Rice"
 "Recipe","2","description","HP20％回復。

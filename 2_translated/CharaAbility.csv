@@ -1,0 +1,617 @@
+"0","0","name","キャパシティアップ１","Capacity Up 1"
+"0","0","description","アビリティをセットする際に消費する
+CPの最大値が1増える","Increases your max CP by 1."
+"0","1","name","キャパシティアップ２","Capacity Up 2"
+"0","1","description","アビリティをセットする際に消費する
+CPの最大値が2増える","Increases your max CP by 2."
+"0","2","name","キャパシティアップ３","Capacity Up 3"
+"0","2","description","アビリティをセットする際に消費する
+CPの最大値が3増える","Increases your max CP by 3."
+"0","3","name","キャパシティアップ４","Capacity Up 4"
+"0","3","description","アビリティをセットする際に消費する
+CPの最大値が4増える","Increases your max CP by 4."
+"0","4","name","スペシャル","Special"
+"0","4","description","秘められた力を解放し
+秘奥義が第二秘奥義になる","Unlocks your hidden potential, which
+grants access to your 2nd Mystic Arte."
+"0","5","name","フレアライズ１","Inflame 1"
+"0","5","description","火属性攻撃のダメージが10%上昇する","Increases fire-elemental damage by 10%."
+"0","6","name","フレアライズ２","Inflame 2"
+"0","6","description","火属性攻撃のダメージが15%上昇する","Increases fire-elemental damage by 15%."
+"0","7","name","フレアライズ３","Inflame 3"
+"0","7","description","火属性攻撃のダメージが20%上昇する","Increases fire-elemental damage by 20%."
+"0","8","name","アクアライズ１","Hydrate 1"
+"0","8","description","水属性攻撃のダメージが10%上昇する","Increases water-element damage by 10%."
+"0","9","name","アクアライズ２","Hydrate 2"
+"0","9","description","水属性攻撃のダメージが15%上昇する","Increases water-element damage by 15%."
+"0","10","name","アクアライズ３","Hydrate 3"
+"0","10","description","水属性攻撃のダメージが20%上昇する","Increases water-element damage by 20%."
+"0","11","name","アースライズ１","Mineralize 1"
+"0","11","description","地属性攻撃のダメージが10%上昇する","Increases earth-element damage by 10%."
+"0","12","name","アースライズ２","Mineralize 2"
+"0","12","description","地属性攻撃のダメージが15%上昇する","Increases earth-element damage by 15%."
+"0","13","name","アースライズ３","Mineralize 3"
+"0","13","description","地属性攻撃のダメージが20%上昇する","Increases earth-element damage by 20%."
+"0","14","name","ウィンドライズ１","Aerate 1"
+"0","14","description","風属性攻撃のダメージが10%上昇する","Increases wind-element damage by 10%."
+"0","15","name","ウィンドライズ２","Aerate 2"
+"0","15","description","風属性攻撃のダメージが15%上昇する","Increases wind-element damage by 15%."
+"0","16","name","ウィンドライズ３","Aerate 3"
+"0","16","description","風属性攻撃のダメージが20%上昇する","Increases wind-element damage by 20%."
+"0","17","name","サンダーライズ１","Electrify 1"
+"0","17","description","雷属性攻撃のダメージが10%上昇する","Increases lightning-element damage by 10%."
+"0","18","name","サンダーライズ２","Electrify 2"
+"0","18","description","雷属性攻撃のダメージが15%上昇する","Increases lightning-element damage by 15%."
+"0","19","name","サンダーライズ３","Electrify 3"
+"0","19","description","雷属性攻撃のダメージが20%上昇する","Increases lightning-element damage by 20%."
+"0","20","name","ライトライズ１","Illuminate 1"
+"0","20","description","光属性攻撃のダメージが10%上昇する","Increases light-element damage by 10%."
+"0","21","name","ライトライズ２","Illuminate 2"
+"0","21","description","光属性攻撃のダメージが15%上昇する","Increases light-element damage by 15%."
+"0","22","name","ライトライズ３","Illuminate 3"
+"0","22","description","光属性攻撃のダメージが20%上昇する","Increases light-element damage by 20%."
+"0","23","name","ダークライズ１","Eclipse 1"
+"0","23","description","闇属性攻撃のダメージが10%上昇する","Increases dark-elemental damage by 10%."
+"0","24","name","ダークライズ２","Eclipse 2"
+"0","24","description","闇属性攻撃のダメージが15%上昇する","Increases dark-elemental damage by 15%."
+"0","25","name","ダークライズ３","Eclipse 3"
+"0","25","description","闇属性攻撃のダメージが20%上昇する","Increases dark-elemental damage by 20%."
+"0","26","name","コンボプラス","Combo Plus"
+"0","26","description","このアビリティをセットした数だけ
+通常攻撃が1回余分に出せる","Adds an extra regular attack for every
+iteration of this skill equipped."
+"0","27","name","トクギプラス","Base Plus"
+"0","27","description","このアビリティをセットした数だけ
+特技が1回余分に出せる","Lets you chain an extra base arte for
+every iteration of this skill equipped."
+"0","28","name","ヒギプラス","Master Plus"
+"0","28","description","このアビリティをセットした数だけ
+秘技が1回余分に出せる","Lets you chain an extra master arte for
+every iteration of this skill equipped."
+"0","29","name","オウギプラス","Arcane Plus"
+"0","29","description","このアビリティをセットした数だけ
+奥義が1回余分に出せる","Lets you chain an extra arcane arte for
+every iteration of this skill equipped."
+"0","30","name","ルートブレイク","Route Breaker"
+"0","30","description","特技、秘技、奥義の順番を入れ替えて
+技を出すことができる","You can chain together base, master,
+and arcane artes in any order."
+"0","31","name","リピート","Repeat"
+"0","31","description","トクギプラスなどとの組み合わせで
+同じ技を連続して出せるようになる","Lets you repeat the same arte. Must be used
+in conjunction with Base/Master/Arcane Plus."
+"0","32","name","ポイズンアタック","Toxic Attack"
+"0","32","description","通常攻撃ヒット時に
+10%の確率で敵を毒にする","10% probability of poisoning an enemy
+when a regular hit connects."
+"0","33","name","パラライズアタック","Anesthetic Attack"
+"0","33","description","通常攻撃ヒット時に
+10%の確率で敵を麻痺にする","10% probability of paralyzing an enemy
+when a regular hit connects."
+"0","34","name","アタックフェイント","Heavy Hit"
+"0","34","description","物理攻撃で敵を
+気絶状態にさせやすくなる","Increases the probability of enemies
+being stunned by physical attacks."
+"0","35","name","マジックフェイント","Stun Magic"
+"0","35","description","術攻撃で敵を気絶させやすくなる","Increases the probability of enemies
+being stunned by spells."
+"0","36","name","フェイントアップ","Stun Extender"
+"0","36","description","相手を気絶させたとき
+持続時間が50%上昇する","Increases enemy stun time by 50%."
+"0","37","name","ハードショット","Staggering Strike"
+"0","37","description","クリティカル攻撃を当てた際に
+敵の仰け反り時間が増加する","Increases the length of time for which
+enemies are staggered by critical hits."
+"0","38","name","クリティカル","Critical"
+"0","38","description","攻撃がクリティカルになる確率が
+10%上昇する","Increases the chance of inflicting
+a critical hit by 10%."
+"0","39","name","ダウン１","Knocked Down"
+"0","39","description","攻撃でダウンさせた敵の
+ダウン時間が1.5倍になる","Increases the length of time for which
+enemies are knocked down by 1.5 times."
+"0","40","name","ダウン２","Knocked Down 2"
+"0","40","description","攻撃でダウンさせた敵の
+ダウン時間が2倍になる","Doubles the length of time for which
+enemies are knocked down."
+"0","41","name","デストロイ","Destroyer"
+"0","41","description","攻撃で鋼体を2倍削れるようになる","Every attack will break the enemy’s
+iron stance twice as fast."
+"0","42","name","カウンターストライク","Counterstrike"
+"0","42","description","ガードカウンター時の
+ダメージが50%上昇する","Increases damage inflicted by
+guard counters by 50%."
+"0","43","name","カウンターフェイント","Counterstun"
+"0","43","description","ガードカウンター時に
+高確率で敵を気絶状態にする","Increases the chance of enemies being
+stunned by guard counters."
+"0","44","name","ＴＰセーブ１","Conserve TP"
+"0","44","description","術技のTP消費量を10%減少させる","Decreases the TP cost of all artes by 10%."
+"0","45","name","ＴＰセーブ２","Conserve TP 2"
+"0","45","description","術技のTP消費量を30%減少させる","Decreases the TP cost of all artes by 30%."
+"0","46","name","ＴＰセーブ３","Conserve TP 3"
+"0","46","description","術技のTP消費量を50%減少させる","Decreases the TP cost of all artes by 50%."
+"0","47","name","ヘビィアタック","Heavy Attack"
+"0","47","description","攻撃術技のTP消費量が2倍になるが
+敵に与えるダメージが50%上昇する","Doubles TP cost in order to increase
+arte damage by 50%."
+"0","48","name","ヘビィマジック","Heavy Magic"
+"0","48","description","攻撃術の詠唱時間を延ばし
+術で与えるダメージを50%上昇させる","Lengthens the casting time of attack artes
+in order to increase their damage by 50%."
+"0","49","name","ライトマジック","Lite Magic"
+"0","49","description","攻撃術の詠唱時間を短縮するが
+術で与えるダメージが50%減少する","Shortens the casting time of attack artes,
+but decreases their damage by 50%."
+"0","50","name","スピードスペル１","Speed Cast 1"
+"0","50","description","詠唱時間が5%減少する","Reduces casting times by 5%."
+"0","51","name","スピードスペル２","Speed Cast 2"
+"0","51","description","詠唱時間が10%減少する","Reduces casting times by 10%."
+"0","52","name","スピードスペル３","Speed Cast 3"
+"0","52","description","詠唱時間が15%減少する","Reduces casting times by 15%."
+"0","53","name","スペルキープ","Recast"
+"0","53","description","詠唱キャンセル時、同じ術に限り
+中断された状態から詠唱を開始する","Canceled artes are resumed from the point
+at which their casting was interrupted."
+"0","54","name","スペルラッキー","Absolute Reduction"
+"0","54","description","術の消費TPが20%の確率で0になる","20% chance of the casting cost of a spell
+arte being reduced to 0 TP."
+"0","55","name","１ダメージ","Minimum Damage"
+"0","55","description","敵に与えるダメージが最大1になる","Damage dealt is reduced to 1."
+"0","56","name","クォーターダメージ","Quarter Damage"
+"0","56","description","敵に与えるダメージが全て1/4になる","Damage dealt is reduced by 75%."
+"0","57","name","ハーフダメージ","Half Damage"
+"0","57","description","敵に与えるダメージが全て1/2になる","Damage dealt is reduced by 50%."
+"0","58","name","フレアシールド１","Flame Retardant 1"
+"0","58","description","自分が受ける火属性攻撃の
+ダメージを10%減少させる","Reduces any fire-element damage
+sustained by 10%."
+"0","59","name","フレアシールド２","Flame Retardant 2"
+"0","59","description","自分が受ける火属性攻撃の
+ダメージを30%減少させる","Reduces any fire-element damage
+sustained by 30%."
+"0","60","name","フレアシールド３","Flame Retardant 3"
+"0","60","description","自分が受ける火属性攻撃の
+ダメージを50%減少させる","Reduces any fire-element damage
+sustained by 50%."
+"0","61","name","アクアシールド１","Water Resistant 1"
+"0","61","description","自分が受ける水属性攻撃の
+ダメージを10%減少させる","Reduces any water-element damage
+sustained by 10%."
+"0","62","name","アクアシールド２","Water Resistant 2"
+"0","62","description","自分が受ける水属性攻撃の
+ダメージを30%減少させる","Reduces any water-element damage
+sustained by 30%."
+"0","63","name","アクアシールド３","Water Resistant 3"
+"0","63","description","自分が受ける水属性攻撃の
+ダメージを50%減少させる","Reduces any water-element damage
+sustained by 50%."
+"0","64","name","アースシールド１","Quakeproof 1"
+"0","64","description","自分が受ける地属性攻撃の
+ダメージを10%減少させる","Reduces any earth-element damage
+sustained by 10%."
+"0","65","name","アースシールド２","Quakeproof 2"
+"0","65","description","自分が受ける地属性攻撃の
+ダメージを30%減少させる","Reduces any earth-element damage
+sustained by 30%."
+"0","66","name","アースシールド３","Quakeproof 3"
+"0","66","description","自分が受ける地属性攻撃の
+ダメージを50%減少させる","Reduces any earth-element damage
+sustained by 50%."
+"0","67","name","ウィンドシールド１","Wind Shield 1"
+"0","67","description","自分が受ける風属性攻撃の
+ダメージを10%減少させる","Reduces any wind-element damage
+sustained by 10%."
+"0","68","name","ウィンドシールド２","Wind Shield 2"
+"0","68","description","自分が受ける風属性攻撃の
+ダメージを30%減少させる","Reduces any wind-element damage
+sustained by 30%."
+"0","69","name","ウィンドシールド３","Wind Shield 3"
+"0","69","description","自分が受ける風属性攻撃の
+ダメージを50%減少させる","Reduces any wind-element damage
+sustained by 50%."
+"0","70","name","サンダーシールド１","Insulator 1"
+"0","70","description","自分が受ける雷属性攻撃の
+ダメージを10%減少させる","Reduces any lightning-element damage
+sustained by 10%."
+"0","71","name","サンダーシールド２","Insulator 2"
+"0","71","description","自分が受ける雷属性攻撃の
+ダメージを30%減少させる","Reduces any lightning-element damage
+sustained by 30%."
+"0","72","name","サンダーシールド３","Insulator 3"
+"0","72","description","自分が受ける雷属性攻撃の
+ダメージを50%減少させる","Reduces any lightning-element damage
+sustained by 50%."
+"0","73","name","ライトシールド１","Sunblock 1"
+"0","73","description","自分が受ける光属性攻撃の
+ダメージを10%減少させる","Reduces any light-element damage
+sustained by 10%."
+"0","74","name","ライトシールド２","Sunblock 2"
+"0","74","description","自分が受ける光属性攻撃の
+ダメージを30%減少させる","Reduces any light-element damage
+sustained by 30%."
+"0","75","name","ライトシールド３","Sunblock 3"
+"0","75","description","自分が受ける光属性攻撃の
+ダメージを50%減少させる","Reduces any light-element damage
+sustained by 50%."
+"0","76","name","ダークシールド１","Night Light 1"
+"0","76","description","自分が受ける闇属性攻撃の
+ダメージを10%減少させる","Reduces any dark-element damage
+sustained by 10%."
+"0","77","name","ダークシールド２","Night Light 2"
+"0","77","description","自分が受ける闇属性攻撃の
+ダメージを30%減少させる","Reduces any dark-element damage
+sustained by 30%."
+"0","78","name","ダークシールド３","Night Light 3"
+"0","78","description","自分が受ける闇属性攻撃の
+ダメージを50%減少させる","Reduces any dark-element damage
+sustained by 50%."
+"0","79","name","エレメントアヴォイド","Nullify Element"
+"0","79","description","属性攻撃を受けた際
+10%の確率でダメージを0にする","10% chance of damage from any elemental
+attack being reduced to 0."
+"0","80","name","ポイズンガード","Poison Guard"
+"0","80","description","毒状態を50%の確率で防止する","50% chance of preventing poisoning."
+"0","81","name","ウィークネスガード","Weak Guard"
+"0","81","description","衰弱状態を50%の確率で防止する","50% chance of preventing weakening."
+"0","82","name","パラライズガード","Paralysis Guard"
+"0","82","description","麻痺状態を50%の確率で防止する","50% chance of preventing paralysis."
+"0","83","name","フィアーガード","Terror Guard"
+"0","83","description","恐怖状態を50%の確率で防止する","50% chance of preventing terror."
+"0","84","name","ストーンガード","Stone Guard"
+"0","84","description","石化状態を50%の確率で防止する","50% chance of preventing petrification."
+"0","85","name","オールガード","All Guard"
+"0","85","description","全ての状態異常を
+30%の確率で防止する","30% chance of preventing
+any physical ailment."
+"0","86","name","ステータスガード","Status Proof"
+"0","86","description","状態変化にならなくなる","Protects the user from all status ailments."
+"0","87","name","フェイントガード","Stun Proof"
+"0","87","description","気絶しなくなる","Prevents the user from being stunned."
+"0","88","name","ラッキーアヴォイド","Lucky Step"
+"0","88","description","物理ダメージを5%の確率で0にする","5% chance of nullifying damage
+when hit by a physical attack."
+"0","89","name","マジックアヴォイド","Spell Dodge"
+"0","89","description","術によるダメージを
+5%の確率で0にする","5% chance of nullifying damage
+when hit by a spell attack."
+"0","90","name","アンチマジック","Anti Magic"
+"0","90","description","自身に対して術の効果が無効になる
+回復術も敵の攻撃も補助系も一切無効","Positive and negative magic effects are all
+nullified. This does not include Rave effects."
+"0","91","name","インバリッドアタック","Void Attack"
+"0","91","description","物理攻撃を受けた際
+10%の確率で仰け反らなくなる","10% chance of avoiding staggering
+caused by physical attacks."
+"0","92","name","インバリッドマジック","Void Magic"
+"0","92","description","術攻撃を受けた際
+10%の確率で仰け反らなくなる","10% chance of avoiding staggering
+caused by spells."
+"0","93","name","インバリッドオール","Glory"
+"0","93","description","全ての攻撃に対して仰け反らなくなる","Cannot be staggered by any type of attack."
+"0","94","name","コンセントレート","Concentrate"
+"0","94","description","詠唱中にダメージを受けても
+仰け反らなくなる","Cannot be staggered by attacks
+sustained while casting spells."
+"0","95","name","エンデューロ","Endure"
+"0","95","description","ダメージ時の仰け反り時間が減少する","Decreases the amount of time needed
+to recover from being staggered."
+"0","96","name","ガードアップ１","Physical Guard 1"
+"0","96","description","ガード時に受ける
+ダメージを10%減少させる","Reduces physical damage sustained
+while guarding by 10%."
+"0","97","name","ガードアップ２","Physical Guard 2"
+"0","97","description","ガード時に受ける
+ダメージを30%減少させる","Reduces physical damage sustained
+while guarding by 30%."
+"0","98","name","ガードアップ３","Physical Guard 3"
+"0","98","description","ガード時に受ける
+ダメージを50%減少させる","Reduces physical damage sustained
+while guarding by 50%."
+"0","99","name","Ｍガードアップ１","Magic Guard 1"
+"0","99","description","マジックガード時に受ける
+ダメージを10%減少させる","Reduces magic damage sustained
+while guarding by 10%."
+"0","100","name","Ｍガードアップ２","Magic Guard 2"
+"0","100","description","マジックガード時に受ける
+ダメージを30%減少させる","Reduces magic damage sustained
+while guarding by 30%."
+"0","101","name","Ｍガードアップ３","Magic Guard 3"
+"0","101","description","マジックガード時に受ける
+ダメージを50%減少させる","Reduces magic damage sustained
+while guarding by 50%."
+"0","102","name","テクニカルガード","Technical Guard"
+"0","102","description","ガード時に物理ダメージが1に
+ただし、ガードしないと2倍になる","Reduces physical damage to 1 while guarding,
+However, received damage is doubled if not."
+"0","103","name","テクニカルレジスト","Technical Resist"
+"0","103","description","マジックガード時に術ダメージが1に
+ただし、ガードしないと2倍になる","Reduces magical damage to 1 while guarding,
+However, received damage is doubled if not."
+"0","104","name","サバイブ","Survive"
+"0","104","description","ガード状態では攻撃を受けても
+必ずHPが1残る","Cannot be KO’ed by any attacks while guarding.
+HP will always be at 1 while guarding."
+"0","105","name","カウンターリペアＨＰ","Countermend HP"
+"0","105","description","ガードカウンター成功時に
+HPが10%回復する","Restores HP by 10% when a guard counter
+is successfully performed."
+"0","106","name","カウンターリペアＴＰ","Countermend TP"
+"0","106","description","ガードカウンター成功時に
+TPが10%回復する","Restores TP by 10% when a guard counter
+is successfully performed."
+"0","107","name","カウンターレイヴ","Counter Rave"
+"0","107","description","ガードカウンター成功時の
+レイヴゲージボーナスが延長される","Extends the length of Rave Bonus
+after a successful guard counter."
+"0","108","name","アクティブボディ","High Metabolism"
+"0","108","description","自身への回復術技や回復アイテムの
+HP回復効果が10%上昇する","Increases the effects of any healing artes
+or items used on the user by 10%."
+"0","109","name","リペアプラス","Heal Plus"
+"0","109","description","自身が使用する回復術技のみ
+HP回復効果が5%上昇する","Increases the effects of any healing
+artes cast by the user by 5%."
+"0","110","name","リペアシェア","Heal Supply"
+"0","110","description","回復術使用時に
+使用者のHPが5%回復する","Restores the caster’s HP by 5% every time
+they use any artes that restore HP."
+"0","111","name","ＴＰコンバーター","TP Converter"
+"0","111","description","TPが0になった場合、TPの代わりに
+HPを消費する。消費量はTPの10倍","When TP is reduced to 0, artes will instead
+consume HP at 10 times the TP cost. "
+"0","112","name","レイヴアッパー","Rave Boost"
+"0","112","description","自身の行動時に
+レイヴゲージを上昇させやすくする","Increases the rate at which the Rave
+Gauge fills up during battle."
+"0","113","name","ＯＶＬアッパー","Over Limit Boost"
+"0","113","description","自身のOVLゲージを
+上昇させやすくする","Increases the rate at which the Over Limit
+Gauge fills up during battle."
+"0","114","name","ゲットアングリー","Aggravate"
+"0","114","description","自身の攻撃時に
+敵の怒り攻撃を発生させやすくする","Increases the chance of enemies
+performing enraged attacks."
+"0","115","name","アピーズ","Tranquilize"
+"0","115","description","自身の攻撃時に
+敵の怒り攻撃を発生させにくくする","Decreases the chance of enemies
+performing enraged attacks."
+"0","116","name","ラッキーキープ","Last-Minute Reprieve"
+"0","116","description","10%の確率で戦闘不能にならず
+HP1で踏みとどまる","10% chance of clinging on with just 1 HP"
+"0","117","name","リバイバル","Revival"
+"0","117","description","戦闘不能時に25%の確率で
+HP10%の状態で復活する","25% chance of being revived
+with 10% HP when KO’d."
+"0","118","name","フェニックス","Phoenix"
+"0","118","description","戦闘中一度だけ戦闘不能から
+HP20%の状態で確実に復活する","100% chance of being revived with
+20% HP, but only once per battle."
+"0","119","name","エンドリペアＨＰ１","HP Aftercare 1"
+"0","119","description","戦闘終了時にHPが10%回復する","HP is restored by 10% at
+the end of each battle."
+"0","120","name","エンドリペアＨＰ２","HP Aftercare 2"
+"0","120","description","戦闘終了時にHPが20%回復する","HP is restored by 20% at
+the end of each battle."
+"0","121","name","エンドリペアＨＰ３","HP Aftercare 3"
+"0","121","description","戦闘終了時にHPが30%回復する","HP is restored by 30% at
+the end of each battle."
+"0","122","name","エンドリペアＴＰ１","TP Aftercare 1"
+"0","122","description","戦闘終了時に
+TPがさらに5%回復する","TP is restored by 5% more than
+usual at the end of each battle."
+"0","123","name","エンドリペアＴＰ２","TP Aftercare 2"
+"0","123","description","戦闘終了時に
+TPがさらに10%回復する","TP is restored by 10% more than
+usual at the end of each battle."
+"0","124","name","エンドリペアＴＰ３","TP Aftercare 3"
+"0","124","description","戦闘終了時に
+TPがさらに15%回復する","TP is restored by 15% more than
+usual at the end of each battle."
+"0","125","name","ブレイクＨＰゲイン","HP Gain"
+"0","125","description","敵撃破時にHPが5%回復する","Restores HP by 5% when
+you defeat an enemy."
+"0","126","name","ブレイクＴＰゲイン","TP Gain"
+"0","126","description","敵撃破時にTPが5%回復する","Restores TP by 5% when
+you defeat an enemy."
+"0","127","name","エンドＯＶＬゲイン","Over Limit Gain"
+"0","127","description","戦闘中ダメージを一切受けなければ
+OVLゲージが20%上昇する","If no damage is received during battle,
+your Over Limit Gauge will increase by 20%."
+"0","128","name","サブエクス","EXP Share"
+"0","128","description","サブパーティーにいても
+取得経験値が通常と同じになる","Characters not present in battle will gain 
+just as much EXP as active members."
+"0","129","name","エクスキャンセル","EXP Cancel"
+"0","129","description","取得経験値が0になる","Reduces EXP gained to 0."
+"0","130","name","ダッシュキャンセル","Dash Cancel"
+"0","130","description","1コンボ中一度のみ進行方向を素早く
+2回入力で技連携をリセットする","Allows the user to reset the arte
+chain with a forward-step."
+"0","131","name","ジャンプキャンセル","Jump Cancel"
+"0","131","description","1コンボ中に上方向の入力で
+技連携をリセットする","Allows the user to reset the
+arte chain with a jump."
+"0","132","name","エアリアルジャンプ","Aerial Jump"
+"0","132","description","空中でジャンプを1回余分に行える","Able to add another jump while in midair."
+"0","133","name","ランナー１","Athlete "
+"0","133","description","戦闘中の移動速度が速くなる","Speeds up movement on the battlefield."
+"0","134","name","ランナー２","Athlete 2"
+"0","134","description","戦闘中の移動速度がより速くなる","Speeds up movement on the battlefield even more."
+"0","135","name","スナッチ１","Steal Plus"
+"0","135","description","ローバーアイテムの
+成功率が少し上昇する","Slightly increases the chance of
+success when using Thievery."
+"0","136","name","スナッチ２","Steal Plus 2"
+"0","136","description","ローバーアイテムの
+成功率が上昇する","Greatly increases the chance of
+success when using Thievery."
+"0","137","name","スナッチ３","Steal Plus 3"
+"0","137","description","ローバーアイテムの
+成功率が大きく上昇する","Massively increases the chance of
+success when using Thievery."
+"0","138","name","スピードアイテム１","Speedy Item "
+"0","138","description","アイテム使用後の
+再使用待ち時間が少し減少する","Slightly reduces the length of time
+between item uses in battle."
+"0","139","name","スピードアイテム２","Speedy Item 2"
+"0","139","description","アイテム使用後の
+再使用待ち時間が減少する","Greatly reduces the length of time
+between item uses in battle."
+"0","140","name","スピードアイテム３","Speedy Item 3"
+"0","140","description","アイテム使用後の
+再使用待ち時間が大きく減少する","Massively reduces the length of time
+between item uses in battle."
+"0","141","name","グミマスター","Gel Master"
+"0","141","description","自身が使用する
+グミの効果が2倍になる","Doubles the effect of gels used in battle."
+"0","142","name","ロストリペアＨＰ","KO HP Repair"
+"0","142","description","味方が戦闘不能になる度に
+HPが30%回復する","Restores HP by 30% whenever
+an ally is KO’d."
+"0","143","name","ロストリペアＴＰ","KO TP Repair"
+"0","143","description","味方が戦闘不能になる度に
+TPが30%回復する","Restores TP by 30% whenever
+an ally is KO’d."
+"0","144","name","ロストアタック","KO Attack Surge"
+"0","144","description","味方が戦闘不能になる度に
+物理攻撃力上昇の状態変化になる","Increases P.ATK whenever
+an ally is KO’d."
+"0","145","name","ロストディフェンス","KO Defense Surge"
+"0","145","description","味方が戦闘不能になる度に
+物理防御力上昇の状態変化になる","Increases P.DEF whenever
+an ally is KO’d."
+"0","146","name","ロストマジック","KO Magic Surge"
+"0","146","description","味方が戦闘不能になる度に
+術攻撃力上昇の状態変化になる","Increases A.ATK whenever
+an ally is KO’d."
+"0","147","name","ロストレジスト","KO Resist Surge"
+"0","147","description","味方が戦闘不能になる度に
+術防御力上昇の状態変化になる","Increases A.DEF whenever
+an ally is KO’d."
+"0","148","name","バーストブロー","Burst Blow"
+"0","148","description","OVL開始時、周囲の敵を吹き飛ばし
+ダメージを与える","Blows away surrounding enemies and deals 
+damage to them when Over Limit is activated."
+"0","149","name","バーストフェイント","Burst Stun"
+"0","149","description","OVL開始時、周囲の敵を吹き飛ばし
+ダメージを与え、気絶状態にする","Blows away surrounding enemies and 
+stuns them when Over Limit is activated."
+"0","150","name","バーストアブソーブ","Burst Absorb"
+"0","150","description","OVL開始時、周囲の敵を吹き飛ばし
+ダメージを与え、自身のHPを回復する","Blows away surrounding enemies and 
+restores HP when Over Limit is activated."
+"0","151","name","エクステンド","Extend"
+"0","151","description","OVL状態の時間が長くなる","Extends Over Limit duration."
+"0","152","name","インフィニティ","Infinity"
+"0","152","description","OVL中、すべての術技で
+TPを消費しなくなる","Artes don’t consume TP while in Over Limit."
+"0","153","name","インスタントスペル","Instant Spell"
+"0","153","description","OVL中、術の詠唱時間が半分になる","Cast time is halved while in Over Limit."
+"0","154","name","オールイレイズ","Invincible"
+"0","154","description","OVL中、すべての攻撃で
+ダメージを受けなくなる","All damage received is nullified 
+while in Over Limit."
+"0","155","name","アタックバースト","Attack Burst"
+"0","155","description","OVL中、物理攻撃力が20%上昇する","P. ATK increases by 20% while in Over Limit."
+"0","156","name","ディフェンスバースト","Defense Burst"
+"0","156","description","OVL中、物理防御力が20%上昇する","P. DEF increases by 20% while in Over Limit."
+"0","157","name","マジックバースト","Magic Burst"
+"0","157","description","OVL中、術攻撃力が20%上昇する","A. ATK increases by 20% while in Over Limit."
+"0","158","name","レジストバースト","Resist Burst"
+"0","158","description","OVL中、術防御力が20%上昇する","A. DEF increases by 20% while in Over Limit."
+"0","159","name","クリティカルバースト","Critical Burst"
+"0","159","description","OVL中、クリティカル率が20%上昇する","Critical rate increases by 20% while in Over Limit."
+"0","160","name","オーバードライブ","Overdrive"
+"0","160","description","OVL中、全ステータスが1.5倍になる
+代わりにOVL状態の時間が短くなる","All your stats are increased by 1.5 times during
+Over Limit, the time you’re in it is decreased."
+"0","161","name","ヘビィショット","Heavy Shot"
+"0","161","description","OVL中、攻撃を当てた際の
+敵の仰け反り時間が大きく増加する","During Over Limit, your attacks stun enemies
+for an extended amount of time."
+"0","162","name","リミットブレイク","Limit Breaker"
+"0","162","description","OVL中、技連携を無視して
+すべての攻撃をキャンセルできる","Artes can be chained in any
+order while in Over Limit."
+"0","163","name","ダメージリミッター","Damage Limiter"
+"0","163","description","OVL中、攻撃を受けた際の
+OVLゲージの減少を緩和する","The rate at which the Over Limit Gauge
+decreases is reduced when attacked."
+"0","164","name","ダメージプロテクター","Damage Protector"
+"0","164","description","OVL中、攻撃を受けても
+OVLゲージが減少しなくなる","The Over Limit Gauge will not deplete
+when attacked during Over Limit."
+"0","165","name","リスクアタック","Adrenaline"
+"0","165","description","HPが25%以下のとき
+物理攻撃力が20%上昇する","Increases P. ATK by 20% when HP drops to 25% 
+or lower."
+"0","166","name","リスクディフェンス","Last Stand"
+"0","166","description","HPが25%以下のとき
+物理防御力が20%上昇する","Increases P. DEF by 20% when HP drops to 25% 
+or lower."
+"0","167","name","リスクマジック","Hypervigilance"
+"0","167","description","HPが25%以下のとき
+術攻撃力が20%上昇する","Increases A. ATK by 20% when HP drops to 25% 
+or lower."
+"0","168","name","リスクレジスト","Denial"
+"0","168","description","HPが25%以下のとき
+術防御力が20%上昇する","Increases A. DEF by 20% when HP drops to 25% 
+or lower."
+"0","169","name","アタックバリュー","Attack Value"
+"0","169","description","物攻+10%、物防-5%","Increases P. ATK by 10%, 
+decreases P. DEF by 5%."
+"0","170","name","アタックカスタム","Attack Bargain"
+"0","170","description","物攻+20%、物防・術防-5%","Increases P. ATK by 20%, 
+decreases P. DEF and A. DEF by 5%."
+"0","171","name","ディフェンスバリュー","Defense Value"
+"0","171","description","物防+10%、物攻-5%","Increases P. DEF by 10%, 
+decreases P. ATK by 5%."
+"0","172","name","ディフェンスカスタム","Defense Bargain"
+"0","172","description","物防+20%、術攻・物攻-5%","Increases P. DEF by 20%, 
+decreases A. ATK and P. ATK by 5%."
+"0","173","name","マジックバリュー","Magic Value"
+"0","173","description","術攻+10%、術防-5%","Increases A.ATK by 10%, 
+decreases A. DEF 5%."
+"0","174","name","マジックカスタム","Magic Bargain"
+"0","174","description","術攻+20%、物防・術防-5%","Increases A. ATK by 20%, 
+decreases P. DEF and A.DEF by 5%."
+"0","175","name","レジストバリュー","Resist Value"
+"0","175","description","術防+10%、術攻-5%","Increases A. DEF by 10%, 
+decreases A. ATK by 5%."
+"0","176","name","レジストカスタム","Resist Bargain"
+"0","176","description","術防+20%、術攻・物攻-5%","Increases A. DEF by 20%, 
+decreases A. ATK and P. ATK by 5%."
+"0","177","name","ラックカスタム","Luck Bargain"
+"0","177","description","幸運+5
+物攻・術攻・物防・術防-5%","Increases Luck by 5,
+decreases P. ATK, A. ATK, P. DEF, A. DEF by 5%."
+"0","178","name","気絶半減","Half Stunned"
+"0","178","description","気絶半減","Reduces stun time by half"
+"0","179","name","状態変化確率軽減","Reduced probability of state change"
+"0","179","description","状態変化確率軽減","Reduced probability of state change"
+"0","180","name","TPオール１","TP All 1"
+"0","180","description","ＴＰ消費１","All artes costs are reduced to 1 TP"
+"0","181","name","アイテム禁止","Item Ban"
+"0","181","description","アイテム使用禁止","Item use prohibited"
+"0","182","name","ランダム戦闘不能","Random loss of combat"
+"0","182","description","攻撃を受けるとランダムで戦闘不能","Randomly disabled when attacked"
+"0","183","name","エスケープ","Escape"
+"0","183","description","逃走時間短縮","Reduces escape time."
+"0","184","name","グレードアップ１","Grade Up 1"
+"0","184","description","獲得グレードアップ","Increases Grade received"
+"0","185","name","グレードアップ２","Grade Up 2"
+"0","185","description","獲得グレードアップ","Greatly increases Grade received"
+"0","186","name","プロテクトプラス","Protect Plus"
+"0","186","description","鋼体中無敵","Invincible with iron stance"
+"0","187","name","リジェネ","Regeneration"
+"0","187","description","一定時間ごとにHP回復","Restores HP at regular intervals"
+"0","188","name","アンデッド","Undead"
+"0","188","description","一定時間で復活","Revives after a certain amount
+of time has passed"
+"0","189","name","スピードアップ","Speed Up"
+"0","189","description","指定ＨＰで移動速度があがる","Increases movement speed with specified HP."
+"0","190","name","ＯＶＬスピード","Over Limit Speed"
+"0","190","description","ＯＶＬ中に移動速度が上がる","While in Over Limit, increases movement speed."
+"0","191","name","オールブロック","All-Block"
+"0","191","description","攻撃を完全に防ぐ","Completely nullifies attacks."

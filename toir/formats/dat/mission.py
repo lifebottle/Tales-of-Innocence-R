@@ -30,19 +30,17 @@ def extract_mission(l7cdir, outputdir):
 def recompile_mission(l7cdir, csvdir, outputdir):
 #open the csv
     with open(csvdir / 'MissionData.csv', 'r', encoding='utf-8', newline='') as f:
-        missions = read_csv_data(f, 'is', ['Section', 'English'])
+        missions = read_csv_data(f, 'ifs', ['Section', '#', 'Japanese', 'English'])
 
 #open the original dat        
     with open(l7cdir / '_Data/Battle/MissionData.dat', 'rb') as f:
         binary = f.read()
     dat = DatFile(io.BytesIO(binary))
-
-#clearly wrong
-#read the csv and insert in dat
-    section = bytearray(dat.sections[1])
+    section = bytearray(dat)
     for i, mission in missions.items():
-        encode_section_text(section, mission, 4 + i * 0xA8, max_length=0x24, 
-                            id=f'MissionData.csv:{i}')
+        encode_section_text(section, mission[I]['line_1'], 4 + i * 0xA8, max_length=0x24,  id=f'MissionData.csv:{i}.line_1')
+        encode_section_text(section, mission[I]['line_2'], 4 + i * 0xA8+0x41, max_length=0x24,  id=f'MissionData.csv:{i}.line_2')
+        encode_section_text(section, mission[I]['target'], 4 + i * 0xA8+0x82, max_length=0x24,  id=f'MissionData.csv:{i}.target')
     dat.sections[1] = section 
 
 #save the dat in new location

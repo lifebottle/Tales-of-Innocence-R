@@ -1,61 +1,60 @@
-Section,#,Japanese,English,Comments
-0,line_1,制限時間内に勝利しろ,Win the battle within a time limit,
-0,line_2,-1,-1,
-0,target,残り時間,seconds,
-1,line_1,コンボを決めろ,Do a combo,
-1,line_2,-1,-1,
-1,target,最大Hit数,Hits,
-2,line_1,ガードカウンターを決めろ,Perform a Guard Counter,
-2,line_2,-1,-1,
-2,target,成功数,times,
-3,line_1,ジャストガードを決めろ,Just Guard,
-3,line_2,-1,-1,
-3,target,成功数,Number of successes,
-4,line_1,規定の攻撃回数未満で,Win in the battle not exceeding amount,
-4,line_2,勝利しろ,of Hits in total used within the battle,
-4,target,攻撃数,Hits,
-5,line_1,ダウンさせろ,Knock down an enemy,
-5,line_2,-1,-1,
-5,target,ダウン数,times,
-6,line_1,空中にいる敵を倒せ,Defeat amount of enemies while they are mid-air,
-6,line_2,-1,-1,
-6,target,撃破数,Number of kills,
-7,line_1,弱点属性で倒せ,Defeat amount of enemies while hitting,
-7,line_2,-1,their elemental weakness,
-7,target,撃破数,Number of kills,
-8,line_1,詠唱を阻止しろ,Interrupt an enemy from casting artes,
-8,line_2,-1,-1,
-8,target,阻止数,Number of blocks,
-9,line_1,特定術技で倒せ,Defeat amount of enemies with a specific arte,
-9,line_2,-1,-1,
-9,target,撃破数,Number of kills,
-10,line_1,パーティー全員,Win without letting anyone from your party die,
-10,line_2,戦闘不能になるな,-1,
-10,target,-1,-1,
-11,line_1,アイテムを使うな,Win without using items,
-11,line_2,-1,-1,
-11,target,-1,-1,
-12,line_1,秘奥義で倒せ,Perform a Mystic Arte,
-12,line_2,-1,-1,
-12,target,撃破数,Number of kills,
-13,line_1,アイテムを盗め,Steal an item,
-13,line_2,-1,-1,
-13,target,成功数,Number of successes,
-14,line_1,操作キャラクターのみ,Win the battle without using physical artes and spells,
-14,line_2,攻撃、術技禁止,with your controlled character,
-14,target,-1,-1,
-15,line_1,操作キャラクターのみ,Win the battle without using spells with ,
-15,line_2,術技禁止,your controlled character,
-15,target,-1,-1,
-16,line_1,パーティー全員,Win the battle with everyone’s HP at |％ or above,need to be reinserted
-16,line_2,勝利時HPがa％以上,-1,
-16,target,-1,-1,
-17,line_1,レイヴゲージを減らすな,Do not let the Rave Gauge decrease,
-17,line_2,-1,-1,
-17,target,-1,-1,
-18,line_1,操作キャラクターのみ,Win with no damage dealt to your ,
-18,line_2,ノーダメージで勝利しろ,controlled character,
-18,target,-1,-1,
-19,line_1,パーティー全員,Win with no damage dealt to your party,
-19,line_2,ノーダメージで勝利しろ,-1,
-19,target,-1,-1,
+"Section 0","# line_1","Japanese 制限時間内に勝利しろ","English Win the battle within a time limit","Comments "
+"0","line_2","-1","-1",""
+"0","target","残り時間","seconds",""
+"1","line_1","コンボを決めろ","Do a combo",""
+"1","line_2","-1","-1",""
+"1","target","最大Hit数","Hits",""
+"2","line_1","ガードカウンターを決めろ","Perform a Guard Counter",""
+"2","line_2","-1","-1",""
+"2","target","成功数","times",""
+"3","line_1","ジャストガードを決めろ","Just Guard",""
+"3","line_2","-1","-1",""
+"3","target","成功数","Number of successes",""
+"4","line_1","規定の攻撃回数未満で","Win in the battle not exceeding amount",""
+"4","line_2","勝利しろ","of Hits in total used within the battle",""
+"4","target","攻撃数","Hits",""
+"5","line_1","ダウンさせろ","Knock down an enemy",""
+"5","line_2","-1","-1",""
+"5","target","ダウン数","times",""
+"6","line_1","空中にいる敵を倒せ","Defeat amount of enemies while they are mid-air",""
+"6","line_2","-1","-1",""
+"6","target","撃破数","Number of kills",""
+"7","line_1","弱点属性で倒せ","Defeat amount of enemies while hitting",""
+"7","line_2","-1","their elemental weakness",""
+"7","target","撃破数","Number of kills",""
+"8","line_1","詠唱を阻止しろ","Interrupt an enemy from casting artes",""
+"8","line_2","-1","-1",""
+"8","target","阻止数","Number of blocks",""
+"9","line_1","特定術技で倒せ","Defeat amount of enemies with a specific arte",""
+"9","line_2","-1","-1",""
+"9","target","撃破数","Number of kills",""
+"10","line_1","パーティー全員","Win without letting anyone from your party die",""
+"10","line_2","戦闘不能になるな","-1",""
+"10","target","-1","-1",""
+"11","line_1","アイテムを使うな","Win without using items",""
+"11","line_2","-1","-1",""
+"11","target","-1","-1",""
+"12","line_1","秘奥義で倒せ","Perform a Mystic Arte",""
+"12","line_2","-1","-1",""
+"12","target","撃破数","Number of kills",""
+"13","line_1","アイテムを盗め","Steal an item",""
+"13","line_2","-1","-1",""
+"13","target","成功数","Number of successes",""
+"14","line_1","操作キャラクターのみ","Win the battle without using physical artes and spells",""
+"14","line_2","攻撃、術技禁止","with your controlled character",""
+"14","target","-1","-1",""
+"15","line_1","操作キャラクターのみ","Win the battle without using spells with ",""
+"15","line_2","術技禁止","your controlled character",""
+"15","target","-1","-1",""
+"16","line_1","パーティー全員","Win the battle with everyone’s HP at |％ or above","need to be reinserted"
+"16","line_2","勝利時HPがa％以上","-1",""
+"16","target","-1","-1",""
+"17","line_1","レイヴゲージを減らすな","Do not let the Rave Gauge decrease",""
+"17","line_2","-1","-1",""
+"17","target","-1","-1",""
+"18","line_1","操作キャラクターのみ","Win with no damage dealt to your ",""
+"18","line_2","ノーダメージで勝利しろ","controlled character",""
+"18","target","-1","-1",""
+"19","line_1","パーティー全員","Win with no damage dealt to your party",""
+"19","line_2","ノーダメージで勝利しろ","-1",""
+"19","target","-1","-1",""
