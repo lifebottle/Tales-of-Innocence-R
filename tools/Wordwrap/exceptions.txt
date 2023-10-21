@@ -1,0 +1,17 @@
+{blue};00
+{icon:0x0006};40
+{icon:0x0206};40
+{icon:0x0306};40
+{icon:0x0606};40
+{icon:0x061A};40
+{icon:0x0706};40
+{item:0x0245};80
+{item:0x0246};80
+{item:0x0247};80
+{item:0x0248};80
+{item:0x0249};80
+{number:0x0046};40
+{number:0x0047};310
+{number:0x0048};310
+{triverse};00
+{white};00
