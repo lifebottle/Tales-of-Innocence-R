@@ -2,7 +2,7 @@
 
 An attempt to create an English patch for Tales of Innocence R.
 
-![ToIR](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/toir.png)
+![ToIR](tools/assets/toir.png)
 
 Discord: https://discord.gg/tmDgBDNPpE  
 
@@ -12,7 +12,7 @@ Spreadsheet (Outdated): https://docs.google.com/spreadsheets/d/1X_-WfAYM5J2JL2uD
 
 ## Hacker Note 1
 
-![ToIR](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/decrypt_toir.gif)  
+![ToIR](tools/assets/decrypt_toir.gif)  
 
 1. Get `pkg2zip` https://github.com/mmozeiko/pkg2zip 
 2. Also, get `psvpfstools` https://github.com/motoharu-gosuto/psvpfstools
@@ -27,7 +27,7 @@ Spreadsheet (Outdated): https://docs.google.com/spreadsheets/d/1X_-WfAYM5J2JL2uD
 11. Install `FAGDec.vpk` from Vita Shell.  A new bubble should be on the home screen.
 12. Select the `EBOOT.BIN` file to decrypt and choose `START DECRYPT(ELF)`
 
-![L7CA_header](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/L7CA_decrypted.png)
+![L7CA_header](tools/assets/L7CA_decrypted.png)
 
 
 ## Hacker Note 2 (Outdated)
@@ -79,11 +79,11 @@ patch-dir
 ```
 
 ## Hacker Note #5
-![movie_subs](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/moviecaptions.png)  
+![movie_subs](tools/assets/moviecaptions.png)  
 1. Movie subs can be saved to .SRT format
 
 ## Hacker Note #6
-![kuriimu2](https://raw.githubusercontent.com/pnvnd/Tales-of-Innocence-R/main/kuriimu2_settings.png)  
+![kuriimu2](tools/assets/kuriimu2_settings.png)  
 1. Batch inject settings to create patch  
 
 ## Credits
