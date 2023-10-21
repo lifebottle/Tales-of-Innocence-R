@@ -13,6 +13,11 @@ def read_dat_header(binary):
     first_offset, = struct.unpack_from('<L', binary, 0x10)
     return binary[:first_offset]
 
+#def read_dat_header(binary):
+#    first_offset, = struct.unpack_from('<L', binary, 0x00)
+#    return binary[:first_offset]
+
+
 def append_section(dest, section):
     if len(dest) % 16 != 0:
         dest += bytes(16 - len(dest) % 16)
