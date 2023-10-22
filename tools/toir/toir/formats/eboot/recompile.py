@@ -75,14 +75,14 @@ def recompile_eboot(ebootpath, csvpath, outputdir):
         length = _decode_length(eboot, value)
         slots.add(Slot(value, length))
 
-    f = open('pointers.txt', 'w', encoding='utf-8')
+    # f = open('pointers.txt', 'w', encoding='utf-8')
 
     # Allocate slots for translations
     allocated = {}
     for i, pointer in enumerate(pointers):
         translation = translations[pointer.value]
         if translation in allocated:
-            f.write(f'{allocated[translation]:08X} -> {translation}\n')
+            # f.write(f'{allocated[translation]:08X} -> {translation}\n')
             pointers[i] = Pointer(pointer.type, pointer.where, allocated[translation])
             continue
 
@@ -100,7 +100,7 @@ def recompile_eboot(ebootpath, csvpath, outputdir):
         allocated[translation] = slots[j].address
         #slot = Slot(slots[j].address + length, slots[j].size - length)
 
-        f.write(f'{slots[j].address:08X} [{pointers[i].value:08X}] -> {translation}\n')
+        # f.write(f'{slots[j].address:08X} [{pointers[i].value:08X}] -> {translation}\n')
 
         del slots[j]
         #if slot.size > 0:
@@ -110,11 +110,11 @@ def recompile_eboot(ebootpath, csvpath, outputdir):
     # Rewrite pointers
     for pointer in pointers:
         if pointer.type == 'dir':
-            f.write(f'{pointer.value:08X}: {pointer.where:08X}\n')
+            # f.write(f'{pointer.value:08X}: {pointer.where:08X}\n')
             _replace_direct_pointer(eboot, pointer)
         elif pointer.type == 'emb':
             where = ','.join(f'({a[0]:08X}, {a[1]:08X})' for a in pointer.where)
-            f.write(f'{pointer.value:08X}: {where}\n')
+            # f.write(f'{pointer.value:08X}: {where}\n')
             _replace_embedded_pointer(eboot, pointer)
 
     with open(outputdir / 'eboot.bin', 'wb') as f:
