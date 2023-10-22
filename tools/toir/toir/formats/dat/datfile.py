@@ -1,7 +1,11 @@
 import struct
-from collections import namedtuple
+from dataclasses import dataclass
 
-DatSection = namedtuple('DatSection', ['offset', 'size'])
+@dataclass
+class DatSection:
+    offset: int
+    size: int
+    blob: bytes
 
 class DatFile:
     def __init__(self, f):
@@ -13,7 +17,7 @@ class DatFile:
         self.sections = []
         for i in range(self.count):
             offset, size = struct.unpack_from('<LL', header, i * 8)
-            self.sections.append(DatSection(offset, size))
+            self.sections.append(DatSection(offset, size, None))
             # self._f.seek(offset)
             # self.sections.append(self._f.read(size))
 
@@ -29,14 +33,16 @@ class DatFile:
         struct.pack_into('<L', header, 0, len(self.sections))
         offset = header_len
         for i, section in enumerate(self.sections):
-            size = (len(section) + 15) & 0xfffffff0
-            struct.pack_into('<LL', header, 0x10 + i * 8, offset, len(section))
+            if section.blob is None:
+                section.blob = self.read_section(i)
+            size = (len(section.blob) + 15) & 0xfffffff0
+            struct.pack_into('<LL', header, 0x10 + i * 8, offset, len(section.blob))
             offset += size
         f.write(header)
         for section in self.sections:
-            f.write(section)
-            if len(section) % 16 != 0:
-                f.write(bytes(16 - (len(section) % 16)))
+            f.write(section.blob)
+            if len(section.blob) % 16 != 0:
+                f.write(bytes(16 - (len(section.blob) % 16)))
 
     def save_to_file(self, path):
         with open(path, 'wb') as f:

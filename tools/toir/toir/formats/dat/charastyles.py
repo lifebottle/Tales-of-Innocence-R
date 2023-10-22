@@ -42,10 +42,10 @@ def recompile_chara_styles(l7cdir, csvdir, outputdir):
     dat = DatFile(io.BytesIO(binary))
         
 #read the csv and insert in dat        
-    section = bytearray(dat.sections[1])
+    section = bytearray(dat.read_section(1))
     for i, style in styles.items():
         encode_section_text(section, style, 4 + 0x8A * i, max_length=0x8A, id=f'CharaStyleDataPack.csv:{i}')
-    dat.sections[1] = section    
+    dat.sections[1].blob = section    
  
  #save the dat                               
     dat.save_to_file(outputdir / '_Data/System/CharaStyleDataPack.dat')

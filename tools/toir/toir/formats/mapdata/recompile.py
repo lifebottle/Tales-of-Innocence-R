@@ -39,14 +39,14 @@ def recompile_map_data(l7cdir, csvdir, outputdir):
             section = io.BytesIO(dat.read_section(0))
             subdat = DatFile(section)
             for section_idx, lines in sections.items():
-                decompiled = Script.decompile(subdat.sections[section_idx])
+                decompiled = Script.decompile(subdat.read_section(section_idx))
                 decompiled.replace_texts(lines)
-                subdat.sections[section_idx] = decompiled.recompile()
+                subdat.sections[section_idx].blob = decompiled.recompile()
             new_subdat = io.BytesIO()
             subdat.save(new_subdat)
-            dat.sections[0] = new_subdat.getvalue()
+            dat.sections[0].blob = new_subdat.getvalue()
 
-        datadir = (outputdir / f'_Data/Field/MapData/{path}').parent
-        datadir.mkdir(parents=True, exist_ok=True)
-        with open(outputdir / f'_Data/Field/MapData/{path}', 'wb') as f:
-            dat.save(f)
+            datadir = (outputdir / f'_Data/Field/MapData/{path}').parent
+            datadir.mkdir(parents=True, exist_ok=True)
+            with open(outputdir / f'_Data/Field/MapData/{path}', 'wb') as f:
+                dat.save(f)

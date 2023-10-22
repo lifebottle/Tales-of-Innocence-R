@@ -44,15 +44,15 @@ def recompile_enemies(l7cdir, csvdir, outputdir):
     dat = DatFile(io.BytesIO(binary))
 
 #read the csv and insert in dat
-    section = bytearray(dat.sections[1])
+    section = bytearray(dat.read_section(1))
     for i, arte in enemies_artes.items():
         encode_section_text(section, arte, 4 + 0x40 * i, max_length=0x24, id=f'EnemyParam_Artes.csv:{i}')
-    dat.sections[1] = section 
+    dat.sections[1].blob = section 
 
-    section = bytearray(dat.sections[2])
+    section = bytearray(dat.read_section(2))
     for i, name in enemies_names.items():
         encode_section_text(section, name, 8 + 0x138 * i, max_length=0x2A, id=f'EnemyParam_Names.csv:{i}')
-    dat.sections[2] = section    
+    dat.sections[2].blob = section    
 
 #save the dat in new location
     outputfile = outputdir / '_Data/System/EnemyParam.dat'

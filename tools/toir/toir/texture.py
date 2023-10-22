@@ -96,7 +96,7 @@ def recompile_textures(l7cdir, texdir, outputdir):
                 for file in dir.glob('*.png'):
                     index = int(file.stem)
                     texture = open(file, 'rb').read()
-                    dat.sections[index] = recompile_texture(texture)
+                    dat.sections[index].blob = recompile_texture(texture)
                     (outputdir / Path(tex_path)).mkdir(parents=True, exist_ok=True)
                     print(outputdir / Path(tex_path) / tex_file)
                     with open(outputdir / Path(tex_path) / tex_file, 'wb') as f2:

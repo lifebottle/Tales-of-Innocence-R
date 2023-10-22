@@ -114,35 +114,35 @@ def recompile_pack_field(l7cdir, csvdir, outputdir):
     dat = DatFile(io.BytesIO(binary))
 
 #read the csv and insert in dat
-    section = bytearray(dat.sections[30])
+    section = bytearray(dat.read_section(30))
     for i, name in chara_names.items():
         encode_section_text(section, name, 2 + i * 0x24, max_length=0x20, id=f'CharaNames.csv:{i}')
-    dat.sections[30] = section
+    dat.sections[30].blob = section
     
-    section = bytearray(dat.sections[32])
+    section = bytearray(dat.read_section(32))
     for i, location in locations.items():
         encode_section_text(section, location, 2 + i * 0x30, max_length=0x28, id=f'Locations.csv:{i}')
-    dat.sections[32] = section
+    dat.sections[32].blob = section
     
-    section = bytearray(dat.sections[33])
+    section = bytearray(dat.read_section(33))
     for i, location2 in locations2.items():
         encode_section_text(section, location2, 2 + i * 0x30, max_length=0x30, id=f'Locations2.csv:{i}')
-    dat.sections[33] = section
+    dat.sections[33].blob = section
     
-    section = bytearray(dat.sections[34])
+    section = bytearray(dat.read_section(34))
     for i, location3 in locations3.items():
         encode_section_text(section, location3, 2 + i * 0x30, max_length=0x28, id=f'Locations3.csv:{i}')
-    dat.sections[34] = section
+    dat.sections[34].blob = section
     
-    section = bytearray(dat.sections[36])
+    section = bytearray(dat.read_section(36))
     for i, movie in movies.items():
         encode_section_text(section, movie, 2 + i * 0x50, max_length=0x28, id=f'Movie.csv:{i}')
-    dat.sections[36] = section
+    dat.sections[36].blob = section
     
-    section = bytearray(dat.sections[37])
+    section = bytearray(dat.read_section(37))
     for i, skit in skit_names.items():
         encode_section_text(section, skit, i * 0x74 + 0x14, max_length=0x36, id=f'SkitNames.csv:{i}')
-    dat.sections[37] = section
+    dat.sections[37].blob = section
     
 #save the dat in new location and align 16 for some reason 
     outputfile = outputdir / '_Data/Field/PackFieldData.dat'
