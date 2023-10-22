@@ -1,5 +1,6 @@
 from collections import namedtuple
 from itertools import groupby, zip_longest
+from pathlib import Path
 import re, struct, os, sys
 
 rTIME_STAMP = r"(\d+):(\d+):(\d+),(\d+)"
@@ -53,8 +54,11 @@ def get_subs(filename:str):
     
     return subs
 
-def insert_srt(srtdir, outdir):
-    dir = srtdir / "Movie/"
+def insert_srt(srtdir: Path, outdir: Path) -> None:
+    dir = srtdir / "Movie"
+    odir = outdir / "_Data/Movie"
+    odir.mkdir(parents=True, exist_ok=True)
+    
     print(dir)
     for file in dir.glob('*.srt'):
         subs = get_subs(file)
