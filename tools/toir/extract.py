@@ -7,7 +7,7 @@ from pathlib import Path
 @click.argument('destination', type=click.Path(file_okay=False))
 def extract(source, destination):
     source = Path(source)
-    destination = Path(destination);
+    destination = Path(destination)
 
     l7cdir = source / 'toidata_release'
     if not l7cdir.exists() or not l7cdir.is_dir():
@@ -20,12 +20,12 @@ def extract(source, destination):
 
     destination.mkdir(parents=True, exist_ok=True)
 
-    #toir.extract_eboot(ebootpath, destination)
+    toir.extract_eboot(ebootpath, destination)
     toir.extract_dat(l7cdir, destination)
-    #toir.extract_map_data(l7cdir, destination)
-    #toir.extract_script(l7cdir, destination)
-    #toir.extract_skits(l7cdir, destination)
-    #toir.extract_textures(l7cdir, destination)
+    toir.extract_map_data(l7cdir, destination)
+    toir.extract_script(l7cdir, destination)
+    toir.extract_skits(l7cdir, destination)
+    toir.extract_textures(l7cdir, destination)
 
 if __name__ == '__main__':
     extract()

@@ -63,7 +63,7 @@ def extract_dats(l7cdir):
     return locations
 
 def replace_speakers(l7cdir, script):
-    names = read_pack_field(l7cdir)
+    names = read_pack_field(l7cdir)[0]
     for _, texts in script.items():
         for i, text in texts.items():
             for id, line in text.items():

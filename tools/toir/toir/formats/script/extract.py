@@ -42,7 +42,7 @@ def write_to_csv(script, outputdir):
                 })
 
 def replace_speakers(l7cdir, script):
-    names = read_pack_field(l7cdir)
+    names = read_pack_field(l7cdir)[0]
     for _, texts in script.items():
         for id, line in texts.items():
             if line.speaker:

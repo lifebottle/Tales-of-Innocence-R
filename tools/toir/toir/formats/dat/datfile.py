@@ -13,14 +13,14 @@ class DatFile:
         self.sections = []
         for i in range(self.count):
             offset, size = struct.unpack_from('<LL', header, i * 8)
-            #self.sections.append(DatSection(offset, size))
-            self._f.seek(offset)
-            self.sections.append(self._f.read(size))
+            self.sections.append(DatSection(offset, size))
+            # self._f.seek(offset)
+            # self.sections.append(self._f.read(size))
 
     def read_section(self, i):
-        #self._f.seek(self.sections[i].offset)
-        #return self._f.read(self.sections[i].size)
-        return self.sections[i]
+        self._f.seek(self.sections[i].offset)
+        return self._f.read(self.sections[i].size)
+        # return self.sections[i]
 
     def save(self, f):
         header_len = 8 * len(self.sections) + 16

@@ -61,7 +61,7 @@ def extract_textures(l7cdir, outputdir):
         with open(l7cdir / f'{tex_path}/{tex_file}', 'rb') as f:
             dat = DatFile(f)
             for i, section in enumerate(dat.sections):
-                export_texture(section, texoutdir / f'{i:04}.png')
+                export_texture(dat.read_section(i), texoutdir / f'{i:04}.png')
 
 def recompile_texture(texture):
     reader = png.Reader(bytes=texture)
