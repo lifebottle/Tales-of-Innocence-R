@@ -18,10 +18,10 @@ _RECOMPILERS = [
     recompile_enemies, #done
     recompile_chara_ability,#done
     recompile_succession #done with ethanol help
-    #recompile_operations, #wip
-    #recompile_shop_names #wip
-    #recompile_bond #wip
-    #recompile_mission  #wip 
+    #recompile_operations, #wip hex edited atm
+    #recompile_shop_names #wip hex edited atm
+    #recompile_bond #wip this is done with stormyu code atm
+    #recompile_mission  #wip hex edited atm
 ]
 
 def recompile_dat(l7cdir, csvdir, outputdir):
