@@ -10,6 +10,7 @@ from .shops import recompile_shop_names
 from .operation import recompile_operations
 from .succession import recompile_succession
 from .battlebook import recompile_battlebook
+from .storybook import recompile_storybook
 
 _RECOMPILERS = [
     recompile_items, #done
@@ -19,11 +20,13 @@ _RECOMPILERS = [
     recompile_enemies, #done
     recompile_chara_ability,#done
     recompile_succession, #done with ethanol help
-    recompile_battlebook #done with Stewie's help
+    recompile_battlebook, #done with Stewie's help
+    recompile_storybook #done copied stewie's code
     #recompile_operations, #wip hex edited atm
     #recompile_shop_names #wip hex edited atm
     #recompile_bond #wip this is done with stormyu code atm
     #recompile_mission  #wip hex edited atm
+    #recompile_tutorial #not started donw with stormyu code atm
 ]
 
 def recompile_dat(l7cdir, csvdir, outputdir):
