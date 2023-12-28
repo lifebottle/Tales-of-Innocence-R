@@ -9,6 +9,7 @@ from .kizuna import recompile_bond
 from .shops import recompile_shop_names
 from .operation import recompile_operations
 from .succession import recompile_succession
+from .battlebook import recompile_battlebook
 
 _RECOMPILERS = [
     recompile_items, #done
@@ -17,7 +18,8 @@ _RECOMPILERS = [
     recompile_chara_styles, #done
     recompile_enemies, #done
     recompile_chara_ability,#done
-    recompile_succession #done with ethanol help
+    recompile_succession, #done with ethanol help
+    recompile_battlebook #done with Stewie's help
     #recompile_operations, #wip hex edited atm
     #recompile_shop_names #wip hex edited atm
     #recompile_bond #wip this is done with stormyu code atm
