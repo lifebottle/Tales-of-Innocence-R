@@ -86,11 +86,9 @@ def text_to_bytes(text:str):
 
         # Actual text
         elif t == "\n":
-            output += b"\x0A"
+            output += b"\x0D\x0A"
 
-        elif t == "\r":
-            output += b"\x0D"
-        else:
+        elif t != "\r":
             for c in t:
                 output += c.encode("utf-8")
        
