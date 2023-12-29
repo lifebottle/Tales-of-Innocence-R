@@ -30,7 +30,7 @@ curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG
 
 ::These are still hex edited so we need to move the binary from translated to patched
 ::Copy "2_translated/Battle/MissionData.dat" "3_patched/toidata_release/_Data/Battle/MissionData.dat"
-Copy "2_translated/System/OperationDataPack.dat" "3_patched/toidata_release/_Data/System/OperationDataPack.dat"
+::Copy "2_translated/System/OperationDataPack.dat" "3_patched/toidata_release/_Data/System/OperationDataPack.dat"
 
 ::patched and move the file from Inno-remaining repo to the this repo
 ::pushd "..\Inno-remaining\Mine\"

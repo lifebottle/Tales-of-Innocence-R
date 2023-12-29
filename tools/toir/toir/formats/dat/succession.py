@@ -67,7 +67,7 @@ def insert_artes(binary, artes):
         if i in artes:
             write_artes(i, sections[i], artes[i])#if you remove the for loop put sections[0]
             newbinary = sections[i]#remove the append or else append end of file
-            print(artes)
+
     assert(len(binary) == len(newbinary))
     return newbinary
 

@@ -79,7 +79,7 @@ def insert_artes(binary, artes):
         if i in artes:
             write_artes(i, sections[i], artes[i])
             newbinary = append_section(newbinary, sections[i])
-            print(artes)
+ 
     assert(len(binary) == len(newbinary))
     return newbinary
 

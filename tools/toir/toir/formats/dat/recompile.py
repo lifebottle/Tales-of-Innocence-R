@@ -13,6 +13,7 @@ from .battlebook import recompile_battlebook
 from .storybook import recompile_storybook
 from .tutorial import recompile_tutorial
 
+
 _RECOMPILERS = [
     recompile_items, #done
     recompile_artes, #done
@@ -24,7 +25,7 @@ _RECOMPILERS = [
     recompile_battlebook, #done with Stewie's help
     recompile_storybook, #done copied stewie's code
     recompile_tutorial, #done stewie
-    #recompile_operations, #wip hex edited atm
+    recompile_operations, #done with Stewie's help
     recompile_shop_names, #wip hex edited atm
     recompile_bond, #copied stewie's code
     recompile_mission  #wip hex edited atm
