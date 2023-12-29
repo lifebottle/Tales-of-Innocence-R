@@ -6,6 +6,10 @@ import struct
 import io
 from ...csvhelper import read_csv_data
 import csv
+from ...lib_lifebottle import *
+import struct
+import pandas as pd
+import shutil
 
 def _extract_mission(f):
     binary = f.read()
@@ -25,26 +29,72 @@ def extract_mission(l7cdir, outputdir):
     with open(l7cdir / '_Data/Battle/MissionData.dat', 'rb') as f:
         mission = _extract_mission(f)
     with open(outputdir / 'MissionData.csv', 'w', encoding='utf-8', newline='') as f:
-        write_csv_data(f, 'ifs', ['Section', '#', 'Japanese'], mission)
+        write_csv_data(f, 'ifs', ['Section', 'Type', 'Japanese'], mission)
+
+#New Code inspired by Stewie
+
+#New insertion with stewies method
+def read_mission_csv(path:str):
+  columns = ['StructId', 'Type', 'Jap', 'Eng']
+  df_translations = pd.read_csv(path, delimiter=',', encoding='utf-8')
+  df_translations.columns = columns
+  df_translations['StructId'] = df_translations['StructId'].astype(int)
+  df_translations['Eng'] = df_translations['Eng'].str.replace('<', '{')
+  df_translations['Eng'] = df_translations['Eng'].str.replace('>', '}')
+  df_translations['Eng'].fillna('', inplace=True)
+  return df_translations
+  
+LINE_MAX = 0x41
+TARGET_MAX = 0x22
+  
+def insert_mission(file_path:str, df_translations):
+  
+
+  with open(file_path, 'rb+') as f:
+      
+    #Read nb of structs
+    nb_structs = read_u32(f)
+    
+    #i = 0
+    f.seek(0x4)
+    for i in range(nb_structs):
+      #f.seek(0x4)
+      #f.read(4)
+      df_struct = df_translations[df_translations['StructId'] == i]
+      line_1_row = df_struct[df_struct['Type'] == 'line_1']
+      line_1_english = line_1_row['Eng'].tolist()[0]
+      line_1_bytes = text_to_bytes(text=line_1_english)
+      f.write(line_1_bytes) 
+      #Pad with 00 until Line 1 max size
+      rest = LINE_MAX - len(line_1_bytes)
+      f.write(b'\x00' * rest)  
+
+      line_2_row = df_struct[df_struct['Type'] == 'line_2']
+      line_2_english = line_2_row['Eng'].tolist()[0]
+      line_2_bytes = text_to_bytes(text=line_2_english)
+      f.write(line_2_bytes) 
+      #Pad with 00 until Line 2 max size
+      rest = LINE_MAX - len(line_2_bytes)
+      f.write(b'\x00' * rest)      
+         
+      target_row = df_struct[df_struct['Type'] == 'target']
+      target_english = target_row['Eng'].tolist()[0]
+      target_bytes = text_to_bytes(text=target_english)
+      f.write(target_bytes) 
+      #Pad with 00 until Target max size
+      rest = TARGET_MAX - len(target_bytes)
+      f.write(b'\x00' * rest)  
+      f.read(0x4)
+      
+      
+         
 
 def recompile_mission(l7cdir, csvdir, outputdir):
-#open the csv
-    with open(csvdir / 'MissionData.csv', 'r', encoding='utf-8', newline='') as f:
-        missions = read_csv_data(f, 'ifs', ['Section', '#', 'Japanese', 'English'])
+    df_translations = read_mission_csv(csvdir / 'MissionData.csv')
+    end = '_Data/Battle/MissionData.dat'
+    original_path = l7cdir / end
+    final_path = outputdir / end
+    final_path.parent.mkdir(parents=True, exist_ok=True)
 
-#open the original dat        
-    with open(l7cdir / '_Data/Battle/MissionData.dat', 'rb') as f:
-        binary = f.read()
-    dat = DatFile(io.BytesIO(binary))
-    section = bytearray(dat)
-    for i, mission in missions.items():
-        encode_section_text(section, mission[I]['line_1'], 4 + i * 0xA8, max_length=0x24,  id=f'MissionData.csv:{i}.line_1')
-        encode_section_text(section, mission[I]['line_2'], 4 + i * 0xA8+0x41, max_length=0x24,  id=f'MissionData.csv:{i}.line_2')
-        encode_section_text(section, mission[I]['target'], 4 + i * 0xA8+0x82, max_length=0x24,  id=f'MissionData.csv:{i}.target')
-    dat.sections[1] = section 
-
-#save the dat in new location
-    outputfile = outputdir / '_Data/Battle/test/MissionData.dat'
-    outputfile.parent.mkdir(parents=True, exist_ok=True)
-    with open(outputfile, 'wb') as f:
-        dat.save(f)
+    shutil.copy(original_path, final_path)
+    insert_mission(final_path, df_translations)

@@ -26,8 +26,8 @@ _RECOMPILERS = [
     recompile_tutorial, #done stewie
     #recompile_operations, #wip hex edited atm
     recompile_shop_names, #wip hex edited atm
-    recompile_bond #copied stewie's code
-    #recompile_mission  #wip hex edited atm
+    recompile_bond, #copied stewie's code
+    recompile_mission  #wip hex edited atm
 ]
 
 def recompile_dat(l7cdir, csvdir, outputdir):

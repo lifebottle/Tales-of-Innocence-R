@@ -23,13 +23,13 @@ curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=StrategyMenu&range=A:E" > 2_translated/Operation.csv
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=CharaAbility&range=A:E" > 2_translated/CharaAbility.csv
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Newgame&range=A:E" > 2_translated/SuccessionData.csv
-curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Mission&range=A:E" > 2_translated/MissionData.csv
+curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Mission&range=A:D" > 2_translated/MissionData.csv
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Battlebook&range=A:E" > 2_translated/Battlebook.csv
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Synopsis&range=A:E" > 2_translated/Storybook.csv
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=TutorialGame&range=A:D" > 2_translated/TutorialGame.csv
 
 ::These are still hex edited so we need to move the binary from translated to patched
-Copy "2_translated/Battle/MissionData.dat" "3_patched/toidata_release/_Data/Battle/MissionData.dat"
+::Copy "2_translated/Battle/MissionData.dat" "3_patched/toidata_release/_Data/Battle/MissionData.dat"
 Copy "2_translated/System/OperationDataPack.dat" "3_patched/toidata_release/_Data/System/OperationDataPack.dat"
 
 ::patched and move the file from Inno-remaining repo to the this repo
