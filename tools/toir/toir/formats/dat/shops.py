@@ -4,6 +4,13 @@ from ...csvhelper import write_csv_data, read_csv_data, read_csv_file
 import struct
 import io
 from .sections import *
+from ...lib_lifebottle import *
+import csv
+import pandas as pd
+import shutil
+
+#need to adjust them
+MAX_SIZE = 0x24
 
 
 def _extract_shops(f):
@@ -20,48 +27,60 @@ def extract_shops(l7cdir, outputdir):
     with open(outputdir / 'ShopDataPack.csv', 'w', encoding='utf-8', newline='') as f:
         write_csv_data(f, 'is', ['index', 'japanese'], shops)
 
+#Insertion with Stewie's method
+#need to remove type and linenumber in csv reader
+def read_shopnames_csv(path:str):
+  columns = ['StructId','Jap', 'Eng']
+  df_translations = pd.read_csv(path, delimiter=',', encoding='utf-8')
+  df_translations.columns = columns
+  df_translations['StructId'] = df_translations['StructId'].astype(int)
+  df_translations['Eng'] = df_translations['Eng'].str.replace('<', '{')
+  df_translations['Eng'] = df_translations['Eng'].str.replace('>', '}')
+  df_translations['Eng'].fillna('', inplace=True)
+  return df_translations
 
-#ef recompile_shop_names(l7cdir, csvdir, outputdir):
-#   with open(csvdir / 'ShopNames.csv', 'r', encoding='utf-8', newline='') as f:
-#       shops = read_csv_data(f, 'is', ['#', 'English'])
-#      
-#   with open(l7cdir / '_Data/System/ShopDataPack.dat', 'rb') as f:
-#       binary = f.read()
-#   dat = DatFile(io.BytesIO(binary))
-#       
-#   section = bytearray(dat.sections[1])
-#   for i, shop in shops.items():
-#       encode_section_text(section, shop, 4, max_length=0x2C, id=f'ShopNames.csv:{i}')
-#   section = bytearray(dat.sections[1])    
-##save the dat                               
-#   dat.save_to_file(outputdir / '_Data/System/ShopDataPack.dat')
+def insert_shopname(file_path:str, df_translations):
+  
 
-#################################################
-def read_shops_csv(csvdir):
-    with open(csvdir / 'ShopNames.csv', 'r', encoding='utf-8', newline='') as f:
-        shops = read_csv_data(f, 'is', ['#', 'English'])
-    return shops
+  with open(file_path, 'rb+') as f:
+      
+    #Read nb of structs basicly the first u32 of the file
+    nb_structs = read_u32(f)
+    #intialize the two list for offset and size
+    struct_offsets = [] 
+    struct_infos = []
 
-def write_shops(section, shops):
-    #count, = struct.unpack_from('<L', section, 0)
-    for i in range(36):
-        encode_section_text(section, shops, 4, max_length=0x2C, id=f'ShopNames.csv:{i}')
+    #Store all the strucs offsets in a list
+    f.seek(0x10)
+    for _ in range(nb_structs):
+      offset = read_u32(f)
+      struct_offsets.append(offset)
+      f.read(4)
 
-def insert_shops(binary, shops):
-    newbinary = read_dat_header(binary)
-    sections = [bytearray(section) for section in read_sections(binary)]
-    for i in range(0, len(sections)):
-        write_shops(sections, shops[i])
-        newbinary = append_section(newbinary, sections[i])
-    assert(len(binary) == len(newbinary))
-    return newbinary
+    for struct_id, struct_offset in enumerate(struct_offsets):
+      
+      f.seek(struct_offset)
+      f.read(4)
+      df_struct = df_translations[df_translations['StructId'] == struct_id]
+
+      #Write Shop Name
+      shopname_english = df_struct['Eng'].tolist()[0]
+      shop_bytes = text_to_bytes(text=shopname_english)
+      f.write(shop_bytes)
+
+      #Pad with 00 until shop max size
+      rest = MAX_SIZE - len(shop_bytes)
+      f.write(b'\x00' * rest)
+
+     
 
 def recompile_shop_names(l7cdir, csvdir, outputdir):
-    shops = read_shops_csv(csvdir)
-    with open(l7cdir / '_Data/System/ShopDataPack.dat', 'rb') as f:
-        binary = f.read()
-    binary = insert_shops(binary, shops)
-    outputdir = outputdir / '_Data/System'
-    outputdir.mkdir(parents=True, exist_ok=True)
-    with open(outputdir / 'ShopDataPack.dat', 'wb') as f:
-        f.write(binary)
+    df_translations = read_shopnames_csv(csvdir / 'ShopNames.csv')
+    end = '_Data/System/ShopDataPack.dat'
+    original_path = l7cdir / end
+    final_path = outputdir / end
+    final_path.parent.mkdir(parents=True, exist_ok=True)
+
+    shutil.copy(original_path, final_path)
+    insert_shopname(final_path, df_translations)
+    
