@@ -26,6 +26,7 @@ curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Mission&range=A:E" > 2_translated/MissionData.csv
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Battlebook&range=A:E" > 2_translated/Battlebook.csv
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Synopsis&range=A:E" > 2_translated/Storybook.csv
+curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=TutorialGame&range=A:D" > 2_translated/TutorialGame.csv
 
 ::These are still hex edited so we need to move the binary from translated to patched
 Copy "2_translated/Battle/MissionData.dat" "3_patched/toidata_release/_Data/Battle/MissionData.dat"
@@ -38,7 +39,7 @@ CALL insert.bat
 popd
 :: I don't think we need the field file or battlebook anymore
 ::Copy "..\Inno-remaining\Mine\Data\Archives\Field\New" 3_patched\toidata_release\_Data\Field
-Copy "..\Inno-remaining\Mine\Data\Archives\Battle\New\TutorialData.dat" 3_patched\toidata_release\_Data\Battle
+::Copy "..\Inno-remaining\Mine\Data\Archives\Battle\New\TutorialData.dat" 3_patched\toidata_release\_Data\Battle
 ::Copy "..\Inno-remaining\Mine\Data\Archives\System\New\BattleBookDataPack.dat" 3_patched\toidata_release\_Data\System
 Copy "..\Inno-remaining\Mine\Data\Archives\System\New\KizunaDataPack.dat" 3_patched\toidata_release\_Data\System
 ::Copy "..\Inno-remaining\Mine\Data\Archives\System\New\StoryBookDataPack.dat" 3_patched\toidata_release\_Data\System
