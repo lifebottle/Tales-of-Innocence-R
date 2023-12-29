@@ -30,18 +30,17 @@ curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG
 
 ::These are still hex edited so we need to move the binary from translated to patched
 Copy "2_translated/Battle/MissionData.dat" "3_patched/toidata_release/_Data/Battle/MissionData.dat"
-Copy "2_translated/System/ShopDataPack.dat.dat" "3_patched/toidata_release/_Data/System/ShopDataPack.dat"
 Copy "2_translated/System/OperationDataPack.dat" "3_patched/toidata_release/_Data/System/OperationDataPack.dat"
 
 ::patched and move the file from Inno-remaining repo to the this repo
-pushd "..\Inno-remaining\Mine\"
-CALL insert.bat
-popd
+::pushd "..\Inno-remaining\Mine\"
+::CALL insert.bat
+::popd
 :: I don't think we need the field file or battlebook anymore
 ::Copy "..\Inno-remaining\Mine\Data\Archives\Field\New" 3_patched\toidata_release\_Data\Field
 ::Copy "..\Inno-remaining\Mine\Data\Archives\Battle\New\TutorialData.dat" 3_patched\toidata_release\_Data\Battle
 ::Copy "..\Inno-remaining\Mine\Data\Archives\System\New\BattleBookDataPack.dat" 3_patched\toidata_release\_Data\System
-Copy "..\Inno-remaining\Mine\Data\Archives\System\New\KizunaDataPack.dat" 3_patched\toidata_release\_Data\System
+::Copy "..\Inno-remaining\Mine\Data\Archives\System\New\KizunaDataPack.dat" 3_patched\toidata_release\_Data\System
 ::Copy "..\Inno-remaining\Mine\Data\Archives\System\New\StoryBookDataPack.dat" 3_patched\toidata_release\_Data\System
 
 :: wordwrap script
