@@ -17,9 +17,10 @@ tags = {
     },
     "Color": {
       "red": "4001",
-      "turquoise": "4002",
+      "cyan": "4002",
       "blue": "4003",
       "white": "4004" 
+      
     }
 }
 
@@ -35,6 +36,9 @@ def write_u32(f, value:int):
 
 def write_u16(f, value:int):
    f.write(struct.pack('<H', value))
+   
+def write_u8(f, value:int):
+   f.write(struct.pack('<B', value))
 
 def text_to_bytes(text:str):
 
