@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 def wordwrap_column(csv_file, column, linebreak, wrap_length, font_file, exceptions_file):
   # Load the font
-  font = ImageFont.truetype(font_file, 10)
+  font = ImageFont.truetype(font_file, 30)
   
 
   # Read the CSV file into a pandas DataFrame
@@ -32,24 +32,25 @@ def wordwrap_column(csv_file, column, linebreak, wrap_length, font_file, excepti
         
         for word in text.split(" "):
           # If the word is an exception, add its length to the line length
-          if word in exceptions:
-              line_length += (exceptions[word] + font.getlength(" "))
-          else:
-              line_length += font.getlength(word + " ")
+          #line_length += font.getlength(word + "  ")-5
+          line_length += font.getlength(word)
               
         #if font.getlength(line + word) > wrap_length and word not in exceptions:
           if line_length > wrap_length:
             # If so, add the current line to the wrapped text and start a new line
             wrapped_text += line.rstrip(" ") + "\n" #removing trailing white space
             line = ""
-            line_length = font.getlength(word + " ")
-            
-          # Add the word to the current line
-          line += word + " "
+            line_length = font.getlength(word + "  ")-5
+          else:  
+            # Add the word to the current line
+            line += word + " "
+            line_length += font.getlength("  ")-5
+        
         # Add the remaining line to the wrapped text
         wrapped_text += line
         df.at[index, column] = wrapped_text.rstrip(" ")
         line_length = 0
+        
         
         if len(wrapped_text.split("\n")) > 3:
             print(f"In {csv_file}: Cell in row {index +2} has more than 3 lines after wordwrapping" + '\n')
@@ -59,6 +60,6 @@ def wordwrap_column(csv_file, column, linebreak, wrap_length, font_file, excepti
   df.to_csv(csv_file, index=False, encoding='utf-8')
   
 # Example usage
-wordwrap_column(r'../../2_translated/Story.csv', 'English', 'LineBreak', 240, 'arial.ttf', 'exceptions.txt')
-wordwrap_column(r'../../2_translated/MapData.csv', 'English', 'LineBreak', 240, 'arial.ttf', 'exceptions.txt')
+wordwrap_column(r'../../2_translated/Story.csv', 'English', 'LineBreak', 650, 'DFHSGothic-W5-WING-RKSJ-H-03.ttf', 'exceptions.txt')
+wordwrap_column(r'../../2_translated/MapData.csv', 'English', 'LineBreak', 650, 'arial.ttf', 'exceptions.txt')
 
