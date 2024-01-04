@@ -1,20 +1,41 @@
 import pandas as pd
-from PIL import Image, ImageDraw, ImageFont
 
-def wordwrap_column(csv_file, english, linebreak, field, wrap_length, font_file, exceptions_file):
-  # Load the font
-  font = ImageFont.truetype(font_file, 10)
-  
+def load_letter_values(file_path):
+    letter_values = {}
 
+    try:
+        with open(file_path, 'r',encoding='utf-8') as file:
+            for line in file:
+                letter, value = line.strip().split()
+                letter_values[letter] = int(value)
+    except FileNotFoundError:
+        print(f"Error: File '{file_path}' not found.")
+    except ValueError:
+        print(f"Error: Invalid format in file '{file_path}'.")
+
+    return letter_values
+
+
+def calculate_word_sum(word, letter_values):
+    word_sum = 0
+
+    for letter in word:
+        # Check if the letter is in the dictionary
+        if letter in letter_values:
+            # Add the value of the letter to the sum
+            word_sum += letter_values[letter]
+        else:
+            # Handle the case where the letter is not in the dictionary
+            print(f"Warning: Letter '{letter}' not found in the dictionary.")
+
+    return word_sum
+
+def wordwrap_column(csv_file, english, linebreak, field, wrap_length, letter_values_file):
+  # Load the letter values from the file
+  letter_values = load_letter_values(letter_values_file)
   # Read the CSV file into a pandas DataFrame
   df = pd.read_csv(csv_file, encoding='utf-8')
 
-  # Load the exceptions file into a dictionary with the exception strings as keys and their lengths as values
-  exceptions = {}
-  with open(exceptions_file, 'r') as f:
-    for line in f:
-      exception, length = line.strip().split(';')
-      exceptions[exception] = int(length)
 
   # Wordwrap the text in the specified column of each row
   for index, row in df.iterrows():
@@ -28,6 +49,8 @@ def wordwrap_column(csv_file, english, linebreak, field, wrap_length, font_file,
         text = text.replace("\n", " ")
         wrapped_text = ""
         line = ""
+        
+        #Logic for line addition
         if row[field] == "line_addition":
             line_length = last_line
             text = " " + text
@@ -36,25 +59,24 @@ def wordwrap_column(csv_file, english, linebreak, field, wrap_length, font_file,
             last_line = 0
         
         for word in text.split(" "):
-          # If the word is an exception, add its length to the line length
-          if word in exceptions:
-              line_length += (exceptions[word] + font.getlength(" "))
-          else:
-              line_length += font.getlength(word + " ")
+          line_length += calculate_word_sum(word, letter_values)
               
-        #if font.getlength(line + word) > wrap_length and word not in exceptions:
           if line_length > wrap_length:
             # If so, add the current line to the wrapped text and start a new line
             wrapped_text += line.rstrip(" ") + "\n" #removing trailing white space
-            line = ""
-            line_length = font.getlength(word + " ")
-            
-          # Add the word to the current line
-          line += word + " "
+            #line = ""
+            line = word + ' '
+            line_length = calculate_word_sum(word, letter_values)+14 #for white spaces
+          else:  
+            # Add the word to the current line
+            line += word + " "
+            #line_length += calculate_word_sum(word, letter_values)+17 #for white spaces
+            line_length += 14 #for white spaces
+        
         # Add the remaining line to the wrapped text
         wrapped_text += line
         df.at[index, english] = wrapped_text.rstrip(" ")
-        last_line = line_length - font.getlength(" ") #for the skit line_addition scenario
+        last_line = line_length - 14 #for the skit line_addition scenario
         line_length = 0
         
         if len(wrapped_text.split("\n")) > 3:
@@ -65,4 +87,4 @@ def wordwrap_column(csv_file, english, linebreak, field, wrap_length, font_file,
   df.to_csv(csv_file, index=False, encoding='utf-8')
   
   # Example usage
-wordwrap_column(r'../../2_translated/Skit.csv', 'English', 'LineBreak', 'Field', 257, 'arial.ttf', 'exceptions.txt')
+wordwrap_column(r'../../2_translated/Skit.csv', 'English', 'LineBreak', 'Field', 600, 'letter_values_skit.txt')
