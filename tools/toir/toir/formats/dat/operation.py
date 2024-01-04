@@ -96,7 +96,7 @@ def insert_operations(file_path:str, df_translations):
 
 
         for line_id in range(max_line):
-            print(structs_infos[struct_id])
+            #print(structs_infos[struct_id])
             f.read(structs_infos[struct_id]['pad_number'])
             df_line = df_struct[df_struct['Line'] == line_id]
                 

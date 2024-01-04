@@ -123,9 +123,10 @@ movs r3,0x0
 .org 0x8115CF70
 .asciiz "  "
 
-; ProcField setIsMonospace = false
-.org 0x810C502E
-movs r1,/*#*/0x00
+;;This breaks the inn gald line
+;; ProcField setIsMonospace = false
+;.org 0x810C502E
+;movs r1,/*#*/0x00
 
 ; ProcBattle setIsMonospace = false
 .org 0x8103F356
@@ -133,12 +134,12 @@ movs r1,/*#*/0x00
 .org 0x8103F364
 movs r1,/*#*/0x00
 
-; font raster thing (breaks notice, I think)
-.org 0x810063E0
-.byte 0xb1, 0xf8, 0x66, 0x10 ;ldrh.w     r1,[r1,#0x66]
-
-.org 0x8100664E
-movs r1,/*#*/0x00 ; og .byte 0xf1, 0x69 ldr        r1,[r6,#0x1c]
+; font raster thing (breaks the cooking and newgame plus notice but make the letter spacing tighter on cooking menu)
+;.org 0x810063E0
+;.byte 0xb1, 0xf8, 0x66, 0x10 ;ldrh.w     r1,[r1,#0x66]
+;
+;.org 0x8100664E
+;movs r1,/*#*/0x00 ; og .byte 0xf1, 0x69 ldr        r1,[r6,#0x1c]
 
 
 
