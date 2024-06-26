@@ -82,7 +82,7 @@ def extract_pack_field(l7cdir, outputdir):
     with open(outputdir / 'Locations3.csv', 'w', encoding='utf-8', newline='') as f:
         write_csv_data(f, 'i', ['index', 'japanese'], locations3)
         
-    with open(outputdir / 'Movies.csv', 'w', encoding='utf-8', newline='') as f:
+    with open(outputdir / 'Movie.csv', 'w', encoding='utf-8', newline='') as f:
         write_csv_data(f, 'i', ['index', 'japanese'], movie)      
         
     with open(outputdir / 'SkitNames.csv', 'w', encoding='utf-8', newline='') as f:

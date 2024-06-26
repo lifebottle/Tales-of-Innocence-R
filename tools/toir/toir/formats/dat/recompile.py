@@ -26,9 +26,9 @@ _RECOMPILERS = [
     recompile_storybook, #done copied stewie's code
     recompile_tutorial, #done stewie
     recompile_operations, #done with Stewie's help
-    recompile_shop_names, #wip hex edited atm
+    recompile_shop_names, #done with Stewie's help
     recompile_bond, #copied stewie's code
-    recompile_mission  #wip hex edited atm
+    recompile_mission  #done with Stewie's help
 ]
 
 def recompile_dat(l7cdir, csvdir, outputdir):

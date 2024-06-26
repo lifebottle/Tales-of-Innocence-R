@@ -38,37 +38,63 @@ def extract_audio(in_folder: Path, out_folder: Path, converter_path: Path) -> No
             parts = struct.unpack_from("<I", header, 0x00)[0]
             pad = struct.unpack_from("<3I", header, 0x04)
 
-            assert parts == 3, f"Parts amount different expected 3, got {parts}"
+            # ignore the non-3-part files
+            if parts != 3:
+                print(f"Parts amount different expected 3, got {parts} in file {file.as_posix()}. Skipping...")
+                continue
             assert all([x == 0 for x in pad]), f"Pading_1 is not 0!"
 
             # Read the parts (assumed 3)
             offsets = struct.unpack_from("<I4xI4xI4x", header, 0x10)
             sizes = struct.unpack_from("<4xI4xI4xI", header, 0x10)
-            blobs = []
+            
+            # check for Battle-like files (lazy check)
+            pck = f
+            f.seek(offsets[2])
+            if f.read(4) == b"\x03\x00\x00\x00":
+                f.seek(offsets[2])
+                pck = BytesIO(f.read(sizes[2]))
+                header = pck.read(0x30)
+                # Read the parts (assumed 3)
+                offsets = struct.unpack_from("<I4xI4xI4x", header, 0x10)
+                sizes = struct.unpack_from("<4xI4xI4xI", header, 0x10)
 
+
+            blobs = []
             for off, size in zip(offsets, sizes):
-                f.seek(off)
-                blobs.append(f.read(size))
+                pck.seek(off)
+                blobs.append(pck.read(size))
 
             # Only PPVA is of interest, so let's yoink that
             ppva_pos = struct.unpack_from("<I", blobs[2], 0x18)[0]
-            f.seek(ppva_pos + offsets[2])
-            ppva_blob = f.read()
+            pck.seek(ppva_pos + offsets[2])
+            ppva_blob = pck.read()
 
             ppva_magic = ppva_blob[:4]
             assert ppva_magic == b"PPVA", f"PPVA has wrong MAGIC"
-            riff_count = struct.unpack_from("<I", ppva_blob, 0x14)[0] + 1
+            index_low, index_high = struct.unpack_from("<II", ppva_blob, 0x10)
+            riff_count = index_high - index_low + 1
 
             # Get RIFF's
             # riff_blob = BytesIO(blobs[0])
             riff_ptrs = struct.unpack_from("<" + ("I12x" * riff_count), ppva_blob, 0x20)
-            riff_sizes = struct.unpack_from("<" + ("8xI4x" * riff_count), ppva_blob, 0x20
+            riff_sizes = struct.unpack_from(
+                "<" + ("8xI4x" * riff_count), ppva_blob, 0x20
+            )
+            riff_srates = struct.unpack_from(
+                "<" + ("4xI8x" * riff_count), ppva_blob, 0x20
             )
 
         vag_folder = in_folder / "temp" / file.stem
         vag_folder.mkdir(exist_ok=True, parents=True)
-        for i, (off, sz) in enumerate(zip(riff_ptrs, riff_sizes), 1):
+        for i, (off, sz, sr) in enumerate(zip(riff_ptrs, riff_sizes, riff_srates), 1):
+            if 0xFFFFFFFF in {off, sz, sr}:
+                continue
             with open(vag_folder / f"{file.stem}_{i}.vag", "wb+") as o:
+                o.write(b"VAGp")
+                o.write(struct.pack(">IIIIIIHH", 0x30000, 0, sz, sr, 0, 0, 0, 0x100))
+                o.write(struct.pack(">IIII", 0, 0, 0, 0))
+                o.write(struct.pack(">IIII", 0, 0, 0, 0))
                 o.write(blobs[0][off : off + sz])
 
         audio_folder = out_folder / file.stem

@@ -29,7 +29,7 @@ def main() -> None:
 
 def extract_audio(in_folder: Path, out_folder: Path, converter_path: Path) -> None:
     print(str(in_folder))
-    for file in in_folder.glob("*.pck"):
+    for file in in_folder.glob("*.dat"):
         with open(file, "rb") as f:
             # Read the header
             header = f.read(0x30)
@@ -62,13 +62,21 @@ def extract_audio(in_folder: Path, out_folder: Path, converter_path: Path) -> No
             # Get RIFF's
             # riff_blob = BytesIO(blobs[0])
             riff_ptrs = struct.unpack_from("<" + ("I12x" * riff_count), ppva_blob, 0x20)
-            riff_sizes = struct.unpack_from("<" + ("8xI4x" * riff_count), ppva_blob, 0x20
+            riff_sizes = struct.unpack_from(
+                "<" + ("8xI4x" * riff_count), ppva_blob, 0x20
+            )
+            riff_srates = struct.unpack_from(
+                "<" + ("4xI8x" * riff_count), ppva_blob, 0x20
             )
 
         vag_folder = in_folder / "temp" / file.stem
         vag_folder.mkdir(exist_ok=True, parents=True)
-        for i, (off, sz) in enumerate(zip(riff_ptrs, riff_sizes), 1):
+        for i, (off, sz, sr) in enumerate(zip(riff_ptrs, riff_sizes, riff_srates), 1):
             with open(vag_folder / f"{file.stem}_{i}.vag", "wb+") as o:
+                o.write(b"VAGp")
+                o.write(struct.pack(">IIIIIIHH", 0x30000, 0, sz, sr, 0, 0, 0, 0x100))
+                o.write(struct.pack(">IIII", 0, 0, 0, 0))
+                o.write(struct.pack(">IIII", 0, 0, 0, 0))
                 o.write(blobs[0][off : off + sz])
 
         audio_folder = out_folder / file.stem
