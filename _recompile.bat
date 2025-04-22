@@ -3,7 +3,7 @@
 ::Using BAT file, escape an extra % like this %%20 instead.
 if not exist "2_translated" mkdir 2_translated
 
-curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Skits&range=A:I" > 2_translated/Skit.csv
+curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Skits&range=A:H" > 2_translated/Skit.csv
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Story&range=A:F" > 2_translated/Story.csv
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Mapdata/NPC&range=A:G" > 2_translated/MapData.csv
 curl -L "https://docs.google.com/spreadsheets/d/1hfZIQXpGyQw6dQtG_oVKI7bkO0teIUG9bXN9kKrANBw/gviz/tq?tqx=out:csv&sheet=Eboot&range=A:C" > 2_translated/eboot.csv

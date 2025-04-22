@@ -40,6 +40,7 @@ def wordwrap_column(csv_file, column, linebreak, wrap_length, font_file, letter_
   # Read the CSV file into a pandas DataFrame
   df = pd.read_csv(csv_file, encoding='utf-8')
 
+
   # Wordwrap the text in the specified column of each row
   for index, row in df.iterrows():
     if row[5] == True:
@@ -53,31 +54,30 @@ def wordwrap_column(csv_file, column, linebreak, wrap_length, font_file, letter_
         wrapped_text = ""
         line = ""
         line_length = 0
-        line_count = 0
-            
+        
         for word in text.split(" "):
-            if line_count == 1:
-                current_wrap_length = 683  # Second line wrap length
-            else:
-                current_wrap_length = wrap_length  # Default wrap length
-
-            line_length += calculate_word_sum(word, letter_values) - 2  # Adjusted for letter spacing
-            
-            if line_length > current_wrap_length:
-                wrapped_text += line.rstrip(" ") + "\n"
-                line = word + ' '
-                line_length = calculate_word_sum(word, letter_values) + 18  # Adjusted for spaces
-                line_count += 1
-            else:
-                line += word + " "
-                line_length += 18  # Adjusted for spaces
-
+          line_length += calculate_word_sum(word, letter_values)-2 #-2 remove the last letter spacing
+              
+          if line_length > wrap_length:
+            # If so, add the current line to the wrapped text and start a new line
+            wrapped_text += line.rstrip(" ") + "\n" #removing trailing white space
+            #line = ""
+            line = word + ' '
+            line_length = calculate_word_sum(word, letter_values)+18 #for white spaces
+          else:  
+            # Add the word to the current line
+            line += word + " "
+            #line_length += calculate_word_sum(word, letter_values)+17 #for white spaces
+            line_length += 18 #for white spaces
+        
+        # Add the remaining line to the wrapped text
         wrapped_text += line
-        df.iat[index, 4] = wrapped_text.rstrip(" ") #iat is used instead of .at when you dont have a header for the df
+        df.at[index, column] = wrapped_text.rstrip(" ")
+        line_length = 0
         
         
         if len(wrapped_text.split("\n")) > 2:
-            print(f"In {csv_file}: Cell in row {index +3} has more than 2 lines after wordwrapping" + '\n')
+            print(f"In {csv_file}: Cell in row {index +2} has more than 2 lines after wordwrapping" + '\n')
             print(wrapped_text + "\n====================\n")
 
   # Write the modified DataFrame back to the CSV file
